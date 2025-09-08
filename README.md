@@ -1,4 +1,4 @@
-# Abstract
+# AUTOMATED SCORING SYSTEM
 
 **ABSTRACT**
 
