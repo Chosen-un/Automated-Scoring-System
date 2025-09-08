@@ -1,0 +1,1494 @@
+student_id,original_question,student_answer,predicted_score,generated_rationale,generated_feedback
+01,Q1: Define what a system is and give one example from nature including its inputs processes and outputs.,A system is stuff working together. Like trees,0,"{
+  ""Definition Accuracy"": 0,
+  ""Example Relevance"": 0,
+  ""Components Explanation"": 0,
+  ""Clarity and Structure"": 0
+}
+
+The student's answer lacks clarity and structure. The definition of a system is incomplete and inaccurate. A system is not just 'stuff working together,' but rather a set of interconnected components that work together to achieve a common goal. The example provided, 'Like trees,' is not relevant to the concept of a system and does not demonstrate an understanding of the inputs, processes, and outputs of a system. The student needs to revisit the definition of a system and provide a clear and relevant example that includes the necessary components.","### Strengths
+* None
+### Areas for Improvement
+* Define a system accurately and provide a clear example from nature that includes inputs, processes, and outputs.
+### Advice
+* Keep trying! Systems are all around us, and with a little more practice, you'll be able to define and explain them confidently."
+02,Q1: Define what a system is and give one example from nature including its inputs processes and outputs.,"A system is like when things are connnected. Like a forest. Water is an input. When it rains, trees grow.",3,"{
+  ""Definition Accuracy"": 0.5,
+  ""Example Relevance"": 0.5,
+  ""Components Explanation"": 1,
+  ""Clarity and Structure"": 0.5
+}
+
+The student's answer shows some understanding of the concept of a system, but there are areas for improvement. For Definition Accuracy, the student's definition is partially accurate, as it mentions connection, but lacks clarity and precision. For Example Relevance, the student provides a relevant example from nature, but it's a bit simplistic. For Components Explanation, the student attempts to explain the components of the system, but it's not entirely clear. For Clarity and Structure, the student's answer is somewhat unclear and lacks a logical structure. Overall, the student demonstrates some understanding of the concept, but needs to work on providing more accurate and detailed explanations.","### Strengths
+* You correctly identified a system in nature (a forest).
+### Areas for Improvement
+* Try to provide a more accurate definition of a system (e.g., a set of connected things that work together).
+* Elaborate on how the inputs (water) and processes (trees growing) connect to the outputs (trees growing).
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more practice, you'll become an expert in defining systems."
+03,Q1: Define what a system is and give one example from nature including its inputs processes and outputs.,A system is parts that connect to each other. An example is a rainforest. Sun and water help the plants grow and they give off oxygen.,2,"{
+  ""Definition Accuracy"": 1,
+  ""Example Relevance"": 1,
+  ""Components Explanation"": 0,
+  ""Clarity and Structure"": 0
+}
+
+The student demonstrates a basic understanding of what a system is, but their definition could be more comprehensive. They provide a relevant example from nature, a rainforest, and attempt to explain its inputs (sun and water) and outputs (oxygen). However, they fail to explain the processes that occur within the system. The student's answer lacks clarity and structure, making it difficult to follow their thought process.","### Strengths
+* You correctly defined a system and provided a relevant example from nature.
+### Areas for Improvement
+* Try to explain the processes that occur within the system, such as how plants use sunlight for photosynthesis.
+### Advice
+* Keep up the great work! Remember to include all the necessary components of a system in your explanation."
+04,Q1: Define what a system is and give one example from nature including its inputs processes and outputs.,"System is a group of things together. The human body is an example. We eat food and this is an input. This gives us energy, which could be an output.",3,"{
+  ""Definition Accuracy"": 0.5,
+  ""Example Relevance"": 0.5,
+  ""Components Explanation"": 1,
+  ""Clarity and Structure"": 0.5
+}
+
+The student demonstrates a basic understanding of what a system is, but their definition is not entirely accurate. A system is not just a group of things together, but rather a set of interconnected components that work together to achieve a common goal. The student's example of the human body is relevant, but they only mention two components (inputs and outputs) without explaining the processes that occur in between. The student's answer is clear, but lacks structure and organization. Overall, the student shows potential, but needs to refine their understanding and explanation of systems.","### Strengths
+* You correctly identified the human body as an example of a system.
+### Areas for Improvement
+* Try to define a system more accurately, e.g., 'A system is a set of interconnected components that work together to achieve a common goal.'
+* Elaborate on the processes that occur in the human body, e.g., how food is digested and converted into energy.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more practice, you'll become a master of systems!"
+05,Q1: Define what a system is and give one example from nature including its inputs processes and outputs.,"A system is things connected or working together like a rainforest. Sunlight is like the stuff that goes in, then plants make food and oxygen for the animals",2,"{
+  ""Definition Accuracy"": 1,
+  ""Example Relevance"": 1,
+  ""Components Explanation"": 0,
+  ""Clarity and Structure"": 0
+}
+
+The student demonstrates a basic understanding of what a system is, but their definition could be more precise. They correctly identify the inputs (sunlight) and processes (plants making food and oxygen) in their example, but the outputs are not explicitly stated. The student's answer lacks clarity and structure, making it difficult to follow their train of thought. The example provided is relevant to the topic, but it could be more detailed and comprehensive.","### Strengths
+* You correctly identified the inputs (sunlight) and processes (plants making food and oxygen) in your example.
+### Areas for Improvement
+* Try to be more specific in your definition of a system. What exactly do you mean by 'things connected or working together'? Also, make sure to clearly state the outputs of the system.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more practice, you'll be able to provide more detailed and accurate answers."
+06,Q1: Define what a system is and give one example from nature including its inputs processes and outputs.,"A system is parts that are connected and work together, like a rainforest. Sun is the input, or also water, then the plants would grow, this is a process. Then animals breathe the oxygen and eat the plants, which are outputs.",3,"{
+  ""Definition Accuracy"": 1,
+  ""Example Relevance"": 1,
+  ""Components Explanation"": 1,
+  ""Clarity and Structure"": 0
+}
+
+The student demonstrates a good understanding of the concept of a system, accurately defining it as 'parts that are connected and work together.' They also provide a relevant example from nature, the rainforest, and attempt to explain its inputs (sun and water), processes (plants growing), and outputs (animals breathing oxygen and eating plants). However, the student's explanation of the components is somewhat simplistic and lacks detail. The structure of the answer is also unclear, making it difficult to follow the student's train of thought. Overall, the student shows promise, but could benefit from more elaboration and clarity in their response.","### Strengths
+* You correctly defined a system as 'parts that are connected and work together.'
+* You provided a relevant example from nature, the rainforest.
+### Areas for Improvement
+* Try to elaborate more on how the inputs (sun and water) connect to the processes (plants growing) and outputs (animals breathing oxygen and eating plants).
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more practice, you'll be able to explain complex concepts like a pro!"
+07,Q1: Define what a system is and give one example from nature including its inputs processes and outputs.,"Systems are different parts working together. The human body is an example. When we eat, food is an input or air is another example. Then a process is eating or breathing. Example of output is when we go to the toilet, or when we use energy to move also.",3,"{
+  ""Definition Accuracy"": 0.5,
+  ""Example Relevance"": 0.5,
+  ""Components Explanation"": 1,
+  ""Clarity and Structure"": 0.5
+}
+
+The student demonstrates a basic understanding of what a system is, but their definition could be more accurate. A system is a set of interconnected components that work together to achieve a common goal. The student's example of the human body is relevant, but they could have elaborated more on the inputs, processes, and outputs. For instance, they mentioned eating as an input, but didn't explain how the body processes food or what the output is. The student's writing is clear, but the structure could be improved by providing a clear introduction, body, and conclusion.","### Strengths
+* You provided a relevant example of a system in nature (the human body).
+### Areas for Improvement
+* Try to elaborate more on how the inputs, processes, and outputs connect in your example.
+### Advice
+* Keep up the great work! You're on the right track to understanding complex concepts like systems."
+08,Q1: Define what a system is and give one example from nature including its inputs processes and outputs.,A system is a set of connected parts that work together. For example a rainforest in nature. The inputs are things like sun light and rain water. The processes are plants growing and animals eating. The outputs are clean air and seeds.,3,"{
+  ""Definition Accuracy"": 1,
+  ""Example Relevance"": 1,
+  ""Components Explanation"": 1,
+  ""Clarity and Structure"": 0
+}
+
+The student demonstrates a good understanding of the concept of a system, accurately defining it as a set of connected parts that work together. The example provided, a rainforest, is relevant and includes inputs (sunlight and rainwater), processes (plants growing and animals eating), and outputs (clean air and seeds). However, the student's explanation of the components is somewhat simplistic and lacks depth. The clarity and structure of the answer could be improved by providing more details and organizing the information in a clearer manner.","### Strengths
+* You correctly defined a system and provided a relevant example from nature.
+### Areas for Improvement
+* Try to elaborate more on how the inputs, processes, and outputs of the rainforest system work together.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more detail, your answers will be even stronger."
+09,Q1: Define what a system is and give one example from nature including its inputs processes and outputs.,A system is a group of connected parts that work together to do something. An example from nature is the rainforest. Inputs are sunlight and nutrients from soil. Processes include photosynthesis where plants turn sun into energy. Outputs are oxygen released into the air and fruits for animals to eat.,4,"{
+  ""Definition Accuracy"": 1,
+  ""Example Relevance"": 1,
+  ""Components Explanation"": 1,
+  ""Clarity and Structure"": 1
+}
+
+The student provided a clear and concise definition of a system, earning full points for Definition Accuracy. The example of a rainforest is relevant and accurately includes inputs (sunlight and nutrients), processes (photosynthesis), and outputs (oxygen and fruits). However, the student could have elaborated more on the components explanation, which is why it only earned 1 point. The student's answer is well-structured and easy to follow, earning full points for Clarity and Structure.","### Strengths
+* You provided a clear and concise definition of a system.
+* Your example of a rainforest is relevant and well-explained.
+### Areas for Improvement
+* Try to elaborate more on how the components of a system work together.
+### Advice
+* Keep up the great work! You're doing a fantastic job of explaining complex concepts in a simple way."
+10,Q1: Define what a system is and give one example from nature including its inputs processes and outputs.,"A system means parts linked up and working as a team. Like the human body. Inputs are food and oxygen. Processes are digestion breaking down food and lungs breathing air, and outputs are energy for moving and waste like poo.",3,"{
+  ""Definition Accuracy"": 1,
+  ""Example Relevance"": 1,
+  ""Components Explanation"": 1,
+  ""Clarity and Structure"": 0
+}
+
+The student demonstrates a good understanding of the concept of a system, accurately defining it as 'parts linked up and working as a team.' They also provide a relevant example from nature, the human body, and attempt to explain its inputs, processes, and outputs. However, their explanation of components is somewhat simplistic and lacks depth. The clarity and structure of their answer could be improved by providing a clearer and more organized explanation.","### Strengths
+* You correctly defined a system and provided a relevant example from nature.
+### Areas for Improvement
+* Try to elaborate more on how the processes in the human body connect to its inputs and outputs.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more practice, you'll become an expert at explaining complex concepts."
+11,Q1: Define what a system is and give one example from nature including its inputs processes and outputs.,"Systems are groups of things connected that work together. Rainforest is a good nature example. Inputs include stuff like sun water and soil. Plants grow using light and animals help spread seeds, and these are processes. Outputs include fresh air which helps animals live.",3,"{
+  ""Definition Accuracy"": 1,
+  ""Example Relevance"": 1,
+  ""Components Explanation"": 1,
+  ""Clarity and Structure"": 0
+}
+
+The student demonstrates a good understanding of the concept of a system, defining it as 'groups of things connected that work together.' This definition is accurate, earning a score of 1 for Definition Accuracy. The student also provides a relevant example from nature, the rainforest, which is a good representation of a system. This earns a score of 1 for Example Relevance. However, the student's explanation of the components of the system is somewhat limited, only mentioning inputs, processes, and outputs without elaborating on how they connect. This earns a score of 1 for Components Explanation. Unfortunately, the student's response lacks clarity and structure, making it difficult to follow their train of thought. This earns a score of 0 for Clarity and Structure.","### Strengths
+* You correctly defined a system as 'groups of things connected that work together.'
+* You provided a relevant example from nature, the rainforest.
+### Areas for Improvement
+* Try to elaborate on how the inputs, processes, and outputs connect in the rainforest system.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more detail, your answers will be even stronger."
+12,Q1: Define what a system is and give one example from nature including its inputs processes and outputs.,A system is connected parts working together. Example: rainforest. Inputs like sunlight and rain go in. Processes are trees making food from sun. Outputs are oxygen and water back to air.,3,"{
+  ""Definition Accuracy"": 1,
+  ""Example Relevance"": 1,
+  ""Components Explanation"": 1,
+  ""Clarity and Structure"": 0
+}
+
+The student demonstrates a good understanding of the concept of a system, defining it as 'connected parts working together.' This definition is accurate, earning them full points for Definition Accuracy. The example of a rainforest is relevant and includes inputs (sunlight and rain), processes (trees making food from sunlight), and outputs (oxygen and water back to the air), which earns them full points for Example Relevance. However, the student's explanation of the components is brief and lacks detail, earning them 1 point for Components Explanation. Unfortunately, the student's answer lacks clarity and structure, making it difficult to follow, which results in a score of 0 for Clarity and Structure.","### Strengths
+* You correctly defined a system as 'connected parts working together.'
+* Your example of a rainforest is relevant and includes inputs, processes, and outputs.
+### Areas for Improvement
+* Try to elaborate on how the processes in your example connect to the inputs and outputs.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more detail, your answers will be even stronger."
+13,Q1: Define what a system is and give one example from nature including its inputs processes and outputs.,The definition of a system is a group of parts that are connected and work together. In nature the human body is an example. Inputs include food and water. Processes are things like heart pumping blood. Outputs are movement and heat.,3,"{
+  ""Definition Accuracy"": 1,
+  ""Example Relevance"": 1,
+  ""Components Explanation"": 1,
+  ""Clarity and Structure"": 0
+}
+
+The student demonstrates a good understanding of the definition of a system, accurately defining it as a group of parts that are connected and work together. They also provide a relevant example from nature, the human body, and attempt to explain its inputs, processes, and outputs. However, the student's explanation of the components is somewhat simplistic and lacks detail. The clarity and structure of the answer are also lacking, as the student fails to provide a clear and organized explanation.","### Strengths
+* You correctly defined a system and provided a relevant example from nature.
+### Areas for Improvement
+* Try to elaborate more on the processes and outputs of the human body, such as how the heart pumping blood affects movement and heat.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more detail and organization, your answers will be even stronger!"
+14,Q2: Describe two actions individuals can take to reduce their impact on Earth's systems and explain why they matter.,Actions: walk eat less. They good.,0,"{
+  ""Action Identification"": 0,
+  ""Explanation of Impact"": 0,
+  ""Relevance to Systems"": 0,
+  ""Depth and Clarity"": 0
+}
+
+The student's answer lacks clarity and specificity. The actions 'walk' and 'eat less' are vague and do not demonstrate a clear understanding of how these actions can reduce an individual's impact on Earth's systems. The student also fails to provide any explanation of why these actions matter, which is a crucial aspect of the question. Furthermore, the student's answer does not demonstrate any relevance to the systems affected by human actions, such as natural systems. The student's response does not meet the criteria for any of the rubric points.","### Strengths
+* None
+### Areas for Improvement
+* Provide specific and clear actions that individuals can take to reduce their impact on Earth's systems.
+* Explain why these actions matter and how they connect to the systems affected by human actions.
+### Advice
+* Keep trying! Remember to be specific and clear in your answers, and don't be afraid to ask for help if you need it."
+15,Q2: Describe two actions individuals can take to reduce their impact on Earth's systems and explain why they matter.,One action is turn off lights. Second is plant tree. They help earth.,2,"{
+  ""Action Identification"": 1,
+  ""Explanation of Impact"": 0,
+  ""Relevance to Systems"": 1,
+  ""Depth and Clarity"": 0
+}
+
+The student has demonstrated a basic understanding of the topic by identifying two actions that individuals can take to reduce their impact on Earth's systems. However, they have not provided a clear explanation of the impact of these actions. The student has shown some relevance to the systems by mentioning the importance of trees, but the connection between turning off lights and reducing impact is not clear. The depth and clarity of the student's answer are limited, as they have not provided any detailed explanation or examples to support their claims. The teacher may want to consider providing additional guidance on how to explain the impact of individual actions on the environment.","### Strengths
+* You correctly identified two actions that individuals can take to reduce their impact on Earth's systems.
+### Areas for Improvement
+* Try to explain why turning off lights and planting trees are important for the Earth's systems.
+* Provide more details and examples to support your claims.
+### Advice
+* Keep up the great work! You're on the right track, and with a little more practice, you'll be able to explain the impact of individual actions on the environment in no time."
+16,Q2: Describe two actions individuals can take to reduce their impact on Earth's systems and explain why they matter.,Reduce energy by not using car. Recycle. Matters cos planet.,2,"{
+  ""Action Identification"": 1,
+  ""Explanation of Impact"": 0,
+  ""Relevance to Systems"": 1,
+  ""Depth and Clarity"": 0
+}
+
+The student has demonstrated a good understanding of the concept of reducing human impact on Earth's systems. They have identified two actions: reducing energy by not using a car and recycling. However, the explanation of impact is lacking, as the student only mentions 'cos planet' without elaborating on the consequences of these actions. The relevance to systems is partially met, as the student has mentioned two actions, but the connection to Earth's systems is not explicitly stated. The depth and clarity of the answer are also limited, as the student's response is brief and lacks supporting details.","### Strengths
+* You correctly identified two actions individuals can take to reduce their impact on Earth's systems.
+### Areas for Improvement
+* Elaborate on how these actions connect to Earth's systems and the consequences of not taking them.
+### Advice
+* Keep up the great work! Remember to explain why your actions matter and how they impact the planet."
+17,Q2: Describe two actions individuals can take to reduce their impact on Earth's systems and explain why they matter.,Two actions: walk to school instead of car and plant trees in garden. Walking reduces pollution. Trees help air. They matter for the environment.,3,"{
+  ""Action Identification"": 1,
+  ""Explanation of Impact"": 1,
+  ""Relevance to Systems"": 1,
+  ""Clarity and Structure"": 0
+}
+
+The student has demonstrated a good understanding of the impact of individual actions on the environment. They have identified two relevant actions (walking to school and planting trees) and provided a brief explanation of their impact. However, the student's answer lacks clarity and structure, making it difficult to follow their train of thought. The student could benefit from providing more detailed explanations of why these actions matter and how they connect to the broader systems of the Earth.","### Strengths
+* You've identified two actions that can help reduce our impact on the environment!
+* You've provided a good starting point for explaining the impact of these actions.
+### Areas for Improvement
+* Try to elaborate on why walking to school and planting trees are important for the environment. How do they connect to the bigger picture?
+* Consider using more descriptive language to make your answer easier to follow.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more practice, you'll be able to explain these concepts even more clearly."
+18,Q2: Describe two actions individuals can take to reduce their impact on Earth's systems and explain why they matter.,Actions are eat less meat and reuse bags. Less meat means less water used. Bags reduce plastic. Important for nature.,3,"{
+  ""Action Identification"": 1,
+  ""Explanation of Impact"": 1,
+  ""Relevance to Systems"": 1,
+  ""Depth and Clarity"": 0
+}
+
+The student has demonstrated a good understanding of the topic by identifying two actions that individuals can take to reduce their impact on Earth's systems. They have correctly identified eating less meat and reusing bags as actions that can help reduce water usage and plastic waste, respectively. However, the explanation of impact is somewhat simplistic and lacks depth. The student has not fully explored the connections between these actions and the broader systems they affect. Additionally, the relevance to systems could be stronger, as the student has not explicitly linked these actions to specific natural systems. Finally, the depth and clarity of the answer are limited by the brevity and lack of detail in the explanation.","### Strengths
+* You correctly identified two actions that individuals can take to reduce their impact on Earth's systems.
+### Areas for Improvement
+* Try to elaborate on how these actions connect to the broader natural systems, such as water cycles or ecosystems.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more detail and explanation, your answers can be even more effective."
+19,Q2: Describe two actions individuals can take to reduce their impact on Earth's systems and explain why they matter.,Individuals can reduce energy by turning off lights when not needed and plant trees. Turning off lights saves electricity which comes from burning stuff that pollutes. Planting trees absorbs bad gas. They matter to keep earth balanced.,4,"{
+  ""Action Identification"": 1,
+  ""Explanation of Impact"": 1,
+  ""Relevance to Systems"": 2,
+  ""Depth and Clarity"": 0
+}
+
+The student has demonstrated a good understanding of the impact of human actions on the environment. They have correctly identified two actions individuals can take to reduce their impact on Earth's systems: turning off lights and planting trees. The student has also provided a clear explanation of the impact of these actions, stating that turning off lights saves electricity and reduces pollution, while planting trees absorbs bad gas. However, the student could have provided more depth and clarity in their explanation, as their statements are somewhat simplistic. Additionally, the student could have explored the relevance of these actions to larger systems, such as the impact on ecosystems or the global carbon cycle. Overall, the student has shown a good start in understanding the importance of individual actions in reducing their impact on the environment.","### Strengths
+* You correctly identified two actions individuals can take to reduce their impact on Earth's systems.
+* You provided a clear explanation of the impact of these actions.
+### Areas for Improvement
+* Try to elaborate on how these actions connect to larger systems, such as ecosystems or the global carbon cycle.
+### Advice
+* Keep up the great work! You're on the right track in understanding the importance of individual actions in reducing their impact on the environment."
+20,Q2: Describe two actions individuals can take to reduce their impact on Earth's systems and explain why they matter.,Two actions: cycle to places instead of car and recycle rubbish. Cycling means less car fumes which warm the planet. Recycling stops waste in landfills. These matter because they help ecosystems like forests stay healthy and not cross boundaries like climate change.,3,"{
+  ""Action Identification"": 1,
+  ""Explanation of Impact"": 1,
+  ""Relevance to Systems"": 1,
+  ""Depth and Clarity"": 0
+}
+
+The student has demonstrated a good understanding of the topic by identifying two actions individuals can take to reduce their impact on Earth's systems. They have also provided a clear explanation of the impact of these actions, specifically mentioning the reduction of car fumes and waste in landfills. However, the student's answer lacks depth and clarity, as they do not provide a detailed explanation of how these actions connect to the broader systems of the Earth. For example, they mention that cycling helps ecosystems like forests stay healthy, but they do not elaborate on how this connection works. Additionally, the student's answer could benefit from a more nuanced understanding of the concept of 'crossing boundaries like climate change'. Overall, the student shows promise, but could benefit from further development of their critical thinking and explanation skills.","### Strengths
+* You correctly identified two actions individuals can take to reduce their impact on Earth's systems.
+* You provided a clear explanation of the impact of these actions.
+### Areas for Improvement
+* Elaborate on how cycling and recycling connect to the broader systems of the Earth.
+* Consider providing more specific examples or details to support your explanation.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more practice, you'll be able to provide even more detailed and nuanced explanations."
+21,Q2: Describe two actions individuals can take to reduce their impact on Earth's systems and explain why they matter.,Actions: use less water by shorter showers and eat veggie meals. Shorter showers save water for rivers. Veggie means less cows that make gas. Matters for planetary boundaries and animals.,3,"{
+  ""Action Identification"": 1,
+  ""Explanation of Impact"": 1,
+  ""Relevance to Systems"": 1,
+  ""Depth and Clarity"": 0
+}
+
+The student has demonstrated a good understanding of the topic by identifying two actions individuals can take to reduce their impact on Earth's systems. They have correctly identified using less water by taking shorter showers and eating veggie meals as actions that can make a difference. The student has also attempted to explain the impact of these actions, stating that shorter showers save water for rivers and veggie meals mean less cows that make gas. However, the student's explanation of impact is somewhat simplistic and lacks depth. The student's answer is relevant to the topic of human impact on natural systems, but could benefit from more clarity and detail. The student has not fully demonstrated an understanding of the concept of planetary boundaries and how these actions connect to it.","### Strengths
+* You correctly identified two actions individuals can take to reduce their impact on Earth's systems.
+### Areas for Improvement
+* Try to elaborate on how these actions connect to the concept of planetary boundaries and how they affect the environment.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more detail and explanation, your answers will be even stronger."
+22,Q2: Describe two actions individuals can take to reduce their impact on Earth's systems and explain why they matter.,People can reduce impact by walking or biking to school and planting trees at home. Walking cuts down on car pollution that affects the air system. Trees take in CO2 which helps with climate boundaries. These actions matter because they keep ecosystems connected and stop tipping points.,3,"{
+  ""Action Identification"": 1,
+  ""Explanation of Impact"": 1,
+  ""Relevance to Systems"": 1,
+  ""Depth and Clarity"": 0
+}
+
+The student demonstrates a good understanding of the impact of human actions on natural systems. They correctly identify two actions individuals can take to reduce their impact: walking or biking to school and planting trees at home. The student also provides a clear explanation of the impact of these actions on the air system and climate boundaries. However, the student's explanation of the impact of these actions is somewhat superficial and lacks depth. The student could have explored the connections between these actions and other systems, such as the water cycle or food chain. Additionally, the student's writing could benefit from more clarity and organization. For example, the student jumps abruptly from discussing the impact of walking to discussing the importance of keeping ecosystems connected. Overall, the student shows promise, but could benefit from further development of their critical thinking and writing skills.","### Strengths
+* You correctly identified two actions individuals can take to reduce their impact on Earth's systems.
+* You provided a clear explanation of the impact of these actions on the air system and climate boundaries.
+### Areas for Improvement
+* Try to elaborate on how these actions connect to other systems, such as the water cycle or food chain.
+* Work on organizing your writing to make it easier to follow.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more practice, you'll be able to explain complex ideas in a clear and concise way."
+23,Q2: Describe two actions individuals can take to reduce their impact on Earth's systems and explain why they matter.,People can turn off taps to save water and recycle plastic. Saving water helps freshwater boundaries. Recycling reduces pollution in oceans. They matter for earth's systems like water cycle and biodiversity.,3,"{
+  ""Action Identification"": 1,
+  ""Explanation of Impact"": 1,
+  ""Relevance to Systems"": 1,
+  ""Depth and Clarity"": 0
+}
+
+The student has demonstrated a good understanding of the impact of individual actions on Earth's systems. They have identified two relevant actions (turning off taps and recycling plastic) and explained their impact on freshwater boundaries and ocean pollution. However, the student's explanation of impact is somewhat superficial and lacks depth. The student also fails to provide a clear connection between the actions and the systems they affect (water cycle and biodiversity). The score for Relevance to Systems is reduced due to the lack of specific examples or explanations of how the actions connect to the systems. The score for Depth and Clarity is zero due to the student's failure to provide a clear and detailed explanation of the impact of the actions.","### Strengths
+* You correctly identified two actions that can reduce human impact on Earth's systems.
+* You provided relevant examples of how these actions can affect the planet.
+### Areas for Improvement
+* Try to elaborate on how these actions connect to the water cycle and biodiversity. For example, how does saving water help maintain healthy freshwater boundaries?
+### Advice
+* Keep up the great work! You're on the right track. Remember to think deeply about how your actions affect the planet and try to provide more specific examples to support your points."
+24,Q2: Describe two actions individuals can take to reduce their impact on Earth's systems and explain why they matter.,Individuals can take actions like reducing energy use by turning off unused lights and devices and adopting a flexitarian diet with less meat. Reducing energy cuts down on fossil fuels that cause climate change helping planetary boundaries. Less meat means less deforestation for farms protecting ecosystems like rainforests. These matter because they reduce anthropogenic impacts keeping systems balanced and preventing positive feedback loops like more warming.,4,"{
+  ""Action Identification"": 1,
+  ""Explanation of Impact"": 1,
+  ""Relevance to Systems"": 1,
+  ""Depth and Clarity"": 0.5
+}
+
+The student has demonstrated a good understanding of the topic by identifying two actions individuals can take to reduce their impact on Earth's systems. They have also provided a clear explanation of the impact of these actions on the planet. However, the student could have provided more depth and clarity in their explanation, particularly in the 'Relevance to Systems' criterion. The student has shown a good connection between the actions and the impact on the planet, but could have elaborated more on how these actions affect the systems. Additionally, the student could have provided more specific examples to support their claims. Overall, the student has shown a good effort and understanding of the topic.","### Strengths
+* You correctly identified two actions individuals can take to reduce their impact on Earth's systems.
+* You provided a clear explanation of the impact of these actions on the planet.
+### Areas for Improvement
+* Elaborate more on how reducing energy use and adopting a flexitarian diet affect the systems, such as the water cycle or the carbon cycle.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more practice, you'll be able to provide even more detailed and clear explanations."
+25,Q2: Describe two actions individuals can take to reduce their impact on Earth's systems and explain why they matter.,Actions: plant trees in your garden and walk or cycle instead of car rides. Planting trees absorbs CO2 reducing climate boundary issues. Walking lowers emissions that disrupt air systems. They matter cos they help biodiversity and stop systems from tipping like dry forests.,3,"{
+  ""Action Identification"": 1,
+  ""Explanation of Impact"": 1,
+  ""Relevance to Systems"": 1,
+  ""Depth and Clarity"": 0
+}
+
+The student has demonstrated a good understanding of the impact of individual actions on Earth's systems. They have identified two relevant actions (planting trees and walking/cycling) and provided a brief explanation of their impact. However, the explanation could be more detailed and clear. The student has shown a good connection to the topic of human impact on natural systems, but could benefit from more depth and clarity in their explanation. The student's answer is relevant to the topic, but could be more specific and detailed in their explanation of the impact of these actions on the systems.","### Strengths
+* You have provided two relevant actions that individuals can take to reduce their impact on Earth's systems.
+### Areas for Improvement
+* Try to elaborate more on how these actions connect to the systems they are affecting. For example, you could explain how planting trees helps to maintain biodiversity or how walking/cycling reduces air pollution.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more detail and clarity, your answers will be even stronger!"
+26,Q2: Describe two actions individuals can take to reduce their impact on Earth's systems and explain why they matter.,Two actions are reusing things instead of buying new and eating more plants. Reusing cuts waste that pollutes soil systems. Plant-based food uses less water helping freshwater boundaries. These are important to reduce human impact on ecosystems and keep planetary systems stable.,5,"{
+  ""Action Identification"": 1,
+  ""Explanation of Impact"": 1,
+  ""Relevance to Systems"": 2,
+  ""Depth and Clarity"": 0.5
+}
+
+The student has demonstrated a good understanding of the topic by identifying two actions that individuals can take to reduce their impact on Earth's systems. They have also provided a clear explanation of the impact of these actions on the environment. However, the student could have provided more depth and clarity in their explanation, particularly in the 'Depth and Clarity' criterion. For example, they could have explained how reusing things instead of buying new affects not only soil systems but also other ecosystems. Additionally, they could have provided more specific examples of how eating more plants benefits freshwater boundaries. Despite these limitations, the student has shown a good effort in addressing the question and has demonstrated a basic understanding of the topic.","### Strengths
+* You correctly identified two actions that individuals can take to reduce their impact on Earth's systems.
+* You provided a clear explanation of the impact of these actions on the environment.
+### Areas for Improvement
+* Try to provide more specific examples of how reusing things and eating more plants affect the environment.
+* Elaborate on how these actions connect to the stability of planetary systems.
+### Advice
+* Keep up the great work! You're on the right track in thinking about how our daily choices affect the planet. Keep exploring and learning about ways to reduce our impact on Earth's systems."
+27,Q2: Describe two actions individuals can take to reduce their impact on Earth's systems and explain why they matter.,People can plant trees and reduce energy by insulating homes. Trees support biodiversity and absorb pollution. Insulation means less heating lowering emissions for climate systems. Matters because it protects boundaries like land change and helps changemakers fix earth.,5,"{
+  ""Action Identification"": 1,
+  ""Explanation of Impact"": 1,
+  ""Relevance to Systems"": 2,
+  ""Depth and Clarity"": 0.5
+}
+
+The student has demonstrated a good understanding of the topic by identifying two actions individuals can take to reduce their impact on Earth's systems. They have correctly identified planting trees and reducing energy by insulating homes as two actions that can make a positive impact. The student has also provided a clear explanation of the impact of these actions, highlighting the importance of trees in supporting biodiversity and absorbing pollution, as well as the role of insulation in reducing heating and lowering emissions. However, the student's explanation of the impact of these actions could be more detailed and nuanced. Additionally, the student's writing could benefit from more clarity and organization. The student's answer is relevant to the topic of human impact on natural systems, but could be more deeply explored. Overall, the student has shown a good foundation in this topic and with further development, they could produce a more comprehensive and well-organized answer.","### Strengths
+* You correctly identified two actions individuals can take to reduce their impact on Earth's systems.
+* You provided a clear explanation of the impact of these actions.
+### Areas for Improvement
+* Try to elaborate more on how these actions connect to the broader topic of human impact on natural systems.
+* Consider organizing your answer in a more logical and easy-to-follow structure.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more practice, you'll be able to produce a truly outstanding answer."
+28,Q2: Describe two actions individuals can take to reduce their impact on Earth's systems and explain why they matter.,Actions: recycle at home and have meat-free days. Recycling reduces chemical pollution in systems. Meat-free saves water. They matter to avoid crossing boundaries and keep nature connected like wood wide web.,4,"{
+  ""Action Identification"": 1,
+  ""Explanation of Impact"": 1,
+  ""Relevance to Systems"": 2,
+  ""Depth and Clarity"": 0
+}
+
+The student has demonstrated a good understanding of the topic by identifying two actions individuals can take to reduce their impact on Earth's systems. They have also provided a clear explanation of the impact of these actions, specifically mentioning chemical pollution and water usage. The student's answer shows relevance to the concept of natural systems, as they mention avoiding crossing boundaries and keeping nature connected. However, the depth and clarity of their explanation could be improved, as some of the sentences seem a bit vague or disconnected. For example, the phrase 'like wood wide web' could be clarified or removed for better understanding.","### Strengths
+* You correctly identified two actions individuals can take to reduce their impact on Earth's systems.
+* You provided a relevant example of how recycling reduces chemical pollution in systems.
+### Areas for Improvement
+* Try to elaborate on how these actions connect to the concept of natural systems. For example, you could explain how reducing chemical pollution affects the entire ecosystem.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more practice, you'll be able to explain these concepts even more clearly."
+29,Q3: Describe how knowledge of systems can help design a sustainable school feature like a garden or energy system.,Knowledge of systems helps design garden. It's good for school. Plants grow. That's it. (50 words),0,"{
+  ""Feature Description"": 0,
+  ""Systems Integration"": 0,
+  ""Boundary Benefits"": 0,
+  ""Interconnections"": 0,
+  ""Structure and Organization"": 0,
+  ""Use of Evidence"": 0,
+  ""Changemaker Angle"": 0,
+  ""Depth of Analysis"": 0,
+  ""Clarity and Language"": 0
+}
+
+The student's answer lacks depth and clarity. They only mention that knowledge of systems helps design a garden, but do not provide any explanation or analysis of how this works. They also fail to address the sustainability aspect of the feature. The answer is too brief and lacks any evidence or interconnections to other systems. The student does not demonstrate any understanding of systems thinking or its application to real-world problems. The answer does not meet any of the criteria, resulting in a score of 0 for each rubric criterion. The student needs to develop their understanding of systems thinking and practice applying it to real-world problems.","### Strengths
+* None
+### Areas for Improvement
+* Elaborate on how knowledge of systems helps design a sustainable school feature like a garden or energy system.
+* Provide evidence or examples to support your answer.
+### Advice
+* Keep trying! Systems thinking is a complex concept, and it takes time to understand and apply it. Practice explaining how different systems are connected and how they affect each other."
+30,Q3: Describe how knowledge of systems can help design a sustainable school feature like a garden or energy system.,For a garden in school systems knowledge means plants need sun. It helps boundaries. Kids can be changemakers. (80 words disorganized paragraph.),5,"{
+  ""Feature Description"": 0.5,
+  ""Systems Integration"": 0.5,
+  ""Boundary Benefits"": 0.5,
+  ""Interconnections"": 0.5,
+  ""Structure and Organization"": 0.5,
+  ""Use of Evidence"": 0,
+  ""Changemaker Angle"": 0.5,
+  ""Depth of Analysis"": 1,
+  ""Clarity and Language"": 0.5
+}
+
+The student demonstrates a basic understanding of systems thinking and its application to a sustainable school feature. However, their answer lacks depth and organization. They correctly identify the need for sunlight for plants, which is a key feature of a garden system. They also mention the importance of boundaries and the potential for kids to be changemakers, which shows some understanding of systems integration and the changemaker angle. However, their answer is disorganized and lacks evidence to support their claims. The student's depth of analysis is limited, but they show some potential for further development. The teacher may want to consider providing additional guidance on structuring their answers and using evidence to support their claims.","### Strengths
+* You correctly identified the need for sunlight for plants in a garden system.
+* You mentioned the importance of boundaries and the potential for kids to be changemakers, which shows some understanding of systems integration and the changemaker angle.
+### Areas for Improvement
+* Elaborate on how the garden system connects to other systems in the school, such as the energy system or waste management.
+* Provide evidence to support your claims, such as research on the benefits of school gardens or the impact of sustainable energy systems.
+### Advice
+* Keep up the great work! You're showing some great ideas about how systems thinking can be applied to real-world problems. Keep exploring and developing your ideas!"
+31,Q3: Describe how knowledge of systems can help design a sustainable school feature like a garden or energy system.,Energy system like solar panels. Systems are connected. Benefits planet. I think it's important. (70 words),5,"{
+  ""Feature Description"": 0.5,
+  ""Systems Integration"": 0.5,
+  ""Boundary Benefits"": 0.5,
+  ""Interconnections"": 0.5,
+  ""Structure and Organization"": 0.5,
+  ""Use of Evidence"": 0,
+  ""Changemaker Angle"": 0,
+  ""Depth of Analysis"": 1,
+  ""Clarity and Language"": 0.5
+}
+
+The student demonstrates a basic understanding of systems thinking, but lacks depth and clarity in their response. They correctly identify the connection between systems and the benefits of a sustainable feature like a garden or energy system. However, their response is brief and lacks specific examples or evidence to support their claims. The student also fails to address the 'Changemaker Angle' and 'Use of Evidence' criteria. The teacher should consider providing additional guidance on how to develop a more in-depth analysis and clear writing.","### Strengths
+* You correctly identified the connection between systems and the benefits of a sustainable feature like a garden or energy system.
+### Areas for Improvement
+* Try to provide more specific examples or evidence to support your claims.
+### Advice
+* Keep up the great work! Remember to think about how your ideas can make a positive impact on the world."
+32,Q3: Describe how knowledge of systems can help design a sustainable school feature like a garden or energy system.,Knowing systems helps make a school garden. Inputs are water and sun. Processes plants grow. Outputs food. Benefits biodiversity boundary. Parts connect with soil. Kids can plant as changemakers. (150 words two paragraphs.),8,"{
+  ""Feature Description"": 1,
+  ""Systems Integration"": 1,
+  ""Boundary Benefits"": 1,
+  ""Interconnections"": 0.5,
+  ""Structure and Organization"": 0.5,
+  ""Use of Evidence"": 0.5,
+  ""Changemaker Angle"": 1,
+  ""Depth of Analysis"": 1,
+  ""Clarity and Language"": 0.5
+}
+
+The student demonstrates a basic understanding of systems thinking and its application to designing a sustainable school feature. They correctly identify inputs, processes, and outputs in the school garden system. However, their description lacks depth and clarity, making it difficult to fully understand the connections between the different components. The student also fails to provide a clear structure and organization, making it hard to follow their argument. Despite these limitations, the student shows potential in their use of evidence and changemaker angle, highlighting the importance of student involvement in designing sustainable systems. To improve, the student should focus on providing more detailed descriptions, using clear and concise language, and organizing their thoughts in a logical manner.","### Strengths
+* You correctly identified the inputs, processes, and outputs in the school garden system.
+* You highlighted the importance of student involvement in designing sustainable systems.
+### Areas for Improvement
+* Try to elaborate on how the different parts of the system connect and affect each other.
+* Work on providing a clear and organized structure for your answer.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more practice, you'll be able to provide even more detailed and insightful answers."
+33,Q3: Describe how knowledge of systems can help design a sustainable school feature like a garden or energy system.,For energy system solar panels use sun input. Process makes electricity. Output power for school. Helps climate boundary by less fossil fuels. Connections with air system. Be a changemaker by using it. (160 words),5,"{
+  ""Feature Description"": 1,
+  ""Systems Integration"": 1,
+  ""Boundary Benefits"": 1,
+  ""Interconnections"": 0,
+  ""Structure and Organization"": 0,
+  ""Use of Evidence"": 0,
+  ""Changemaker Angle"": 1,
+  ""Depth of Analysis"": 1,
+  ""Clarity and Language"": 0
+}
+
+The student demonstrates a good understanding of systems thinking and its application to a sustainable school feature. They correctly describe the feature (solar panels) and its benefits (reducing fossil fuels). However, they fail to provide a clear description of the system's structure and organization, as well as its interconnections with other systems. The use of evidence is also lacking, as they do not provide any specific examples or data to support their claims. The student shows some understanding of the changemaker angle, but it could be more developed. The depth of analysis is satisfactory, but could be improved with more details. Clarity and language are also a concern, as the text is somewhat disjointed and lacks proper grammar.","### Strengths
+* You correctly defined a key term (solar panels) and its benefits (reducing fossil fuels).
+### Areas for Improvement
+* Elaborate on how the energy system connects to other systems, such as the air system.
+* Provide specific examples or data to support your claims.
+### Advice
+* Keep up the great work! Remember to provide more details and examples to make your answer even stronger."
+34,Q3: Describe how knowledge of systems can help design a sustainable school feature like a garden or energy system.,Systems knowledge for garden design. Inputs soil nutrients processes photosynthesis outputs veggies. Benefits land change boundary. Interconnections plants and animals. Evidence from chapter on ecosystems. Changemakers design it. (180 words structured.),8,"{
+  ""Feature Description"": 1,
+  ""Systems Integration"": 1,
+  ""Boundary Benefits"": 1,
+  ""Interconnections"": 1,
+  ""Structure and Organization"": 1,
+  ""Use of Evidence"": 1,
+  ""Changemaker Angle"": 1,
+  ""Depth of Analysis"": 1,
+  ""Clarity and Language"": 1
+}
+
+The student demonstrates a basic understanding of systems thinking and its application to sustainable school features. They correctly identify the inputs, processes, and outputs of a garden system, highlighting the benefits of land change and boundary benefits. The student also mentions interconnections between plants and animals, which is a key aspect of systems thinking. However, the depth of analysis is limited, and the student does not provide a clear explanation of how the garden system interacts with other parts of the school system. The use of evidence from the chapter on ecosystems is a positive aspect, but the student could have elaborated more on how this knowledge informs their design. The changemaker angle is also present, but it could be more explicitly connected to the design of the garden system. Overall, the student shows promise in applying systems thinking to real-world problems, but could benefit from further development of their analysis and explanation.","### Strengths
+* You correctly identified the inputs, processes, and outputs of a garden system.
+* You mentioned the benefits of land change and boundary benefits.
+### Areas for Improvement
+* Elaborate on how the garden system interacts with other parts of the school system.
+* Provide more details on how the knowledge from the chapter on ecosystems informs your design.
+### Advice
+* Keep up the great work! You're on the right track in applying systems thinking to real-world problems. Keep exploring and developing your ideas!"
+35,Q3: Describe how knowledge of systems can help design a sustainable school feature like a garden or energy system.,Nature uses circular like leaves fall decompose to nutrients for soil new plants grow. Humans can learn by composting food waste to make soil for gardens reducing landfill. This connects to no waste in economy.,2,"{
+  ""Feature Description"": 0,
+  ""Systems Integration"": 1,
+  ""Boundary Benefits"": 0,
+  ""Interconnections"": 0,
+  ""Structure and Organization"": 0,
+  ""Use of Evidence"": 0,
+  ""Changemaker Angle"": 0,
+  ""Depth of Analysis"": 1,
+  ""Clarity and Language"": 0
+}
+
+The student demonstrates a basic understanding of systems thinking, particularly in the context of nature's circular processes. They correctly identify the connection between composting and reducing landfill waste, which shows some systems integration. However, their response lacks a clear feature description, boundary benefits, interconnections, and structure and organization. The use of evidence is limited, and there's no clear changemaker angle. The depth of analysis is somewhat shallow, and the language is not clear. The student could benefit from more explicit connections between the school feature and the systems thinking concept.","### Strengths
+* You correctly identified the connection between composting and reducing landfill waste, which shows some systems integration.
+### Areas for Improvement
+* Try to elaborate on how the garden or energy system connects to the school's overall system.
+### Advice
+* Keep up the great work! Remember to think about how your ideas can make a positive impact on the school and the environment."
+36,Q3: Describe how knowledge of systems can help design a sustainable school feature like a garden or energy system.,Water cycle in nature: rain evaporate repeat. Humans learn rainwater harvesting. Helps save resources.,0,"{
+  ""Feature Description"": 0,
+  ""Systems Integration"": 0,
+  ""Boundary Benefits"": 0,
+  ""Interconnections"": 0,
+  ""Structure and Organization"": 0,
+  ""Use of Evidence"": 0,
+  ""Changemaker Angle"": 0,
+  ""Depth of Analysis"": 0,
+  ""Clarity and Language"": 0
+}
+
+The student's answer lacks a clear description of a sustainable school feature like a garden or energy system. They mention the water cycle in nature, but fail to connect it to the design of a sustainable school feature. The mention of rainwater harvesting is a good start, but it is not elaborated upon. The student does not demonstrate an understanding of systems thinking in their answer. They do not provide any evidence or examples to support their claim. The answer lacks clarity and organization, making it difficult to follow. The student does not take a changemaker angle, and their analysis is shallow. The teacher may want to consider providing additional guidance on how to apply systems thinking to real-world problems and how to design sustainable systems.","### Strengths
+* You mentioned the water cycle in nature, which is a good start!
+### Areas for Improvement
+* Try to describe a specific sustainable school feature like a garden or energy system and explain how it can be designed using knowledge of systems.
+* Elaborate on how rainwater harvesting connects to the design of a sustainable school feature.
+### Advice
+* Keep up the great work! Remember to take your time and think about how different parts of a system can work together to create something sustainable."
+37,Q3: Describe how knowledge of systems can help design a sustainable school feature like a garden or energy system.,Nature's circular: dead animals break down by bacteria nutrients back to earth. Humans can copy with biodegradable stuff. Connects to circular benefits like less pollution.,1,"{
+  ""Feature Description"": 0,
+  ""Systems Integration"": 0,
+  ""Boundary Benefits"": 1,
+  ""Interconnections"": 0,
+  ""Structure and Organization"": 0,
+  ""Use of Evidence"": 0,
+  ""Changemaker Angle"": 0,
+  ""Depth of Analysis"": 0,
+  ""Clarity and Language"": 0
+}
+
+The student's answer demonstrates a basic understanding of the concept of systems thinking, but lacks depth and clarity. The student correctly identifies the idea of circular benefits, but fails to provide a clear description of how knowledge of systems can help design a sustainable school feature. The student also does not demonstrate a clear understanding of systems integration, interconnections, or structure and organization. The answer lacks evidence and a changemaker angle. The student's language is not clear, and the answer lacks a logical structure. The student's answer is more of a fragmented list of ideas rather than a cohesive description of how systems thinking can be applied to design a sustainable school feature.","### Strengths
+* The student correctly identified the concept of circular benefits.
+### Areas for Improvement
+* Elaborate on how knowledge of systems can help design a sustainable school feature like a garden or energy system.
+* Provide more evidence and examples to support the student's claims.
+### Advice
+* Keep up the great work! Remember to think about how different parts of a system connect and work together to achieve a common goal."
+38,Q3: Describe how knowledge of systems can help design a sustainable school feature like a garden or energy system.,In nature trees drop seeds grow new cycle. Humans learn plant more trees for carbon. Benefits economy.,0,"{
+  ""Feature Description"": 0,
+  ""Systems Integration"": 0,
+  ""Boundary Benefits"": 0,
+  ""Interconnections"": 0,
+  ""Structure and Organization"": 0,
+  ""Use of Evidence"": 0,
+  ""Changemaker Angle"": 0,
+  ""Depth of Analysis"": 0,
+  ""Clarity and Language"": 0
+}
+
+The student's answer lacks a clear description of a sustainable school feature like a garden or energy system. They mention a natural cycle of tree growth, but fail to connect it to a school feature. The mention of planting more trees for carbon benefits and the economy is a vague statement without any clear explanation of how it relates to systems thinking. The student does not demonstrate an understanding of how knowledge of systems can help design a sustainable school feature. The answer lacks structure, organization, and clarity, making it difficult to follow. The student does not provide any evidence to support their claims, and there is no changemaker angle or depth of analysis. The language used is simple and lacks technical vocabulary related to systems thinking.","### Strengths
+* You mentioned a natural cycle of tree growth, which is a good start!
+### Areas for Improvement
+* Try to connect the cycle of tree growth to a specific sustainable school feature, like a garden or energy system. Explain how this feature can benefit the school and the environment.
+### Advice
+* Keep exploring and learning about systems thinking! You can start by researching how different schools have implemented sustainable features and how they benefit the students and the environment."
+39,Q3: Describe how knowledge of systems can help design a sustainable school feature like a garden or energy system.,Nature's systems are circular like nitrogen cycle: plants take animals eat waste returns via decomposers. Humans can learn by using compost in farming closing loops. This connects to circular economy by regenerating soil and reducing fertilizer pollution.,8,"{
+  ""Feature Description"": 1,
+  ""Systems Integration"": 1,
+  ""Boundary Benefits"": 1,
+  ""Interconnections"": 1,
+  ""Structure and Organization"": 1,
+  ""Use of Evidence"": 1,
+  ""Changemaker Angle"": 1,
+  ""Depth of Analysis"": 1,
+  ""Clarity and Language"": 0.5
+}
+
+The student demonstrates a good understanding of systems thinking and its application to sustainable design. They correctly describe the circular nature of systems, such as the nitrogen cycle, and how humans can learn from it. The student also makes connections to the circular economy, which shows a good understanding of systems integration. However, the student's answer lacks depth in analysis, as they only provide a brief description of the concepts. Additionally, the language used is not entirely clear, with some sentences being a bit vague. The student could benefit from providing more specific examples and elaborating on the connections between the concepts.","### Strengths
+* You correctly described the circular nature of systems, such as the nitrogen cycle.
+* You made connections to the circular economy, which shows a good understanding of systems integration.
+### Areas for Improvement
+* Elaborate on how the nitrogen cycle connects to the circular economy.
+* Provide more specific examples to support your points.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more detail, your answers will be even stronger."
+40,Q4: Explain what an ecological footprint is and how to reduce it with one action.,Ecological footprint means resources we use from nature. An action to help is eating less meat.,2,"{
+  ""Concept Accuracy"": 1,
+  ""Reduction Action"": 1,
+  ""Explanation of Impact"": 0,
+  ""Clarity and Structure"": 0
+}
+
+The student demonstrates a basic understanding of the concept of ecological footprint, which is a good start. However, their explanation is quite brief and lacks depth. The reduction action suggested, eating less meat, is a valid one, but it's not entirely clear how this action impacts the ecological footprint. The student's answer lacks clarity and structure, making it difficult to follow their train of thought. To improve, the student should provide more detailed explanations and connect their ideas more clearly.","### Strengths
+* You correctly defined what an ecological footprint is!
+### Areas for Improvement
+* Try to explain how eating less meat helps reduce our ecological footprint in more detail.
+### Advice
+* Keep up the great work! Remember to think about how your actions connect to the bigger picture."
+41,Q4: Explain what an ecological footprint is and how to reduce it with one action.,It's how much of the earth we use. One action is to reduce or recycle the stuff we use.,2,"{
+  ""Concept Accuracy"": 1,
+  ""Reduction Action"": 1,
+  ""Explanation of Impact"": 0,
+  ""Clarity and Structure"": 0
+}
+
+The student demonstrates a basic understanding of the concept of ecological footprint, scoring 1 in Concept Accuracy. They also provide a simple action to reduce it, scoring 1 in Reduction Action. However, their explanation of the impact of reducing the ecological footprint is lacking, scoring 0 in Explanation of Impact. Additionally, their answer lacks clarity and structure, scoring 0 in Clarity and Structure. The student's answer is a good starting point, but they need to develop their explanation and organization skills to provide a more comprehensive response.","### Strengths
+* You correctly defined what an ecological footprint is!
+### Areas for Improvement
+* Try to explain how reducing or recycling can make a bigger difference in the environment.
+* Consider using a clearer structure to organize your thoughts.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more practice, you'll become an expert on reducing our ecological footprint!"
+42,Q4: Explain what an ecological footprint is and how to reduce it with one action.,A footprint is the amount of land and water you use. To reduce our footprint we coulc eat less meat cos it uses less water and land.,2,"{
+  ""Concept Accuracy"": 1,
+  ""Reduction Action"": 1,
+  ""Explanation of Impact"": 0,
+  ""Clarity and Structure"": 0
+}
+
+The student demonstrates a basic understanding of the concept of an ecological footprint, correctly defining it as the amount of land and water used. They also provide a reduction action, suggesting eating less meat to reduce the footprint. However, their explanation of the impact of this action is lacking, and the clarity and structure of their response could be improved. The student could benefit from providing more details on how eating less meat affects the environment and organizing their response in a clearer manner.","### Strengths
+* You correctly defined an ecological footprint and provided a reduction action.
+### Areas for Improvement
+* Try to explain how eating less meat affects the environment and why it's a good choice for reducing our footprint.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more detail and organization, your responses will be even stronger."
+43,Q4: Explain what an ecological footprint is and how to reduce it with one action.,"Footprint is when we use resources like food and energy. One action could be if we walk to school so we reduce cars on the road, which use petrol which is a kind of energy. ",3,"{
+  ""Concept Accuracy"": 1,
+  ""Reduction Action"": 1,
+  ""Explanation of Impact"": 1,
+  ""Clarity and Structure"": 0
+}
+
+The student demonstrates a basic understanding of the concept of an ecological footprint, accurately defining it as 'when we use resources like food and energy.' However, their explanation of the impact of reducing the ecological footprint is limited to a single action (walking to school) and lacks a clear connection to the broader concept. The student's answer is clear and concise, but lacks a clear structure, making it difficult to follow. The reduction action proposed by the student is a good start, but could be more effective if it were more specific and detailed.","### Strengths
+* You correctly defined what an ecological footprint is!
+### Areas for Improvement
+* Try to think of more ways to reduce our ecological footprint, and explain how they make a difference.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more practice, you'll be a pro at reducing your ecological footprint!"
+44,Q4: Explain what an ecological footprint is and how to reduce it with one action.,An ecological footprint is how much nature you use up. One action is use less plastic by reusing bags. It reduces pollution.,3,"{
+  ""Concept Accuracy"": 1,
+  ""Reduction Action"": 1,
+  ""Explanation of Impact"": 1,
+  ""Clarity and Structure"": 0
+}
+
+The student demonstrates a basic understanding of the concept of ecological footprint, which is a good start. However, their explanation is somewhat simplistic and lacks depth. The reduction action suggested, 'use less plastic by reusing bags,' is a good example, but the student fails to elaborate on how this action reduces pollution or its broader impact. The student's answer lacks clarity and structure, making it difficult to follow their train of thought. Overall, the student shows potential, but needs to develop their critical thinking and explanation skills.","### Strengths
+* You correctly defined an ecological footprint and provided a relevant example of reducing plastic use.
+### Areas for Improvement
+* Try to elaborate on how reusing bags reduces pollution and its impact on the environment.
+### Advice
+* Keep up the great work! Remember to think critically about the connections between your actions and their effects on the environment."
+45,Q4: Explain what an ecological footprint is and how to reduce it with one action.,A footprint is about our use of land and water resources. To reduce it we can eat less meat because meat needs lots of land and water so less footprint.,2,"{
+  ""Concept Accuracy"": 1,
+  ""Reduction Action"": 1,
+  ""Explanation of Impact"": 0,
+  ""Clarity and Structure"": 0
+}
+
+The student demonstrates a basic understanding of the concept of an ecological footprint, correctly identifying it as related to land and water resources. However, their explanation is limited, and they fail to provide a clear explanation of the impact of eating less meat on the ecological footprint. The reduction action suggested is somewhat accurate, but it lacks detail and connection to the broader concept. Clarity and structure are also lacking, as the answer is brief and lacks organization.","### Strengths
+* You correctly identified the relationship between land, water resources, and the ecological footprint.
+### Areas for Improvement
+* Try to elaborate on how eating less meat specifically reduces the ecological footprint. For example, you could mention the greenhouse gas emissions associated with meat production or the deforestation caused by livestock farming.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more detail and explanation, your answers will be even stronger."
+46,Q4: Explain what an ecological footprint is and how to reduce it with one action.,It's a way to see how much earth resources we take. Action could be to cycle instead of going by car which causes more waste and pollution. Plus cycling also saves fuel.,2,"{
+  ""Concept Accuracy"": 1,
+  ""Reduction Action"": 1,
+  ""Explanation of Impact"": 0,
+  ""Clarity and Structure"": 0
+}
+
+The student demonstrates a basic understanding of the concept of ecological footprint, accurately describing it as a way to measure the impact of human activities on the environment. However, they fail to provide a clear explanation of the impact of their suggested action, cycling instead of driving. The student's response lacks clarity and structure, making it difficult to follow their train of thought. Despite these limitations, the student shows potential in identifying a relevant action to reduce their ecological footprint.","### Strengths
+* You correctly defined what an ecological footprint is!
+* You provided a relevant action to reduce it, cycling instead of driving.
+### Areas for Improvement
+* Try to explain how cycling affects the environment in more detail.
+* Consider breaking down your response into clear paragraphs or points.
+### Advice
+* Keep up the great work! You're on the right track. Remember to think about how your actions connect to the bigger picture of reducing our ecological footprint."
+47,Q4: Explain what an ecological footprint is and how to reduce it with one action.,Ecological footprint is the amount of land and water we use by living on the planet. We can reduce this by turning off lights which saves energy and reduces your footprint.,2,"{
+  ""Concept Accuracy"": 1,
+  ""Reduction Action"": 1,
+  ""Explanation of Impact"": 0,
+  ""Clarity and Structure"": 0
+}
+
+The student demonstrates a basic understanding of the ecological footprint concept, scoring 1 for Concept Accuracy. They also provide a simple reduction action, turning off lights, which scores 1 for Reduction Action. However, their explanation of the impact of this action is lacking, scoring 0 for Explanation of Impact. The student's answer lacks clarity and structure, making it difficult to follow, scoring 0 for Clarity and Structure. The teacher should consider providing additional guidance on explaining the impact of reduction actions and structuring their answers.","### Strengths
+* You correctly defined what an ecological footprint is!
+### Areas for Improvement
+* Try to explain how turning off lights affects the environment in more detail.
+* Consider breaking down your answer into clear steps or sentences to make it easier to understand.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more practice, you'll be a pro at explaining how to reduce your ecological footprint!"
+48,Q4: Explain what an ecological footprint is and how to reduce it with one action.,An ecological footprint is a measure of how much natural resources like land and water you use in your daily life. One way to reduce it is by eating less meat such as having veggie days because meat production uses a lot of water and land so your footprint gets smaller and helps the planet.,4,"{
+  ""Concept Accuracy"": 1,
+  ""Reduction Action"": 1,
+  ""Explanation of Impact"": 1,
+  ""Clarity and Structure"": 0.5
+}
+
+The student demonstrates a good understanding of the concept of ecological footprint, accurately defining it as a measure of natural resources used in daily life. They also provide a relevant action to reduce the footprint, which is eating less meat. However, the explanation of impact is somewhat limited, as they only mention that meat production uses a lot of water and land, without elaborating on the consequences of reducing meat consumption. The clarity and structure of the answer could be improved, as it feels a bit disjointed and lacks a clear introduction or conclusion.","### Strengths
+* You correctly defined what an ecological footprint is!
+* You provided a relevant action to reduce it, which is eating less meat.
+### Areas for Improvement
+* Try to explain how eating less meat will have a bigger impact on reducing your ecological footprint, for example, by mentioning the reduction in greenhouse gas emissions or the preservation of water resources.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more practice, you'll be able to explain complex concepts in a clear and concise way."
+49,Q4: Explain what an ecological footprint is and how to reduce it with one action.,It's how to measure the earth's resources for your lifestyle. You could reduce by reusing clothes which reduces manufacturing needs and this lowers your footprint because of less waste.,3,"{
+  ""Concept Accuracy"": 1,
+  ""Reduction Action"": 1,
+  ""Explanation of Impact"": 1,
+  ""Clarity and Structure"": 0
+}
+
+The student demonstrates a good understanding of the concept of ecological footprint, accurately defining it as a measure of the earth's resources for one's lifestyle. They also provide a relevant action to reduce the footprint, which is reusing clothes. However, the explanation of the impact of this action is somewhat limited, only mentioning 'less waste.' The clarity and structure of the answer could be improved, as it lacks a clear introduction and conclusion, and the transition between the definition and the action could be smoother.","### Strengths
+* You correctly defined what an ecological footprint is!
+* You provided a relevant action to reduce the footprint, reusing clothes.
+### Areas for Improvement
+* Try to explain how reusing clothes specifically reduces the ecological footprint, for example, by mentioning the reduction in resource consumption or energy usage.
+### Advice
+* Keep up the great work! You're on the right track to understanding how to reduce your ecological footprint."
+50,Q4: Explain what an ecological footprint is and how to reduce it with one action.,A footprint shows how much earth you need for your stuff. To reduce buy less new things like second-hand which saves resources and cuts down your use.,2,"{
+  ""Concept Accuracy"": 0.5,
+  ""Reduction Action"": 1,
+  ""Explanation of Impact"": 0,
+  ""Clarity and Structure"": 0.5
+}
+
+The student demonstrates a basic understanding of the concept of ecological footprint, but their explanation is incomplete and lacks clarity. They receive full marks for proposing a reduction action (buying second-hand items), but this action's impact is not fully explained. The student's response lacks a clear structure, making it difficult to follow their train of thought.","### Strengths
+* You correctly identified a way to reduce your ecological footprint by buying second-hand items.
+### Areas for Improvement
+* Try to explain how buying second-hand items affects the environment in more detail.
+### Advice
+* Keep up the great work! Remember, every small action counts, and it's awesome that you're thinking about reducing your ecological footprint."
+51,Q4: Explain what an ecological footprint is and how to reduce it with one action.,The ecological footprint is a way to measure the land water and other resources your life requires. One action is to have shorter showers which saves water and reduces the footprint because less water is used from rivers and lakes.,3,"{
+  ""Concept Accuracy"": 1,
+  ""Reduction Action"": 1,
+  ""Explanation of Impact"": 1,
+  ""Clarity and Structure"": 0
+}
+
+The student demonstrates a good understanding of the concept of ecological footprint, accurately defining it as a measure of the land, water, and other resources required by an individual's lifestyle. They also provide a relevant action to reduce the ecological footprint, which is taking shorter showers to save water. However, the student fails to explain the impact of this action on the ecological footprint, which is a crucial aspect of the question. Additionally, the student's response lacks clarity and structure, making it difficult to follow their train of thought.","### Strengths
+* You correctly defined the ecological footprint and provided a relevant action to reduce it.
+### Areas for Improvement
+* Try to explain how taking shorter showers affects the ecological footprint, for example, by mentioning the reduction in water usage and its impact on the environment.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more explanation and clarity, your responses will be even stronger."
+52,Q5: Explain what Overshoot Day is and suggest two ways to push it later in the year.,Overshoot day is when we use too much. Ways to push it later could be walking or recycling more.,2,"{
+  ""Definition Accuracy"": 1,
+  ""Suggestion Relevance"": 1,
+  ""Explanation of Benefits"": 0,
+  ""Depth and Clarity"": 0
+}
+
+The student demonstrated a basic understanding of Overshoot Day, but their definition was incomplete and lacked clarity. They provided two suggestions, walking and recycling, which are relevant to reducing resource usage. However, they failed to explain the benefits of these actions or provide any depth in their explanation. The student's answer could be improved by providing more detailed information about Overshoot Day and its implications, as well as elaborating on how their suggested actions contribute to reducing resource usage.","### Strengths
+* You correctly identified Overshoot Day as a concept related to resource usage.
+### Areas for Improvement
+* Try to provide a more detailed definition of Overshoot Day, including its implications for the environment.
+* Elaborate on how walking and recycling can help push Overshoot Day later in the year.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more practice, you'll be able to provide more in-depth explanations."
+53,Q5: Explain what Overshoot Day is and suggest two ways to push it later in the year.,Overshoot Day means we used up earth's stuff for the year. Ways to help may be planting more trees and using less plastic.,2,"{
+  ""Definition Accuracy"": 1,
+  ""Suggestion Relevance"": 1,
+  ""Explanation of Benefits"": 0,
+  ""Depth and Clarity"": 0
+}
+
+The student demonstrated a basic understanding of Overshoot Day, but their definition was somewhat inaccurate. They mentioned that Overshoot Day is the date when we've used up earth's stuff for the year, which is close but not entirely precise. The student suggested two relevant ways to push Overshoot Day later in the year: planting more trees and using less plastic. However, they failed to provide any explanation of the benefits of these actions or elaborate on how they connect to Overshoot Day. The student's response lacked depth and clarity, making it difficult to fully understand their thought process.","### Strengths
+* You correctly defined Overshoot Day and provided two relevant suggestions to push it later in the year.
+### Areas for Improvement
+* Try to elaborate on how planting more trees and using less plastic can help reduce Overshoot Day.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more detail, your responses can be even stronger."
+54,Q5: Explain what Overshoot Day is and suggest two ways to push it later in the year.,This is when we've used more resources than earth can make in a year. We can push it later if we do things like cycle to school or eat less meat.,2,"{
+  ""Definition Accuracy"": 1,
+  ""Suggestion Relevance"": 1,
+  ""Explanation of Benefits"": 0,
+  ""Depth and Clarity"": 0
+}
+
+The student demonstrated a good understanding of Overshoot Day, accurately defining it as the date when humans have used more natural resources than the Earth can regenerate in that year. However, they failed to provide a clear explanation of the benefits of pushing Overshoot Day later in the year. Additionally, their suggestions for pushing Overshoot Day later were brief and lacked depth. The student's answer could be improved by providing more detailed explanations and examples to support their suggestions. This would help to increase their score in the Explanation of Benefits and Depth and Clarity criteria.","### Strengths
+* You correctly defined Overshoot Day and provided relevant suggestions for pushing it later in the year.
+### Areas for Improvement
+* Try to elaborate on how cycling to school and eating less meat can make a positive impact on the environment.
+### Advice
+* Keep up the great work! Remember to provide more details and examples to support your suggestions, and you'll be on your way to becoming an environmental expert!"
+55,Q5: Explain what Overshoot Day is and suggest two ways to push it later in the year.,It's the date when resources are over for the year. Suggest recycle and save water. Recycle means less waste.,2,"{
+  ""Definition Accuracy"": 0.5,
+  ""Suggestion Relevance"": 1,
+  ""Explanation of Benefits"": 0,
+  ""Depth and Clarity"": 0.5
+}
+
+The student's answer shows some understanding of Overshoot Day, but there are areas for improvement. For Definition Accuracy, the student's definition is partially correct, but it lacks precision. They score 0.5 for this criterion. For Suggestion Relevance, the student's suggestions to recycle and save water are relevant and practical, so they score 1. For Explanation of Benefits, the student fails to explain how these actions would benefit the environment, so they score 0. For Depth and Clarity, the student's answer is brief and lacks clarity, so they score 0.5. Overall, the student demonstrates some understanding of the topic, but needs to work on providing more accurate definitions, explanations, and clarity in their answers.","### Strengths
+* You correctly identified Overshoot Day and provided relevant suggestions to push it later in the year.
+### Areas for Improvement
+* Try to provide more accurate and precise definitions of key terms.
+* Elaborate on how your suggestions (recycle and save water) connect to the concept of Overshoot Day.
+### Advice
+* Keep up the great work! You're on the right track. Remember to provide more details and explanations in your answers to make them even stronger."
+56,Q5: Explain what Overshoot Day is and suggest two ways to push it later in the year.,Overshoot Day is the day where we use up earth's resources and it doesn't have time to renew. Ways include use public bus or have meat-free days. Bus reduces cars and pollution.,2,"{
+  ""Definition Accuracy"": 1,
+  ""Suggestion Relevance"": 1,
+  ""Explanation of Benefits"": 0,
+  ""Depth and Clarity"": 0
+}
+
+The student demonstrated a good understanding of Overshoot Day, accurately defining it as the day when humans use up more natural resources than the Earth can regenerate. However, they failed to provide a clear explanation of the benefits of reducing Overshoot Day, and their suggestions, although relevant, lacked depth and clarity. The student could have elaborated on how using public buses and having meat-free days can contribute to reducing pollution and conserving resources. Additionally, they could have provided more specific examples or statistics to support their suggestions.","### Strengths
+* You correctly defined Overshoot Day and provided relevant suggestions to push it later in the year.
+### Areas for Improvement
+* Try to elaborate on how using public buses and having meat-free days can help reduce pollution and conserve resources.
+### Advice
+* Keep up the great work! Remember to provide more details and examples to make your suggestions even more convincing."
+57,Q5: Explain what Overshoot Day is and suggest two ways to push it later in the year.,Overshoot Day is when human use goes beyond what earth can recover that year. Two ways to push it later could be turn off lights to save energy and reuse bags to cut plastic. Saving energy means we need less power plants.,3,"{
+  ""Definition Accuracy"": 1,
+  ""Suggestion Relevance"": 1,
+  ""Explanation of Benefits"": 1,
+  ""Depth and Clarity"": 0
+}
+
+The student provided a clear definition of Overshoot Day, which is accurate according to the factual context. They also suggested two relevant ways to push Overshoot Day later in the year, which is a good start. However, their explanation of benefits is limited, as they only mentioned saving energy and not how it connects to pushing Overshoot Day later. Additionally, their depth and clarity could be improved as their explanation is brief and lacks supporting details.","### Strengths
+* You correctly defined Overshoot Day and provided two relevant suggestions to push it later.
+### Areas for Improvement
+* Try to elaborate on how saving energy connects to pushing Overshoot Day later in the year.
+### Advice
+* Keep up the great work! Remember to provide more details and explanations to make your answers even stronger."
+58,Q5: Explain what Overshoot Day is and suggest two ways to push it later in the year.,This is the day we use more than the earth can give. Suggest we plant trees and walk more. Trees also absorb CO2 which can help push the day later.,3,"{
+  ""Definition Accuracy"": 1,
+  ""Suggestion Relevance"": 1,
+  ""Explanation of Benefits"": 1,
+  ""Depth and Clarity"": 0
+}
+
+The student provided a clear definition of Overshoot Day, which is accurate according to the factual context. They also suggested two relevant ways to push Overshoot Day later in the year, which is a good start. However, the explanation of benefits is limited to a single sentence, and the depth and clarity of their answer could be improved. The student could have elaborated on how planting trees and walking more can help push Overshoot Day later in the year. Additionally, they could have provided more details on the benefits of these actions.","### Strengths
+* You correctly defined Overshoot Day and suggested two relevant ways to push it later in the year.
+### Areas for Improvement
+* Try to elaborate on how planting trees and walking more can help push Overshoot Day later in the year.
+### Advice
+* Keep up the great work! You're on the right track. Remember to provide more details and explanations to make your answers even stronger."
+59,Q5: Explain what Overshoot Day is and suggest two ways to push it later in the year.,It's when resources we use are more than the earth has. If we have shorter showers we can save water and. public transport will reduce cars which cause pollution.,2,"{
+  ""Definition Accuracy"": 1,
+  ""Suggestion Relevance"": 1,
+  ""Explanation of Benefits"": 0,
+  ""Depth and Clarity"": 0
+}
+
+The student demonstrates a basic understanding of Overshoot Day, accurately defining it as the date when resources used exceed the Earth's regenerative capacity. However, they fail to provide a clear explanation of the benefits of pushing Overshoot Day later in the year. Their suggestions for reducing water usage and pollution are relevant but lack depth and clarity. The student could benefit from further exploration of the topic and more detailed explanations of their ideas.","### Strengths
+* You correctly defined Overshoot Day and provided relevant suggestions for reducing resource usage.
+### Areas for Improvement
+* Try to elaborate on how using shorter showers and public transport can help push Overshoot Day later in the year.
+### Advice
+* Keep up the great work! Remember to think critically about how your actions can make a positive impact on the environment."
+60,Q5: Explain what Overshoot Day is and suggest two ways to push it later in the year.,Overshoot Day is the date in the year when humanity has used more natural resources than the earth can renew in that whole year. To push it later one way is to have one meat-free meal a week which reduces water and land use for farming so less resources used overall. Another way is to recycle everything possible like plastic and paper which cuts down on new production and waste helping the planet regenerate better.,4,"{
+  ""Definition Accuracy"": 1,
+  ""Suggestion Relevance"": 1,
+  ""Explanation of Benefits"": 1,
+  ""Depth and Clarity"": 0.5
+}
+
+The student demonstrates a good understanding of Overshoot Day, accurately defining it as the date when humanity has used more natural resources than the earth can renew in that whole year. They also provide two relevant suggestions to push Overshoot Day later in the year, such as reducing meat consumption and recycling. However, their explanation of benefits is somewhat limited, only mentioning that these actions 'help the planet regenerate better.' Additionally, their depth and clarity could be improved, as they do not provide detailed explanations or examples to support their suggestions.","### Strengths
+* You correctly defined Overshoot Day and provided two relevant suggestions to push it later in the year.
+### Areas for Improvement
+* Try to elaborate on how reducing meat consumption and recycling can specifically help the environment.
+### Advice
+* Keep up the great work! You're on the right track in thinking about ways to reduce your impact on the planet. Remember to provide more details and examples to support your suggestions in the future."
+61,Q5: Explain what Overshoot Day is and suggest two ways to push it later in the year.,Overshoot Day means we've overused earth's yearly resources by that day. Ways: cycle instead of car plant trees. Cycling lowers emissions trees take CO2 both push day later by saving resources.,3,"{
+  ""Definition Accuracy"": 1,
+  ""Suggestion Relevance"": 1,
+  ""Explanation of Benefits"": 1,
+  ""Depth and Clarity"": 0
+}
+
+The student demonstrates a good understanding of Overshoot Day, accurately defining it as the date when humans have used more natural resources than the Earth can regenerate in that year. They also provide two relevant suggestions to push Overshoot Day later in the year, which are cycling and planting trees. However, their explanation of benefits is limited to a single sentence, and they fail to elaborate on how these suggestions connect to the concept of Overshoot Day. Additionally, their writing lacks clarity and depth, making it difficult to fully understand their ideas.","### Strengths
+* You correctly defined Overshoot Day and provided two relevant suggestions to push it later in the year.
+### Areas for Improvement
+* Try to elaborate on how cycling and planting trees help push Overshoot Day later in the year. For example, you could explain how cycling reduces emissions and how trees absorb CO2.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more detail and explanation, your answers will be even stronger."
+62,Q5: Explain what Overshoot Day is and suggest two ways to push it later in the year.,"Overshoot Day is when our resource use goes beyond what earth can provide every year. Two ways we can help include use public transport and eat local food. Transport reduces use of petrol and local food causes less transport emissions, which could help to push the day back.",3,"{
+  ""Definition Accuracy"": 1,
+  ""Suggestion Relevance"": 1,
+  ""Explanation of Benefits"": 1,
+  ""Depth and Clarity"": 0
+}
+
+The student has demonstrated a good understanding of Overshoot Day, accurately defining it as the date when our resource use exceeds what the Earth can provide. They have also provided two relevant suggestions to push Overshoot Day later in the year, which is a great start. However, their explanation of benefits is somewhat limited, only mentioning that public transport and local food reduce emissions. To improve, the student could elaborate on how these actions contribute to a more sustainable lifestyle and ultimately push Overshoot Day back. Additionally, their explanation could be more clear and concise, making it easier to understand their points.","### Strengths
+* You correctly defined Overshoot Day and provided two relevant suggestions to push it later in the year.
+### Areas for Improvement
+* Try to elaborate on how using public transport and eating local food contribute to a more sustainable lifestyle and ultimately push Overshoot Day back.
+### Advice
+* Keep up the great work! You're on the right track to understanding the importance of reducing our environmental impact."
+63,Q6: Explain the difference between a linear economy and a circular economy.,Linear is bad cos it causes waste. Circular is better because less waste.,1,"{
+  ""Difference Accuracy"": 0,
+  ""Key Features"": 0,
+  ""Example Relevance"": 1,
+  ""Clarity and Structure"": 0
+}
+
+The student's answer demonstrates a basic understanding of the difference between linear and circular economies. However, the accuracy of the difference is not fully captured. The student mentions that linear is 'bad' and circular is 'better,' but does not accurately describe the key features of each economy. The example provided is somewhat relevant, but lacks depth. The clarity and structure of the answer are also lacking, as it is a simple statement without supporting details.","### Strengths
+* You're on the right track by recognizing the importance of reducing waste!
+### Areas for Improvement
+* Try to be more specific about what makes linear economies 'bad' and circular economies 'better.' For example, you could mention how circular economies reduce waste by reusing and recycling materials.
+### Advice
+* Keep up the great work! You're showing a good understanding of the topic. Remember to provide more details and examples to make your answers even stronger!"
+64,Q6: Explain the difference between a linear economy and a circular economy.,Linear economy is take make waste. Circular is in cycles like reuse and recycle. Example could be a T-shirt which in linear gets thrown away but is recycled in circular.,3,"{
+  ""Difference Accuracy"": 1,
+  ""Key Features"": 1,
+  ""Example Relevance"": 1,
+  ""Clarity and Structure"": 0
+}
+
+The student demonstrates a good understanding of the key features of a circular economy, accurately describing it as 'in cycles like reuse and recycle.' However, their explanation of the linear economy is somewhat simplistic and doesn't fully capture the essence of a linear economy. The student also shows a good example of how a T-shirt can be recycled in a circular economy, but their explanation of the linear economy's approach to waste could be more detailed. Clarity and structure are also areas for improvement, as the student's response could be more clearly organized and easier to follow.","### Strengths
+* You correctly identified the key features of a circular economy, such as reuse and recycle.
+* Your example of a T-shirt being recycled in a circular economy is a great way to illustrate the concept.
+### Areas for Improvement
+* Try to elaborate on how a linear economy works, beyond just saying 'take make waste.'
+* Consider organizing your response in a clearer and more structured way.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more detail and clarity, your responses will be even stronger."
+65,Q6: Explain the difference between a linear economy and a circular economy.,Linear is taking stuff making product and then wasting it. Circular is when you keep using it. T-shirt is a good example.,2,"{
+  ""Difference Accuracy"": 1,
+  ""Key Features"": 0,
+  ""Example Relevance"": 1,
+  ""Clarity and Structure"": 0
+}
+
+The student demonstrated a basic understanding of the difference between a linear and circular economy. They accurately identified the key feature of a circular economy as 'keeping using it.' However, their explanation of a linear economy was incomplete and lacked clarity. The student's example of a T-shirt was relevant but could have been more effectively used to illustrate the difference between the two economies. The student's writing lacked structure and clarity, making it difficult to follow their train of thought. Overall, the student showed promise but needs to work on providing more detailed and organized explanations.","### Strengths
+* You correctly identified the key feature of a circular economy as 'keeping using it.'
+### Areas for Improvement
+* Try to provide more detailed explanations of the concepts, like how a linear economy leads to waste and a circular economy reduces waste.
+* Use more complete sentences to make your writing clearer and easier to follow.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more practice, you'll be able to explain these concepts even more clearly."
+66,Q6: Explain the difference between a linear economy and a circular economy.,The difference is linear is a straight line when you take make and dispose of stuff. Circular is when you have a loop to repair and recycle. If. you bin a T-shirt it is linear but if you keep using it it is circular.,3,"{
+  ""Difference Accuracy"": 1,
+  ""Key Features"": 1,
+  ""Example Relevance"": 1,
+  ""Clarity and Structure"": 0
+}
+
+The student demonstrates a good understanding of the difference between a linear and circular economy. They accurately describe the linear economy as a 'straight line' where resources are used and disposed of, and the circular economy as a 'loop' where resources are repaired and recycled. However, the student's explanation could be more detailed and structured. For example, they could have explained how the circular economy works more like nature, where resources are constantly cycled back into the system. Additionally, the student's example of a T-shirt is relevant but could be more effectively integrated into the explanation. The student's writing is clear, but the lack of a clear introduction and conclusion detracts from the overall structure of the response.","### Strengths
+* You correctly described the difference between a linear and circular economy.
+* Your example of a T-shirt is relevant and helps to illustrate the concept.
+### Areas for Improvement
+* Try to elaborate on how the circular economy works more like nature, where resources are constantly cycled back into the system.
+* Consider adding a clear introduction and conclusion to your response to improve the structure.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more practice, you'll be able to explain complex concepts like this in a clear and concise way."
+67,Q6: Explain the difference between a linear economy and a circular economy.,Linear economy is when you take resources to make things then you waste them. Circular economy is when you reuse repair and there is no waste. A T-shirt is a good example where it can be thrown away or repaired and reused.,3,"{
+  ""Difference Accuracy"": 1,
+  ""Key Features"": 1,
+  ""Example Relevance"": 1,
+  ""Clarity and Structure"": 0
+}
+
+The student demonstrates a good understanding of the difference between a linear economy and a circular economy. They accurately describe the key features of a linear economy (taking resources, wasting them) and a circular economy (reusing, repairing, no waste). However, their example of a T-shirt is somewhat simplistic and doesn't fully illustrate the principles of a circular economy. The student's answer lacks clarity and structure, making it difficult to follow their train of thought. Overall, the student shows promise in understanding the concept, but needs to work on providing more detailed and organized responses.","### Strengths
+* You correctly defined the key features of a linear and circular economy!
+### Areas for Improvement
+* Try to provide more detailed examples that show how the principles of a circular economy work in real life.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more practice, you'll be able to explain these concepts with confidence."
+68,Q6: Explain the difference between a linear economy and a circular economy.,"Difference between linear and circular is that linear is take-make-waste but circular keeps materials in use. Waste is bad and reusing is good. T-shirt is an example of linear when it ends up in landfill but if you compost it, it can be circular because it goes into the soil.",3,"{
+  ""Difference Accuracy"": 1,
+  ""Key Features"": 1,
+  ""Example Relevance"": 1,
+  ""Clarity and Structure"": 0
+}
+
+The student demonstrates a good understanding of the difference between a linear and circular economy. They accurately identify the key features of a linear economy (take-make-waste) and a circular economy (keeping materials in use). The student also provides a relevant example of a T-shirt, showing how it can be part of a linear or circular economy depending on how it is disposed of. However, the student's answer lacks clarity and structure, making it difficult to follow. The student jumps abruptly from explaining the difference between linear and circular economies to providing an example, without connecting the two ideas clearly. Additionally, the student could have elaborated more on the key features of a circular economy, such as the importance of reusing and recycling materials.","### Strengths
+* You correctly identified the key features of a linear and circular economy.
+* You provided a relevant example of a T-shirt in a linear and circular economy.
+### Areas for Improvement
+* Try to connect your ideas more clearly, so the reader can follow your train of thought.
+* Elaborate more on the key features of a circular economy.
+### Advice
+* Keep up the great work! You're on the right track in understanding the difference between linear and circular economies. Keep practicing and you'll become an expert in no time!"
+69,Q6: Explain the difference between a linear economy and a circular economy.,Linear is when you take make and throw away. Circular recycles materials. Like a t-shirt which can you can save from the bin and fix and recycle it.,3,"{
+  ""Difference Accuracy"": 1,
+  ""Key Features"": 1,
+  ""Example Relevance"": 1,
+  ""Clarity and Structure"": 0
+}
+
+The student demonstrates a good understanding of the difference between a linear and circular economy. They accurately identify the key features of a linear economy (take, make, and throw away) and a circular economy (recycles materials). The example of a t-shirt being recycled is relevant and shows an attempt to apply the concept to real life. However, the student's answer lacks clarity and structure, making it difficult to follow their train of thought. The response could be improved by organizing the ideas in a logical order and providing more details to support their claims.","### Strengths
+* You correctly identified the key features of a linear and circular economy.
+* Your example of a t-shirt being recycled is a great way to illustrate the concept.
+### Areas for Improvement
+* Try to organize your ideas in a logical order to make your answer easier to follow.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more practice, you'll be able to explain complex concepts clearly and effectively."
+70,Q6: Explain the difference between a linear economy and a circular economy.,Linear economy takes makes and wastes. Circular one reuses in cycles. The main difference is there is no waste. Example might be a phone you might have thrown away but you can repair it instead.,3,"{
+  ""Difference Accuracy"": 1,
+  ""Key Features"": 1,
+  ""Example Relevance"": 1,
+  ""Clarity and Structure"": 0
+}
+
+The student demonstrated a good understanding of the difference between a linear and circular economy. They accurately identified the main feature of a circular economy as 'no waste' and provided a relevant example of repairing a phone instead of throwing it away. However, their explanation of the linear economy was brief and lacked key features. Additionally, their answer lacked clarity and structure, making it difficult to follow. The student's example was relevant but could be more effectively connected to the main difference between the two economies.","### Strengths
+* You correctly identified the main difference between a linear and circular economy as 'no waste'.
+* Your example of repairing a phone instead of throwing it away was relevant and showed a good understanding of the circular economy.
+### Areas for Improvement
+* Try to provide more details about the linear economy, such as how it works and what are its key features.
+* Work on making your answer clearer and more structured, so it's easier to follow.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more practice, you'll be able to explain these concepts even more effectively."
+71,Q6: Explain the difference between a linear economy and a circular economy.,The difference is that a linear economy follows 'take-make-waste' where resources are used once and discarded creating pollution. A circular economy uses cycles to reuse and repair eliminating waste. Key features are waste in linear and regeneration in circular. For example a T-shirt in linear is made from cotton worn then thrown away; in circular it's designed to be recycled into new fabric.,4,"{
+  ""Difference Accuracy"": 1,
+  ""Key Features"": 1,
+  ""Example Relevance"": 1,
+  ""Clarity and Structure"": 1
+}
+
+The student demonstrates a good understanding of the circular economy concept. They accurately describe the difference between a linear and circular economy, highlighting the 'take-make-waste' approach in linear economies and the cyclical reuse and repair in circular economies. The student also correctly identifies key features of each economy, such as waste in linear and regeneration in circular. The example provided is relevant and helps to illustrate the concept. However, the student could benefit from more detailed explanations and connections between ideas. The structure of the answer is clear and easy to follow.","### Strengths
+* You correctly defined the difference between a linear and circular economy.
+* Your example of a T-shirt being recycled into new fabric is a great illustration of the circular economy concept.
+### Areas for Improvement
+* Try to elaborate on how the 'take-make-waste' approach in linear economies connects to pollution.
+### Advice
+* Keep up the great work! You're doing a fantastic job of explaining complex concepts in a clear and concise way. Keep it up and don't be afraid to ask for help if you need it."
+72,Q6: Explain the difference between a linear economy and a circular economy.,Linear economy is straight: take from nature make product waste it. Circular is round: keep using repair return to nature. Features waste vs no waste. T-shirt linear: grow cotton make bin. Circular: recycle cotton.,3,"{
+  ""Difference Accuracy"": 1,
+  ""Key Features"": 1,
+  ""Example Relevance"": 1,
+  ""Clarity and Structure"": 0
+}
+
+The student demonstrates a good understanding of the difference between a linear economy and a circular economy. They accurately describe the key features of each system, such as waste vs no waste, and provide a relevant example of a T-shirt in both systems. However, the student's answer lacks clarity and structure, making it difficult to follow their explanation. The student could benefit from organizing their thoughts and using more descriptive language to improve the overall coherence of their response.","### Strengths
+* You correctly identified the key features of a linear and circular economy.
+* Your example of a T-shirt in both systems was relevant and easy to understand.
+### Areas for Improvement
+* Try to organize your thoughts and use more descriptive language to make your explanation clearer.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more practice, you'll be able to explain complex concepts in a clear and concise way."
+73,Q6: Explain the difference between a linear economy and a circular economy.,Difference: linear take-make-dispose with waste circular cycles with reuse. Key features pollution vs regeneration. Example bottle linear thrown circular refilled.,3,"{
+  ""Difference Accuracy"": 0.5,
+  ""Key Features"": 0.5,
+  ""Example Relevance"": 1,
+  ""Clarity and Structure"": 0.5
+}
+
+The student demonstrates a basic understanding of the circular economy concept. However, their explanation of the difference between a linear economy and a circular economy is not entirely accurate. They mention 'take-make-dispose with waste' for the linear economy, which is partially correct, but they don't fully capture the essence of a linear economy. For the circular economy, they mention 'cycles with reuse,' which is a good start, but they could elaborate on the key features of a circular economy, such as sharing, product-as-a-service, and the closed-loop production process. The student's example is relevant, but it could be more detailed and connected to the key features of a circular economy. The student's answer could benefit from clearer structure and organization.","### Strengths
+* You correctly identified the circular economy as having cycles with reuse.
+### Areas for Improvement
+* Elaborate on how the linear economy differs from the circular economy in terms of waste and resource management.
+* Provide more detailed examples that connect to the key features of a circular economy.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more practice, you'll be able to explain the difference between linear and circular economies with confidence."
+74,Q6: Explain the difference between a linear economy and a circular economy.,Linear: take resources make waste causing harm. Circular: reuse repair regenerate. Waste feature in linear cycles in circular. T-shirt example linear landfill circular remade.,3,"{
+  ""Difference Accuracy"": 1,
+  ""Key Features"": 1,
+  ""Example Relevance"": 1,
+  ""Clarity and Structure"": 0
+}
+
+The student demonstrates a good understanding of the key features of a circular economy, such as reusing, repairing, and regenerating resources. They also provide a relevant example of a T-shirt being remade in a circular economy. However, their explanation of the difference between a linear and circular economy is not entirely accurate. A linear economy is not just about 'take resources make waste causing harm,' but also about the linear flow of resources from extraction to consumption to waste. The student's explanation of waste in a circular economy is also somewhat unclear. Additionally, the student's response lacks clarity and structure, making it difficult to follow their train of thought.","### Strengths
+* You correctly identified the key features of a circular economy, such as reusing, repairing, and regenerating resources.
+* You provided a relevant example of a T-shirt being remade in a circular economy.
+### Areas for Improvement
+* Try to provide a more accurate definition of a linear economy, including the linear flow of resources from extraction to consumption to waste.
+* Clarify how waste is managed in a circular economy.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more practice, you'll be able to explain these concepts even more clearly."
+75,Q6: Explain the difference between a linear economy and a circular economy.,The main difference is linear economy is 'take-make-waste' leading to trash while circular is loops of reuse and recycle no waste. Features: linear depletes circular sustains. For a T-shirt linear: cotton grown shirt made discarded; circular: shirt repaired or fabric reused.,4,"{
+  ""Difference Accuracy"": 1,
+  ""Key Features"": 1,
+  ""Example Relevance"": 1,
+  ""Clarity and Structure"": 0.5
+}
+
+The student demonstrates a good understanding of the circular economy concept. They accurately describe the main difference between a linear and circular economy, highlighting the 'take-make-waste' approach of the linear economy and the 'loops of reuse and recycle' approach of the circular economy. The student also provides a relevant example of a T-shirt in both economies, showcasing the reuse and recycling aspect of the circular economy. However, the student's answer could benefit from more clarity and structure, as some points are not fully connected. Additionally, the student could have elaborated more on the features of the linear and circular economies, such as the impact of resource depletion and the benefits of sustainability.","### Strengths
+* You correctly described the main difference between a linear and circular economy.
+* You provided a relevant example of a T-shirt in both economies.
+### Areas for Improvement
+* Try to connect your ideas more clearly and use transitional phrases to make your answer flow better.
+* Elaborate on how the features of the linear economy (depletion) connect to the features of the circular economy (sustainability).
+### Advice
+* Keep up the great work! You're on the right track in understanding the circular economy concept. Keep practicing and exploring the topic to deepen your knowledge."
+76,Q7: Describe how nature uses circular systems and how humans can learn from it.,Nature works in cycles. Humans can learn from this.,2,"{
+  ""Nature Description"": 1,
+  ""Human Application"": 1,
+  ""Learning Connection"": 0,
+  ""Depth and Clarity"": 0
+}
+
+The student's answer demonstrates a basic understanding of the concept of circular systems in nature. They receive full marks for describing nature's use of circular systems (Nature Description: 1). However, their response falls short in applying this concept to humans (Human Application: 1). Unfortunately, the student fails to establish a clear connection between nature's circular systems and how humans can learn from it (Learning Connection: 0) and does not provide a clear or detailed explanation (Depth and Clarity: 0). This suggests a need for further exploration and development of this concept.","### Strengths
+* You correctly identified that nature works in cycles.
+### Areas for Improvement
+* Try to explain how nature's circular systems can help humans in their own lives.
+### Advice
+* Keep up the great work! Remember, learning is all about exploring and discovering new ideas. Don't be afraid to ask questions and seek more information to deepen your understanding."
+77,Q7: Describe how nature uses circular systems and how humans can learn from it.,"Circular is just like nature, like water and rain. We can learn by recycling.",2,"{
+  ""Nature Description"": 1,
+  ""Human Application"": 1,
+  ""Learning Connection"": 0,
+  ""Depth and Clarity"": 0
+}
+
+The student's answer demonstrates a basic understanding of circular systems in nature, specifically mentioning water and rain. However, the connection to human application is superficial, and the student fails to elaborate on how nature's circular systems can be applied to human systems. The answer lacks depth and clarity, making it difficult to assess the student's understanding of the concept. The student's response could be improved by providing more specific examples of circular systems in nature and explaining how humans can learn from them.","### Strengths
+* You correctly identified circular systems in nature, such as water and rain.
+### Areas for Improvement
+* Try to provide more specific examples of circular systems in nature and explain how they can be applied to human systems.
+### Advice
+* Keep exploring and learning about how nature's systems can inspire us to create more sustainable and efficient human systems!"
+78,Q7: Describe how nature uses circular systems and how humans can learn from it.,Nature works in circular way for example with leaf decay which turns to soil. Humans can learn by composting waste which helps reduce waste and is good for the soil.,4,"{
+  ""Nature Description"": 1,
+  ""Human Application"": 1,
+  ""Learning Connection"": 1,
+  ""Depth and Clarity"": 0.5
+}
+
+The student has demonstrated a basic understanding of circular systems in nature, specifically through the example of leaf decay and its transformation into soil. They have also attempted to apply this concept to human activities, suggesting composting as a way to reduce waste and benefit the soil. However, the student's response lacks depth and clarity, failing to fully explain how nature's circular systems can inform human decision-making. Additionally, the connection between the two is not explicitly stated, making it difficult to assess the student's understanding of the learning connection. Nevertheless, the student's response shows promise and demonstrates a willingness to think critically about the relationship between nature and human activities.","### Strengths
+* You provided a clear example of a circular system in nature (leaf decay).
+* You attempted to apply this concept to human activities (composting).
+### Areas for Improvement
+* Try to elaborate on how nature's circular systems can inform human decision-making.
+* Consider providing more details on how composting connects to the broader concept of circular systems.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more practice, you'll be able to fully explore the connections between nature and human activities."
+79,Q7: Describe how nature uses circular systems and how humans can learn from it.,In nature water recycles because it evaporates and rains. Humans can copy this by reusing water. This means less pollution.,2,"{
+  ""Nature Description"": 1,
+  ""Human Application"": 1,
+  ""Learning Connection"": 0,
+  ""Depth and Clarity"": 0
+}
+
+The student demonstrates a basic understanding of the water cycle as a circular system in nature. They correctly apply this concept to human actions by suggesting water reuse, which can lead to reduced pollution. However, the student fails to establish a clear learning connection between nature's circular systems and broader human applications. The response lacks depth and clarity, as it only provides a simple example without elaboration or explanation.","### Strengths
+* You correctly described the water cycle as a circular system in nature.
+* You provided a relevant example of how humans can apply this concept by reusing water.
+### Areas for Improvement
+* Try to elaborate on how nature's circular systems can inspire more significant changes in human behavior or technology.
+* Consider providing more details or examples to make your response more engaging and clear.
+### Advice
+* Keep exploring the connections between nature and human actions! You're on the right track."
+80,Q7: Describe how nature uses circular systems and how humans can learn from it.,In nature animals eat plants and their waste fertilizes the soil. Humans can learn from mature to repair things. These are good for the circular economy.,3,"{
+  ""Nature Description"": 0.5,
+  ""Human Application"": 0.5,
+  ""Learning Connection"": 1,
+  ""Depth and Clarity"": 0.5
+}
+
+The student demonstrates a basic understanding of circular systems in nature, describing the process of plants and animals interacting and recycling nutrients. However, the description is not entirely accurate and lacks detail. The student also attempts to apply this concept to human systems, suggesting that humans can learn from nature to repair things, which is a good start. The connection to the circular economy is made, but it's a bit superficial. The student's writing is clear, but not particularly engaging or in-depth. Overall, the student shows promise in understanding the concept, but needs to develop their critical thinking and writing skills.","### Strengths
+* You correctly identified the circular process in nature, where animals eat plants and their waste fertilizes the soil.
+### Areas for Improvement
+* Try to elaborate on how nature's circular systems can be applied to human systems, such as waste management or sustainable agriculture.
+### Advice
+* Keep up the great work! You're on the right track, and with more practice, you'll be able to explain complex concepts in a clear and engaging way."
+81,Q7: Describe how nature uses circular systems and how humans can learn from it.,Nature uses circular system like when leaves fall and decompose to nutrients for soil and then new plants grow. Humans can learn by composting food waste to make soil for gardens. This can help to reduce landfill and is important for the environment.,4,"{
+  ""Nature Description"": 1,
+  ""Human Application"": 1,
+  ""Learning Connection"": 1,
+  ""Depth and Clarity"": 0.5
+}
+
+The student demonstrates a good understanding of circular systems in nature, specifically through the example of leaves decomposing and providing nutrients for soil. They also attempt to apply this concept to human actions, suggesting composting as a way to reduce landfill waste and promote environmental sustainability. However, the student's explanation is somewhat simplistic and lacks depth, particularly in the 'Depth and Clarity' criterion. Additionally, the 'Learning Connection' criterion could be strengthened by exploring more connections between natural systems and human activities. Overall, the student shows promise in understanding and applying circular systems, but could benefit from further elaboration and analysis.","### Strengths
+* You provided a clear example of a circular system in nature (leaves decomposing and providing nutrients for soil).
+* You attempted to apply this concept to human actions (composting food waste).
+### Areas for Improvement
+* Try to elaborate on how composting connects to reducing landfill waste and promoting environmental sustainability.
+### Advice
+* Keep up the great work! You're on the right track in understanding and applying circular systems. Keep exploring and learning more about how nature can inspire us to live more sustainably."
+82,Q7: Describe how nature uses circular systems and how humans can learn from it.,Water cycle is a good example of circular in nature: rain evaporates and then this repeats. Humans can learn for rainwater harvesting. This will help to save resources.,3,"{
+  ""Nature Description"": 1,
+  ""Human Application"": 1,
+  ""Learning Connection"": 1,
+  ""Depth and Clarity"": 0
+}
+
+The student demonstrates a basic understanding of circular systems in nature, specifically the water cycle. They provide a clear example of how rain evaporates and repeats, earning them a score of 1 for Nature Description. The student also attempts to apply this concept to human society by suggesting rainwater harvesting, which earns them a score of 1 for Human Application. However, their Learning Connection score is 1 because they only provide a superficial connection between the water cycle and human action. Unfortunately, their Depth and Clarity score is 0 because their explanation lacks detail and clarity, making it difficult to fully understand their point. Overall, the student shows promise but needs to work on developing their ideas and providing more detailed explanations.","### Strengths
+* You correctly identified the water cycle as an example of a circular system in nature.
+* You provided a relevant example of how humans can apply this concept to their daily lives (rainwater harvesting).
+### Areas for Improvement
+* Try to elaborate on how the water cycle connects to human actions and the environment.
+* Work on providing more detailed explanations to help your readers understand your points.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more practice, you'll be able to develop your ideas and communicate them effectively."
+83,Q7: Describe how nature uses circular systems and how humans can learn from it.,For example in nature dead animals break down by bacteria and put nutrients back into the earth. Humans can copy this by making things that are biodegradable. This also gives other circular benefits like less pollution.,3,"{
+  ""Nature Description"": 1,
+  ""Human Application"": 1,
+  ""Learning Connection"": 1,
+  ""Depth and Clarity"": 0
+}
+
+The student demonstrates a basic understanding of circular systems in nature, specifically the decomposition of dead animals by bacteria. They also attempt to apply this concept to human systems by suggesting the use of biodegradable materials. However, the student's answer lacks depth and clarity, failing to fully explain the circular benefits of biodegradable materials and how they relate to reducing pollution. The student's learning connection is also somewhat superficial, as they do not explicitly state how nature's circular systems can inform human systems. Nevertheless, the student shows promise in recognizing the importance of circular systems and their potential applications in human society.","### Strengths
+* The student correctly identified an example of a circular system in nature (decomposition of dead animals).
+* The student attempted to apply the concept of circular systems to human systems by suggesting the use of biodegradable materials.
+### Areas for Improvement
+* Elaborate on how biodegradable materials can help reduce pollution and create a more circular system.
+* Consider providing more specific examples or explanations of how nature's circular systems can inform human systems.
+### Advice
+* Keep up the great work! You're on the right track in recognizing the importance of circular systems. Keep exploring and learning about how we can apply these principles to create a more sustainable future."
+84,Q7: Describe how nature uses circular systems and how humans can learn from it.,Nature uses circular systems for example leaf decay: leaves fall decompose via fungi become soil nutrients for new growth no waste. Humans can learn by designing products that biodegrade or reuse like composting waste to fertilize farms. This connects to circular economy by reducing resource use and regenerating nature like biological cycle.,4,"{
+  ""Nature Description"": 1,
+  ""Human Application"": 1,
+  ""Learning Connection"": 1,
+  ""Depth and Clarity"": 0.5
+}
+
+The student demonstrates a good understanding of circular systems in nature, specifically through the example of leaf decay. They also attempt to apply this concept to human systems, suggesting the design of biodegradable products and the reuse of waste through composting. However, their explanation of the connection to the circular economy is somewhat vague and lacks depth. The student's writing is clear, but could benefit from more detail and elaboration. Overall, this is a solid effort, and with further development, the student has the potential to provide more nuanced and insightful responses.","### Strengths
+* You provided a clear and concise example of a circular system in nature (leaf decay).
+* You attempted to apply this concept to human systems, suggesting practical solutions.
+### Areas for Improvement
+* Elaborate on how the circular economy connects to the biological cycle.
+* Consider providing more details and examples to support your ideas.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more practice, you'll be able to develop more in-depth and insightful responses."
+85,Q7: Describe how nature uses circular systems and how humans can learn from it.,Water cycle in nature: evaporates from oceans forms clouds rains back endless loop. Humans learn by recycling water in homes like greywater for gardens. Connects to saving freshwater benefits circular no waste.,4,"{
+  ""Nature Description"": 1,
+  ""Human Application"": 1,
+  ""Learning Connection"": 1,
+  ""Depth and Clarity"": 0.5
+}
+
+The student demonstrates a good understanding of the water cycle as a circular system in nature. They correctly describe the process of evaporation, condensation, and precipitation. However, their explanation is brief and lacks detail. In terms of human application, the student provides a relevant example of recycling water in homes, which shows a connection to the concept of circular systems. The learning connection is somewhat superficial, as the student only mentions the benefit of saving freshwater without elaborating on how it connects to the broader concept of circular systems. The depth and clarity of the answer are limited due to the brevity and simplicity of the explanation.","### Strengths
+* You correctly described the water cycle as a circular system in nature.
+* You provided a relevant example of recycling water in homes.
+### Areas for Improvement
+* Try to elaborate on how the water cycle connects to the broader concept of circular systems.
+* Consider adding more details to your explanation to make it clearer.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more practice, you'll be able to explain complex concepts in a clear and concise manner."
+86,Q7: Describe how nature uses circular systems and how humans can learn from it.,Nature: food chain waste from one is food for another. Humans mimic with zero waste designs. Links to economy regeneration.,2,"{
+  ""Nature Description"": 1,
+  ""Human Application"": 1,
+  ""Learning Connection"": 0,
+  ""Depth and Clarity"": 0
+}
+
+The student's answer demonstrates a basic understanding of circular systems in nature and their potential application to human systems. However, the student fails to provide a clear description of how nature uses circular systems (Nature Description: 1/1). The student also attempts to apply this concept to human systems, but the connection is not explicitly stated (Human Application: 1/1). Unfortunately, the student does not make a clear connection between the natural and human systems (Learning Connection: 0/2). Additionally, the answer lacks depth and clarity, making it difficult to fully understand the student's thought process (Depth and Clarity: 0/1).","### Strengths
+* You correctly identified the concept of circular systems in nature and their potential application to human systems.
+### Areas for Improvement
+* Try to provide more details about how nature uses circular systems, such as the role of decomposers or nutrient cycling.
+* Make sure to explicitly state how the natural system connects to the human system, such as through waste management or resource conservation.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more practice, you'll be able to clearly explain these complex concepts."
+87,Q7: Describe how nature uses circular systems and how humans can learn from it.,Circular in nature: sun energy to plants animals eat die return to soil. Humans learn solar power and compost. Benefits less depletion.,3,"{
+  ""Nature Description"": 1,
+  ""Human Application"": 1,
+  ""Learning Connection"": 1,
+  ""Depth and Clarity"": 0
+}
+
+The student demonstrates a basic understanding of circular systems in nature, describing the process of energy transfer from the sun to plants and animals. They also attempt to apply this concept to human systems, mentioning solar power and composting. However, the student's description of nature's circular systems is somewhat simplistic and lacks depth. The connection to human application is also somewhat superficial. The student's writing could benefit from more clarity and detail to fully convey their ideas.","### Strengths
+* You correctly identified the basic process of energy transfer in nature's circular systems.
+### Areas for Improvement
+* Try to elaborate on how nature's circular systems can inspire more efficient human systems, such as how composting can reduce waste.
+### Advice
+* Keep up the great work! Remember to provide more details and examples to make your ideas shine."
+88,Q7: Describe how nature uses circular systems and how humans can learn from it.,Nature's systems are circular like nitrogen cycle: plants take animals eat waste returns via decomposers. Humans can learn by using compost in farming closing loops. This connects to circular economy by regenerating soil and reducing fertilizer pollution.,4,"{
+  ""Nature Description"": 1,
+  ""Human Application"": 1,
+  ""Learning Connection"": 1,
+  ""Depth and Clarity"": 0.5
+}
+
+The student demonstrates a good understanding of circular systems in nature, specifically the nitrogen cycle. They also attempt to apply this concept to human systems, mentioning the circular economy and the benefits of composting. However, their explanation of the nitrogen cycle is brief and lacks detail, which affects their score for 'Depth and Clarity'. Their connection to the circular economy is also somewhat superficial, which impacts their score for 'Learning Connection'. Nevertheless, the student shows promise in recognizing the value of circular systems and their potential applications in human society.","### Strengths
+* You correctly identified the nitrogen cycle as an example of a circular system in nature.
+* You attempted to apply this concept to human systems, which shows your ability to think critically.
+### Areas for Improvement
+* Try to elaborate more on how the nitrogen cycle works and its importance in the ecosystem.
+* Consider providing more specific examples or details about how the circular economy benefits from composting and reducing fertilizer pollution.
+### Advice
+* Keep up the great work! You're on the right track in recognizing the value of circular systems. Keep exploring and learning about these concepts, and you'll become an expert in no time!"
+89,Q8: Discuss the problems with linear economies and how shifting to circular can solve them.,Problems with linear is that it causes pollution. If we shift to circular we can reduce it by reusing things. Example of this could be a t-shirt. (80 words),4,"{
+  ""Problem Identification"": 1,
+  ""Circular Solutions"": 1,
+  ""Cycle Examples"": 1,
+  ""Benefits Discussion"": 1,
+  ""Structure and Organization"": 0,
+  ""Use of Evidence"": 0,
+  ""Depth of Analysis"": 0,
+  ""Clarity and Language"": 0,
+  ""Conclusion Strength"": 0
+}
+
+The student has demonstrated a basic understanding of the problems with linear economies and the potential benefits of shifting to a circular economy. They have correctly identified pollution as a problem with linear economies and provided a simple example of how reusing items, such as a t-shirt, can help reduce pollution. However, their answer lacks depth and organization, and they fail to discuss the benefits of a circular economy in detail. They also do not provide any evidence to support their claims. The student's language is simple and clear, but they do not provide a strong conclusion to their answer. Overall, the student shows promise, but needs to work on developing their critical thinking and analytical skills.","### Strengths
+* You correctly identified pollution as a problem with linear economies.
+* You provided a relevant example of how reusing items can help reduce pollution.
+### Areas for Improvement
+* Try to elaborate on how shifting to a circular economy can solve the problems you mentioned.
+* Make sure to discuss the benefits of a circular economy in more detail.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more practice, you'll be able to develop well-structured and in-depth answers."
+90,Q8: Discuss the problems with linear economies and how shifting to circular can solve them.,A linear economy causes waste and pollution. Circular can fix this because it works in cycles like nature. e.g. a t-shirt can be thrown away or mended and recycled.,9,"{
+  ""Problem Identification"": 1,
+  ""Circular Solutions"": 1,
+  ""Cycle Examples"": 1,
+  ""Benefits Discussion"": 1,
+  ""Structure and Organization"": 1,
+  ""Use of Evidence"": 1,
+  ""Depth of Analysis"": 1,
+  ""Clarity and Language"": 1,
+  ""Conclusion Strength"": 1
+}
+
+The student has demonstrated a good understanding of the problems with linear economies and the benefits of shifting to a circular economy. They have correctly identified the issue of waste and pollution in linear economies and provided a clear example of how circular economies can work in cycles like nature. However, the student's analysis is somewhat superficial, and they could benefit from exploring the topic in greater depth. The student's writing is clear and easy to understand, and they have provided a good structure to their response. Overall, the student has shown a good foundation in this topic, but could benefit from further development of their critical thinking skills.","### Strengths
+* You correctly identified the problem with linear economies (waste and pollution).
+* You provided a clear example of how circular economies can work in cycles like nature.
+### Areas for Improvement
+* Try to elaborate on how shifting to a circular economy can solve the problems you mentioned. For example, how does it reduce waste and pollution?
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more practice, you'll be able to dive deeper into the topic and provide even more insightful answers."
+91,Q8: Discuss the problems with linear economies and how shifting to circular can solve them.,"Problems with linear means we take make and waste, and this means we have lots of rubbish in the sea. If we have a circular economy we can solve this by recycling and repair. Cycles could be biological for food and technical for plastics. This means we would have less rubbish. Example could be a recycled t-shirt",6,"{
+  ""Problem Identification"": 1,
+  ""Circular Solutions"": 1,
+  ""Cycle Examples"": 1,
+  ""Benefits Discussion"": 1,
+  ""Structure and Organization"": 0.5,
+  ""Use of Evidence"": 0,
+  ""Depth of Analysis"": 1,
+  ""Clarity and Language"": 0.5,
+  ""Conclusion Strength"": 0
+}
+
+The student has demonstrated a good understanding of the problems with linear economies and the potential benefits of shifting to a circular economy. They have correctly identified the issue of waste and pollution in linear economies and proposed recycling and repair as solutions in a circular economy. The student has also provided a relevant example of a recycled t-shirt. However, the student's answer lacks depth and analysis, and they do not provide any evidence to support their claims. The structure and organization of the answer are also somewhat lacking, with ideas presented in a somewhat disjointed manner. The language and clarity of the answer could also be improved. Overall, the student shows promise, but needs to work on providing more evidence and depth in their analysis.","### Strengths
+* You correctly identified the problems with linear economies and proposed solutions in a circular economy.
+* You provided a relevant example of a recycled t-shirt.
+### Areas for Improvement
+* Try to provide more evidence to support your claims.
+* Work on organizing your ideas in a more logical and structured way.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more practice, you'll be able to provide even more detailed and convincing arguments."
+92,Q8: Discuss the problems with linear economies and how shifting to circular can solve them.,"Linear economies have problems like waste filling landfills and resource shortages. Shifting to circular helps by reusing materials in cycles like nature. We can use a biological cycle for organic stuff and a technical one for metals. Benefits might be creating new jobs, better environment and less pollution. A t-shirt is a good example where you can change it from linear to circular .",8,"{
+  ""Problem Identification"": 1,
+  ""Circular Solutions"": 1,
+  ""Cycle Examples"": 1,
+  ""Benefits Discussion"": 1,
+  ""Structure and Organization"": 0.5,
+  ""Use of Evidence"": 0.5,
+  ""Depth of Analysis"": 1,
+  ""Clarity and Language"": 0.5,
+  ""Conclusion Strength"": 0.5
+}
+
+The student has demonstrated a good understanding of the problems with linear economies and the benefits of shifting to a circular economy. They have correctly identified waste and resource shortages as problems with linear economies and recognized the potential for reusing materials in cycles. However, their discussion of benefits is somewhat superficial and lacks depth. The student's structure and organization could be improved, as their response jumps between ideas without clear transitions. Additionally, they could provide more evidence to support their claims and elaborate on their ideas. The student's language is clear, but could be more precise. Overall, this is a good effort, but could benefit from more depth and organization.","### Strengths
+* You correctly identified the problems with linear economies and the benefits of shifting to a circular economy.
+* You provided a relevant example of a t-shirt being changed from linear to circular.
+### Areas for Improvement
+* Elaborate on how shifting to a circular economy can solve the problems you identified.
+* Provide more evidence to support your claims.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more practice, you'll be able to provide even more detailed and well-organized responses."
+93,Q8: Discuss the problems with linear economies and how shifting to circular can solve them.,"Linear causes problems with biodiversity and pollution, like mining. If we move to circular we can close the loop and repair or reuse things. There are 2 cycles, biological, for example when plants decompose and technical whem we can repair things like toys or fridges. Benefits include less waste which is better for the planet.",8,"{
+  ""Problem Identification"": 1,
+  ""Circular Solutions"": 1,
+  ""Cycle Examples"": 1,
+  ""Benefits Discussion"": 1,
+  ""Structure and Organization"": 1,
+  ""Use of Evidence"": 1,
+  ""Depth of Analysis"": 1,
+  ""Clarity and Language"": 0.5,
+  ""Conclusion Strength"": 0.5
+}
+
+The student demonstrates a good understanding of the problems associated with linear economies, such as biodiversity and pollution. They also correctly identify the benefits of shifting to a circular economy, including reduced waste. However, their analysis is somewhat superficial, and they could have provided more depth and examples to support their claims. The student's use of language is clear, but they could have been more precise in their definitions and explanations. Overall, the student shows promise, but needs to work on providing more detailed and nuanced analysis.","### Strengths
+* You correctly identified the problems with linear economies and the benefits of circular economies.
+* You provided some relevant examples of cycles, such as biological and technical.
+### Areas for Improvement
+* Try to elaborate more on how the problems with linear economies connect to the benefits of circular economies.
+* Consider providing more specific examples and evidence to support your claims.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more practice, you'll be able to provide even more detailed and insightful analysis."
+94,Q8: Discuss the problems with linear economies and how shifting to circular can solve them.,Linear economies include things like factories which can cause habitat loss. Circular economy is when nature can repair and we use less of earths resources. Example of a cycle includes a repaired t-shirt or a recycled bottle. This helps with climate change also and it can create more jobs and fairer economy. It is an important shift because GDP and linear is not good enough to help people and the planet.,8,"{
+  ""Problem Identification"": 1,
+  ""Circular Solutions"": 1,
+  ""Cycle Examples"": 1,
+  ""Benefits Discussion"": 1,
+  ""Structure and Organization"": 0.5,
+  ""Use of Evidence"": 0.5,
+  ""Depth of Analysis"": 1,
+  ""Clarity and Language"": 0.5,
+  ""Conclusion Strength"": 0.5
+}
+
+The student has demonstrated a good understanding of the problems associated with linear economies, such as habitat loss. They have also correctly identified the benefits of shifting to a circular economy, including reduced resource consumption and job creation. However, their response lacks depth in terms of analysis, and they could have provided more evidence to support their claims. The structure and organization of their response are also somewhat lacking, making it difficult to follow at times. Additionally, their language and clarity could be improved. Despite these areas for improvement, the student shows promise in their understanding of the topic and their ability to discuss its importance.","### Strengths
+* You correctly identified the problems with linear economies and the benefits of a circular economy.
+* You provided a relevant example of a cycle, such as a repaired t-shirt or a recycled bottle.
+### Areas for Improvement
+* Try to provide more evidence to support your claims, such as statistics or expert opinions.
+* Work on organizing your response in a clearer and more logical way.
+### Advice
+* Keep up the great work! You're on the right track in understanding the importance of shifting to a circular economy. Keep exploring and learning about this topic, and don't be afraid to ask questions or seek help when you need it."
+95,Q8: Discuss the problems with linear economies and how shifting to circular can solve them.,"Linear economies cause problems including massive waste leading to landfills and ocean plastic plus waste of resources which affects the planet's boundaries. If we shift to circular we can use biological cycles (e.g. composting waste like food) and technical cycles (e.g. repairing electronics instead of throwing them away). One other example might be T-shirts, which in linear economy means the cotton grown to make therm is thrown away. If we use a circular way it means the cotton is recycled. Benefits inclulde the environment (less pollution and nature can recover) and social, eg. new jobs. The chapter on doughnut economy shows how we can do this. This means we can prevent overshoot day and it is very important for both humans and the planet.",9,"{
+  ""Problem Identification"": 1,
+  ""Circular Solutions"": 1,
+  ""Cycle Examples"": 1,
+  ""Benefits Discussion"": 1,
+  ""Structure and Organization"": 1,
+  ""Use of Evidence"": 1,
+  ""Depth of Analysis"": 1,
+  ""Clarity and Language"": 1,
+  ""Conclusion Strength"": 1
+}
+
+The student has demonstrated a good understanding of the problems associated with linear economies and the potential benefits of shifting to a circular economy. They have correctly identified the issues of waste and resource depletion, and provided some examples of how circular solutions can mitigate these problems. The student has also mentioned the benefits of a circular economy, including environmental and social advantages. However, the depth of analysis could be improved by exploring the connections between the different aspects of the circular economy and providing more specific examples. The student's use of evidence is good, but could be strengthened by including more concrete data or research findings. The structure and organization of the response are clear and easy to follow, and the language is simple and accessible. The conclusion is strong and effectively summarizes the main points.","### Strengths
+* Correctly identified the problems with linear economies and the benefits of a circular economy.
+* Provided some good examples of circular solutions.
+### Areas for Improvement
+* Elaborate on how the different aspects of the circular economy (biological and technical cycles) connect to each other.
+* Provide more specific examples and evidence to support your points.
+### Advice
+* Keep up the great work! You have a good understanding of the topic and are able to clearly explain the benefits of a circular economy. Keep exploring and learning about this important issue!"
+96,Q8: Discuss the problems with linear economies and how shifting to circular can solve them.,Problems with linear: waste overload climate impact from production. Circular shift solves through cycles. Biological: T-shirt composts back to soil. Technical: phone parts reused. Benefits: environmental reduced emissions social prosperity. Evidence nature's no waste. Depth: analyzes how it stays within boundaries. Clear language. Strong conclusion shift now.,9,"{
+  ""Problem Identification"": 1,
+  ""Circular Solutions"": 1,
+  ""Cycle Examples"": 1,
+  ""Benefits Discussion"": 1,
+  ""Structure and Organization"": 1,
+  ""Use of Evidence"": 1,
+  ""Depth of Analysis"": 1,
+  ""Clarity and Language"": 1,
+  ""Conclusion Strength"": 1
+}
+
+The student has demonstrated a good understanding of the problems associated with linear economies and the benefits of shifting to a circular economy. They have correctly identified waste overload and climate impact as problems with linear economies and provided examples of how circular economies can solve these issues through biological and technical cycles. The student has also discussed the benefits of circular economies, including environmental benefits, reduced emissions, and social prosperity. However, the student's analysis could be deeper, as they only briefly mention how circular economies stay within boundaries. The student's language is clear, and their conclusion is strong. Overall, the student has shown a good effort in addressing the question, but could benefit from more in-depth analysis and evidence.","### Strengths
+* Correctly identified problems with linear economies and benefits of circular economies.
+* Provided relevant examples of biological and technical cycles.
+### Areas for Improvement
+* Elaborate on how circular economies stay within boundaries.
+* Provide more in-depth analysis and evidence to support your points.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more practice, you'll be able to provide even more detailed and convincing arguments."
+97,Q8: Discuss the problems with linear economies and how shifting to circular can solve them.,Linear problems: pollution biodiversity loss. Circular solves regeneration. Examples cycles T-shirt biological metal technical. Benefits clean planet jobs. Evidence chapter doughnut. Analysis thoughtful comparisons. Conclusion summarizes.,8,"{
+  ""Problem Identification"": 1,
+  ""Circular Solutions"": 1,
+  ""Cycle Examples"": 1,
+  ""Benefits Discussion"": 1,
+  ""Structure and Organization"": 1,
+  ""Use of Evidence"": 1,
+  ""Depth of Analysis"": 1,
+  ""Clarity and Language"": 0.5,
+  ""Conclusion Strength"": 0.5
+}
+
+The student has demonstrated a good understanding of the linear economy's problems and the benefits of a circular economy. They have identified pollution and biodiversity loss as key issues with linear economies and correctly stated that a circular economy can solve these problems through regeneration. The student has also provided some examples of cycles, such as the biological and technical cycles, and mentioned the benefits of a circular economy, including a clean planet and job creation. However, the student's answer lacks depth and analysis, and their conclusion is somewhat weak. Additionally, the student's language and clarity could be improved. Overall, the student has shown a good effort, but there is room for improvement in terms of depth and clarity.","### Strengths
+* You correctly identified some of the problems with linear economies and the benefits of a circular economy.
+* You provided some relevant examples of cycles.
+### Areas for Improvement
+* Try to elaborate more on how the circular economy can solve the problems you mentioned.
+* Make sure to use more descriptive language and provide clear explanations.
+### Advice
+* Keep up the great work! You're on the right track, and with a bit more practice, you'll be able to provide more in-depth and clear answers."
+98,Q8: Discuss the problems with linear economies and how shifting to circular can solve them.,Discussing linear problems: 'take-make-waste' leads to environmental degradation like plastic in oceans and social inequality from resource wars. Shifting to circular solves by mimicking nature's cycles—biological for decomposable items (T-shirt cotton returns to soil) and technical for durables (electronics refurbished). This reduces waste stays within planetary boundaries. Benefits: environmental (less biodiversity loss) social (inclusive growth). Chapter evidence on GDP flaws supports new measures. Analysis: circular prevents tipping points promotes doughnut balance. Clarity engaging. Conclusion: shift for better world.,10,"{
+  ""Problem Identification"": 1,
+  ""Circular Solutions"": 1,
+  ""Cycle Examples"": 1,
+  ""Benefits Discussion"": 1,
+  ""Structure and Organization"": 1,
+  ""Use of Evidence"": 1,
+  ""Depth of Analysis"": 2,
+  ""Clarity and Language"": 1,
+  ""Conclusion Strength"": 1
+}
+
+The student demonstrates a good understanding of the problems associated with linear economies and the benefits of shifting to a circular economy. They correctly identify environmental degradation and social inequality as key issues with linear economies and provide examples of how a circular economy can solve these problems by mimicking nature's cycles. The student also discusses the benefits of a circular economy, including environmental and social benefits. However, the analysis could be deeper, and the student could provide more evidence to support their claims. The structure and organization of the answer are clear, and the language is engaging. The conclusion is strong and encourages the reader to shift to a circular economy. Overall, the student demonstrates a good understanding of the topic and provides a clear and well-organized answer.","### Strengths
+* Correctly identified the problems with linear economies and the benefits of a circular economy.
+* Provided relevant examples of how a circular economy can solve these problems.
+### Areas for Improvement
+* Elaborate on how the circular economy can prevent tipping points and promote a doughnut balance.
+* Provide more evidence to support your claims.
+### Advice
+* Keep up the great work! You have a good understanding of the topic and provide clear and well-organized answers. Keep exploring and deepening your analysis!"
+99,Q8: Discuss the problems with linear economies and how shifting to circular can solve them.,Linear economies problems: waste accumulation resource scarcity crossing boundaries. Circular shift solves with closed loops. Cycles: biological T-shirt biodegrades technical battery recycled. Benefits eco regeneration social jobs. Evidence nature inspiration. Depth: compares to linear failures. Language clear. Conclusion strong on change.,8,"{
+  ""Problem Identification"": 1,
+  ""Circular Solutions"": 1,
+  ""Cycle Examples"": 1,
+  ""Benefits Discussion"": 1,
+  ""Structure and Organization"": 0.5,
+  ""Use of Evidence"": 0.5,
+  ""Depth of Analysis"": 1,
+  ""Clarity and Language"": 1,
+  ""Conclusion Strength"": 1
+}
+
+The student has demonstrated a good understanding of the problems associated with linear economies and the benefits of shifting to a circular economy. They have correctly identified the main issues with linear economies (waste accumulation, resource scarcity, and crossing boundaries) and explained how a circular economy can solve these problems through closed loops and cycles. The student has also provided relevant examples of biological and technical cycles, such as biodegradable T-shirts and recycled batteries. However, the student's answer lacks a clear and detailed discussion of the benefits of a circular economy, which is reflected in the lower scores for 'Benefits Discussion' and 'Use of Evidence'. Additionally, the student's answer could benefit from a more detailed analysis of the problems and solutions, which is reflected in the lower score for 'Depth of Analysis'. Overall, the student's answer demonstrates a good understanding of the topic, but could benefit from more detail and analysis.","### Strengths
+* Correctly identified the main problems with linear economies
+* Provided relevant examples of biological and technical cycles
+### Areas for Improvement
+* Elaborate on the benefits of a circular economy and provide more evidence to support your claims
+* Provide a more detailed analysis of the problems and solutions
+### Advice
+* Keep up the great work! You have a good understanding of the topic, and with a bit more detail and analysis, you can create an even stronger answer."

@@ -1,0 +1,15 @@
+pydantic
+numpy
+scikit-learn
+nltk
+transformers
+sentence-transformers
+faiss-cpu
+requests
+textstat
+rouge-score
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langgraph

@@ -1,0 +1,1678 @@
+student_id,original_question,student_answer,predicted_score,generated_rationale,generated_feedback
+40,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,null,0,"{
+  ""Wales-Wide Environmental Impact"": 0,
+  ""Community Benefits"": 0,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 0
+}
+
+The student did not provide an answer (null). Therefore, there is no content to evaluate against the rubric criteria. All scores are 0.","### Strengths
+* None provided.
+### Areas for Improvement
+* Provide a written response to the question.
+* Include details on environmental impact, community benefits, future resilience, and overall understanding.
+### Advice
+* Try to answer the question fully next time. Good luck!"
+26,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,"biosphere,geosphere we had lots of plants and stuff to grow and we had trees for animals we have a rain water collecter",1,"{
+  ""Feature Selection & Explanation"": 0,
+  ""Systems Identification"": 1,
+  ""Systems Connections"": 0,
+  ""Positive Environmental Impact"": 0
+}
+
+The student’s answer lists a few natural systems (biosphere, geosphere) and mentions a rain‑water collector, which satisfies the Systems Identification criterion at the maximum score of 1. However, the response lacks a clear description of the chosen design feature and does not explain how it was selected or why it matters, so Feature Selection & Explanation receives 0. The student also does not describe how the identified systems interact or influence one another, resulting in a score of 0 for Systems Connections. Finally, there is no discussion of the positive environmental impact of the design feature, so that criterion also scores 0. The total score is therefore 1 out of a possible 5.","### Strengths
+* You mentioned several Earth systems (biosphere, geosphere) and a rain‑water collector, showing you’re thinking about natural processes.
+
+### Areas for Improvement
+* Explain the design feature you chose (e.g., a rain‑water collector) and why you selected it.
+* Describe how the systems you listed connect—how does the rain‑water collector affect the plants, animals, and soil?
+* Discuss the positive environmental impact of your feature (e.g., saving water, reducing runoff).
+
+### Advice
+* Keep building on your ideas—add a few sentences that link the systems together and explain the benefits. Great start!"
+400,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,bad very bad,0,"{
+  ""Wales-Wide Environmental Impact"": 0,
+  ""Community Benefits"": 0,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 0
+}
+
+The student’s response consists only of the words ""bad very bad"" and does not address the question about the impact of using the chosen feature in all Welsh schools. Consequently, there is no evidence of understanding the environmental, community, or resilience aspects, nor any demonstration of overall comprehension. Each rubric criterion therefore receives a score of 0. The teacher should encourage the student to provide a more detailed answer, explaining how the feature would affect Wales as a whole, benefit local communities, build future resilience, and reflect a clear understanding of the topic.","### Strengths
+* None identified in this response.
+
+### Areas for Improvement
+* Provide a clear, detailed answer that explains how the chosen feature would impact schools across Wales.
+* Include specific examples of environmental benefits, community advantages, and future resilience.
+
+### Advice
+* Keep trying! Start by writing a few sentences about what you think would happen if all schools used your feature, and then expand on each point."
+345,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,"If all schools in wales used my feature in their designs, it would be alot more sustainable in the long run. I think that it would help the environment alot.",2,"{
+  ""Wales-Wide Environmental Impact"": 1,
+  ""Community Benefits"": 0,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 1
+}
+
+The student’s answer shows a basic awareness that using the feature would make schools more sustainable and help the environment, which earns a score of 1 for Wales-Wide Environmental Impact. However, the response lacks specific details or examples, so it does not fully meet the higher level of detail expected for a score of 2. The student does not mention any community benefits or future resilience, so those criteria receive 0. Overall Understanding is awarded 1 because the student demonstrates a general grasp of the concept, but the explanation is very brief and could be expanded. The total score is 2 out of a possible 5. Encourage the student to add more detail and examples in future responses.","### Strengths
+* You identified that the feature would make schools more sustainable and help the environment.
+
+### Areas for Improvement
+* Try to give specific examples of how the feature would benefit the environment.
+* Mention any positive effects on the local community or how it could help schools in the future.
+
+### Advice
+* Keep thinking about the details—adding a few concrete points will make your answer stronger and clearer!"
+11,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,energy connects with lights and tv and much more . ,0,"{
+  ""Feature Selection & Explanation"": 0,
+  ""Systems Identification"": 0,
+  ""Systems Connections"": 0,
+  ""Positive Environmental Impact"": 0
+}
+
+The student’s response is very brief and does not identify a specific design feature, nor does it explain how that feature relates to Earth’s natural systems. The answer mentions energy and its use in lights and TV, but this is a technological application rather than a natural system. Consequently, none of the rubric criteria are met: Feature Selection & Explanation (no feature described), Systems Identification (no natural system identified), Systems Connections (no link between the feature and natural systems), and Positive Environmental Impact (no environmental benefit discussed). While the student did attempt to mention energy, the response lacks depth and relevance to the question. Encourage the student to think about a concrete design element and describe its connection to natural systems in more detail.","### Strengths
+- You mentioned energy, showing an awareness of how power is used in everyday devices.
+
+### Areas for Improvement
+- Identify a specific design feature (e.g., a solar panel, a rainwater harvesting system, or a green roof) and explain what it is.
+- Describe how that feature connects to one or more of Earth’s natural systems (e.g., the hydrologic cycle, the carbon cycle, the biosphere).
+- Explain any positive environmental impact your feature could have, such as reducing waste, conserving water, or lowering emissions.
+
+### Advice
+- Try to write a few sentences that link your idea to the natural world. Keep practicing, and you’ll get the connections clearer!"
+365,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,adopting biosphere in acress welsh schools would create more oxygen and help the enviroment in the sense of pollution,1,"{
+  ""Wales-Wide Environmental Impact"": 1,
+  ""Community Benefits"": 0,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 0
+}
+
+The student’s answer shows a basic awareness that using a biosphere feature could increase oxygen levels and reduce pollution, which earns a partial credit (1/2) for Wales-Wide Environmental Impact. However, the response lacks detail and does not address how the feature would benefit local communities or contribute to future resilience. Overall, the explanation is very brief and does not demonstrate a deep understanding of the feature’s broader implications, so no points are awarded for Community Benefits, Future Resilience, or Overall Understanding.","### Strengths
+- You identified a clear environmental benefit: increased oxygen and reduced pollution.
+
+### Areas for Improvement
+- Explain how the biosphere would help the local community (e.g., learning opportunities, food production, community events).
+- Discuss how this feature could make schools more resilient to future challenges such as resource shortages or climate change.
+- Provide more detail about how the biosphere works and why it matters.
+
+### Advice
+- Keep thinking about the wider impact of your ideas. The more details you add, the stronger your answer will be!"
+430,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,"water manegment
+",0,"{
+  ""Feature Selection & Explanation"": 0,
+  ""Systems Identification"": 0,
+  ""Systems Connections"": 0,
+  ""Positive Environmental Impact"": 0
+}
+
+The student’s response consists only of the phrase ""water manegment"" (likely a typo for ""water management"").  The answer does not provide any explanation of the chosen design feature, nor does it identify which natural system(s) it relates to, how those systems connect, or what positive environmental impact it might have.  Because none of the rubric criteria are met, each receives a score of 0, resulting in a total score of 0.  This is an opportunity to encourage the student to expand on their idea and provide more detail in future responses.","### Strengths
+- You identified a key area—water management—which is an important aspect of environmental design.
+
+### Areas for Improvement
+- Provide a clear explanation of what the water management feature is and how it works.
+- Identify the natural system(s) (e.g., hydrological cycle, soil, atmosphere) that your feature interacts with.
+- Explain how your feature connects those systems together.
+- Describe the positive environmental impact your design would have (e.g., reduced water waste, improved local water quality).
+
+### Advice
+- Keep exploring the topic! Try writing a few sentences that describe the feature and its benefits. Great work so far—just a bit more detail will make it shine!"
+20,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,none of the above,0,"{
+  ""Feature Selection & Explanation"": 0,
+  ""Systems Identification"": 0,
+  ""Systems Connections"": 0,
+  ""Positive Environmental Impact"": 0
+}
+
+The student’s response was simply ""none of the above,"" which provides no information about a design feature, its connection to natural systems, or any environmental impact. Consequently, none of the rubric criteria are satisfied, resulting in a score of 0 for each category and a total score of 0.","### Strengths
+* None
+
+### Areas for Improvement
+* Provide a clear answer that explains your chosen design feature and how it connects to Earth's natural systems.
+
+### Advice
+* Keep trying and ask for help if you need guidance on how to structure your response. Good luck!"
+371,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,better pe,0,"{
+  ""Wales-Wide Environmental Impact"": 0,
+  ""Community Benefits"": 0,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 0
+}
+
+The student’s answer consists of only the phrase ""better pe"", which does not address any of the rubric criteria. There is no mention of how the chosen feature would impact the environment across Wales, benefit local communities, support future resilience, or demonstrate overall understanding of the topic. Because none of the required elements are present, each criterion receives a score of 0, resulting in a total score of 0. Encourage the student to expand their answer with specific examples and explanations for each rubric area.","### Strengths
+* You responded to the question, showing that you are engaging with the task.
+
+### Areas for Improvement
+* Provide details about how your feature would affect the environment in Wales.
+* Explain how it would benefit local communities and support future resilience.
+* Show a clear overall understanding of the topic by linking all these points together.
+
+### Advice
+* Keep trying! Start by writing a few sentences about each point, and then connect them to show the big picture."
+328,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,we worked on the Biosphere and Atmosphere because we made a tunnel for living animals and smaller creatures to live in and we worked on a way to use less energy for the atmosphere,4,"{
+  ""Feature Selection & Explanation"": 1,
+  ""Systems Identification"": 1,
+  ""Systems Connections"": 1,
+  ""Positive Environmental Impact"": 1
+}
+
+The student clearly identified a design feature – a tunnel for animals – and explained its purpose as a habitat, earning full credit for Feature Selection & Explanation. They also correctly identified the relevant natural systems (Biosphere and Atmosphere), so Systems Identification receives full credit. For Systems Connections, the answer mentions both systems but does not explicitly describe how the tunnel and energy‑saving strategy interact or influence each other, so a partial score of 1 out of 2 is appropriate. The student notes a positive environmental impact by aiming to use less energy for the atmosphere, which satisfies that criterion, earning full credit. Overall, the student demonstrates a solid understanding but could strengthen the explanation of system interactions.","### Strengths
+* Clearly identified a design feature (animal tunnel) and its purpose.
+* Recognized the relevant natural systems (Biosphere and Atmosphere).
+* Highlighted a positive environmental impact by reducing energy use.
+
+### Areas for Improvement
+* Explain more explicitly how the animal tunnel and energy‑saving measures influence each other or the broader ecosystem.
+* Provide a bit more detail on how the tunnel supports the Biosphere and how the energy strategy benefits the Atmosphere.
+
+### Advice
+* Keep up the great work! Adding a few sentences about the connections between your design and the natural systems will make your explanation even stronger."
+400,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,football,0,"{
+  ""Feature Selection & Explanation"": 0,
+  ""Systems Identification"": 0,
+  ""Systems Connections"": 0,
+  ""Positive Environmental Impact"": 0
+}
+
+The student’s answer consists only of the word ""football"". The rubric requires a clear description of a design feature, identification of relevant Earth systems, explanation of how the feature connects those systems, and a discussion of any positive environmental impact. None of these elements are present in the response, so each criterion receives a score of 0. The total score is therefore 0 out of 5.","### Strengths
+* You mentioned a potential design feature (football). 
+
+### Areas for Improvement
+* Explain what the design feature is and why you chose it.
+* Identify which Earth systems (e.g., Biosphere, Hydrosphere, Atmosphere, Geosphere) are involved.
+* Describe how the feature connects to those systems.
+* Discuss any positive environmental impact the feature could have.
+
+### Advice
+* Keep trying! Think about how everyday things like sports can be linked to nature and the environment. Good luck!"
+388,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,if all schools in wales installed a way to reuse water it will reduces how much water we waste,1,"{
+  ""Wales-Wide Environmental Impact"": 1,
+  ""Community Benefits"": 0,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 0
+}
+
+The student correctly identifies that reusing water in schools would reduce water waste, which addresses the Wales-Wide Environmental Impact criterion, earning 1 point. However, the answer does not mention any benefits to the local community, future resilience of schools, or demonstrate a broader understanding of the feature’s implications, so those criteria receive 0 points. The overall score reflects the limited detail and scope of the response.","### Strengths
+* You correctly identified that reusing water would reduce waste.
+
+### Areas for Improvement
+* Explain how this benefit would help the local community.
+* Discuss how reusing water could make schools more resilient to future water shortages.
+* Provide more detail to show a deeper overall understanding of the feature.
+
+### Advice
+* Keep thinking about the wider impacts of your ideas – the more details you add, the stronger your answer will be!"
+380,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,my project looked at the biosphere by building insect horest lakes,2,"{
+  ""Feature Selection & Explanation"": 0.5,
+  ""Systems Identification"": 1,
+  ""Systems Connections"": 0,
+  ""Positive Environmental Impact"": 0
+}
+
+The student identified a design feature (insect hort lakes) and mentioned the biosphere, earning full credit for Systems Identification. However, they did not explain the feature or how it connects to other natural systems, so Feature Selection & Explanation receives partial credit and Systems Connections scores 0. No mention of environmental impact was made, so that criterion scores 0. Total score is 1.5 out of 5.","### Strengths
+* Identified a design feature and linked it to the biosphere.
+### Areas for Improvement
+* Explain what the insect hort lakes are and how they work.
+* Describe how this feature connects to other natural systems (e.g., water cycle, food web).
+* Discuss the positive environmental impact of the feature.
+### Advice
+* Keep thinking about how your ideas fit into the bigger picture of Earth's systems!"
+382,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,null,0,"{
+  ""Feature Selection & Explanation"": 0,
+  ""Systems Identification"": 0,
+  ""Systems Connections"": 0,
+  ""Positive Environmental Impact"": 0
+}
+
+The student did not provide any answer to the question, so there is no content to evaluate against the rubric criteria. Consequently, all criteria receive a score of 0. The teacher should note that the student needs to submit a response that includes a clear design feature, identifies relevant natural systems, explains how those systems are connected, and discusses the positive environmental impact.","### Strengths
+* None identified due to lack of response.
+### Areas for Improvement
+* Provide a complete answer to the question, including a description of your design feature, the natural systems it involves, how those systems connect, and the environmental benefits.
+### Advice
+* Keep trying—your ideas are valuable, and sharing them will help you grow and get feedback!"
+370,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,"i think because there would be to many electrics i think not sure
+",0,"{
+  ""Wales-Wide Environmental Impact"": 0,
+  ""Community Benefits"": 0,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 0
+}
+
+The student’s response is very brief and does not provide any clear explanation of how the chosen feature would affect schools across Wales. There is no discussion of environmental impact, community benefits, future resilience, or overall understanding of the topic. Because none of the rubric criteria are met, each receives a score of 0, resulting in a total score of 0. The teacher should note that the student attempted to answer but needs to develop ideas further.","### Strengths
+- The student made an attempt to answer the question.
+
+### Areas for Improvement
+- Provide a clear explanation of how the feature would impact schools in Wales.
+- Include specific examples of environmental benefits, community advantages, or future resilience.
+- Use complete sentences and correct spelling to make the answer easier to understand.
+
+### Advice
+- Keep trying! Start by writing a few sentences about one benefit, then build from there."
+381,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,adopting biosphere across Welsh schools would create more of a outside space and it would be fun for the pupils to find out more about insects and learn how important it is for insects to have a safe home like us.,3,"{
+  ""Wales-Wide Environmental Impact"": 1,
+  ""Community Benefits"": 1,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 1
+}
+
+The student’s answer shows a basic understanding of the biosphere feature and its potential to create more outdoor space and engage pupils with insects. For the Wales-Wide Environmental Impact criterion, the response hints at ecological learning but does not explicitly describe how the biosphere would benefit the wider environment, so a score of 1 is appropriate. Community Benefits is met with the mention of fun and learning for pupils, earning 1 point. Future Resilience is not addressed at all, so 0 points are awarded. Overall Understanding is partially demonstrated through the mention of insects and safe habitats, but the explanation is brief, so 1 point is given. The total score of 3 reflects a solid start with room for deeper exploration of environmental and resilience aspects.","### Strengths
+* You highlighted that the biosphere would create more outdoor space and be fun for pupils.
+* You showed an interest in insects and the importance of safe homes for them.
+
+### Areas for Improvement
+* Explain how the biosphere would positively impact the environment across Wales (e.g., biodiversity, air quality).
+* Discuss how the feature could benefit the wider community beyond the pupils, such as local families or community events.
+* Consider how the biosphere could help schools be more resilient in the future (e.g., food production, climate adaptation).
+
+### Advice
+* Keep thinking about the bigger picture—how does your idea help everyone, now and later? Great job so far, and keep expanding on those ideas!"
+344,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,"Our main subject was creating a carbon monitor connected to the classroom windows, so when there isn't enough air, the windows open automatically. That allows more air in the classroom, and no wasted time getting up to close the window. Also, the window frame would be made from aluminium which is sustainable. We also had chairs made out of the uniform from the year 6 leavers to stop wasting clothes that could be used for something entirely different. The uniform would also make the chairs comfy and match the colour of the school. ",2,"{
+  ""Feature Selection & Explanation"": 1,
+  ""Systems Identification"": 0,
+  ""Systems Connections"": 0,
+  ""Positive Environmental Impact"": 1
+}
+
+The student clearly describes their design feature – a carbon monitor that automatically opens windows and uses sustainable aluminium for the frame, plus chairs made from recycled uniform. This satisfies the Feature Selection & Explanation criterion (1 point). However, the answer does not explicitly name any of Earth’s natural systems (e.g., Atmosphere, Biosphere, Hydrosphere, Geosphere), so the Systems Identification criterion receives 0. Likewise, the student does not explain how the feature interacts with or influences those systems, so Systems Connections is also 0. The student does mention reducing waste by reusing clothing and using sustainable materials, which demonstrates a positive environmental impact, earning 1 point. The total score is therefore 2 out of a possible 5.","### Strengths
+- You clearly explained the main idea of your design feature and highlighted its practical benefits.
+- You used sustainable materials (aluminium) and recycled clothing, showing awareness of waste reduction.
+
+### Areas for Improvement
+- Identify and name Earth’s natural systems (e.g., Atmosphere, Biosphere) that your design touches.
+- Explain how your feature connects to those systems – for example, how automatic windows affect the atmosphere or how recycled chairs influence the biosphere.
+
+### Advice
+Keep up the great work on thinking about sustainability! Try to link your ideas to the natural systems you learn about – it will make your explanations even stronger."
+10,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,i dont now ,0,"{
+  ""Feature Selection & Explanation"": 0,
+  ""Systems Identification"": 0,
+  ""Systems Connections"": 0,
+  ""Positive Environmental Impact"": 0
+}
+
+The student’s response ""i dont now"" does not provide any information about a design feature, the natural systems involved, how those systems are connected, or the environmental benefits. Because none of the rubric criteria are met, each criterion receives a score of 0, resulting in a total score of 0. Encourage the student to think about a specific design idea and describe how it links to Earth’s systems and benefits the environment.","### Strengths
+- You made an attempt to answer the question, which shows you’re engaging with the task.
+
+### Areas for Improvement
+- Provide a clear description of a design feature you have chosen.
+- Identify at least one natural system (e.g., Biosphere, Hydrosphere, Atmosphere, Geosphere) that your feature interacts with.
+- Explain how your feature connects to that system and how it might positively impact the environment.
+
+### Advice
+- Start by writing down one simple idea (like a rain garden or a solar panel) and then think about how it works with nature. Keep trying—every effort is a step forward!"
+364,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,we did a vegetable patch and a gazebo which connects to Biophere and a bit of Geosphere  which helps the environment in a Eco friendly way,2,"{
+  ""Feature Selection & Explanation"": 0,
+  ""Systems Identification"": 1,
+  ""Systems Connections"": 0,
+  ""Positive Environmental Impact"": 1
+}
+
+The student correctly identified two natural systems (Biophere and Geosphere), earning full credit for Systems Identification. However, the answer lacks a clear explanation of why the vegetable patch and gazebo were chosen as design features, so Feature Selection & Explanation receives 0. The student also does not describe how the features interact with the identified systems, resulting in a 0 for Systems Connections. The statement that the design ""helps the environment in an eco‑friendly way"" is a brief acknowledgment of positive impact, which meets the basic requirement for Positive Environmental Impact and earns 1 point. Overall, the response shows awareness of systems but needs more detail and explanation to fully meet the rubric.","### Strengths
+- You identified the Biophere and Geosphere as the natural systems your design connects to.
+- You mentioned that your design helps the environment, showing an awareness of positive impact.
+
+### Areas for Improvement
+- Explain why you chose a vegetable patch and a gazebo as design features. What benefits do they bring?
+- Describe how each feature specifically interacts with the Biophere and Geosphere. For example, how does the vegetable patch use soil (Geosphere) and support local wildlife (Biophere)?
+
+### Advice
+Keep up the good work identifying systems! Adding a bit more detail about your choices and their connections will make your explanation even stronger."
+360,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,If all schools in Wales used this feature animals would have a safe space to live and thrive. Children would also have the opertunity to learn about ecosystems and the environment. It also provides a nice view for the children to look at whilst reading ect,3,"{
+  ""Wales-Wide Environmental Impact"": 1,
+  ""Community Benefits"": 1,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 1
+}
+
+The student’s answer shows a clear idea that the feature would provide a safe space for animals and give children a chance to learn about ecosystems, which earns a full point for Community Benefits. The mention of a pleasant view also supports this. However, the response does not explain how the feature would influence environmental outcomes across Wales as a whole, so it only earns half a point (rounded to 1) for Wales-Wide Environmental Impact. There is no discussion of how the feature could help schools become more resilient in the future, so Future Resilience receives 0. The overall understanding is moderate: the student demonstrates basic awareness of environmental education but lacks depth and detail, so a score of 1 is appropriate. Overall, the answer is encouraging but would benefit from more specific connections to the broader criteria.","### Strengths
+* You highlighted that the feature would give animals a safe space and help children learn about ecosystems.
+* You noted the positive visual impact for students.
+
+### Areas for Improvement
+* Explain how this feature would affect environmental outcomes across all schools in Wales.
+* Discuss how it could help schools adapt to future challenges (e.g., resource shortages, climate change).
+
+### Advice
+* Keep thinking about the wider impact of your ideas – the more details you add, the stronger your answer will be!"
+331,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,it shoulkd be installed,0,"{
+  ""Wales-Wide Environmental Impact"": 0,
+  ""Community Benefits"": 0,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 0
+}
+
+The student’s response consists of a single, incomplete sentence: ""it shoulkd be installed."" This answer does not address any of the rubric criteria. There is no explanation of how the feature would impact Wales-wide environmental outcomes, benefit the community, enhance future resilience, or demonstrate overall understanding of the question. Consequently, each criterion receives a score of 0. The teacher should encourage the student to expand on their idea, providing specific examples and linking the feature to environmental, social, and future resilience benefits.","### Strengths
+* You attempted to answer the question, showing that you are thinking about the feature.
+
+### Areas for Improvement
+* Provide more detail: explain what the feature is, how it would be installed, and why it matters.
+* Connect your idea to environmental impact, community benefits, and future resilience.
+
+### Advice
+* Keep trying! Start by writing a few sentences about the feature and then add examples of how it would help schools and the wider community."
+422,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,"Earth's Natural Systems include:
+Hydrosphere - all water on Earth (oceans, lakes, rivers, groundwater, rain)
+Atmosphere - the air around our planet (weather, climate, air quality)
+Biosphere - all living things and where they live (plants, animals, habitats)
+Geosphere - the solid parts of Earth (soil, rocks, mountains)
+",1,"{
+  ""Feature Selection & Explanation"": 0,
+  ""Systems Identification"": 1,
+  ""Systems Connections"": 0,
+  ""Positive Environmental Impact"": 0
+}
+
+The student accurately listed the four Earth systems, which satisfies the Systems Identification criterion (1 point). However, the response does not describe any design feature, so Feature Selection & Explanation scores 0. There is no explanation of how a feature would interact with or connect to the identified systems, resulting in 0 for Systems Connections. Finally, the answer contains no mention of a positive environmental impact, so that criterion also scores 0. The total score is therefore 1 out of 5.","### Strengths
+* You correctly identified the Hydrosphere, Atmosphere, Biosphere, and Geosphere.
+
+### Areas for Improvement
+* Describe a specific design feature you have chosen.
+* Explain how that feature connects to one or more of the Earth systems you listed.
+* Mention how your feature could have a positive environmental impact.
+
+### Advice
+* Keep up the good work identifying the systems—now try to link a real idea to them and think about the benefits it could bring to the environment!"
+354,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,I think that the pollution levels would be a lot less and more children would grow up with experience outdoors so they would know how to make a difference when they get to adulthood.,3,"{
+  ""Wales-Wide Environmental Impact"": 1,
+  ""Community Benefits"": 0,
+  ""Future Resilience"": 1,
+  ""Overall Understanding"": 1
+}
+
+The student correctly identifies a positive environmental outcome – reduced pollution – which earns 1 point for Wales-Wide Environmental Impact. They also mention that children will learn to make a difference in adulthood, showing an awareness of future resilience, so 1 point is awarded there. The answer does not explicitly discuss benefits to the local community (e.g., shared resources, local food, community projects), so no points are given for Community Benefits. Overall, the student demonstrates a basic understanding of how the feature could help Wales, but the explanation is brief and lacks detail, so 1 point is awarded for Overall Understanding. Total score is 3 out of 5.","### Strengths
+- You highlighted a clear environmental benefit (lower pollution).
+- You connected the feature to long‑term positive outcomes for children.
+
+### Areas for Improvement
+- Expand on how the feature would directly benefit local communities (e.g., shared resources, community events).
+- Provide more detail about the specific ways pollution would be reduced.
+
+### Advice
+Keep building on your ideas – the more details you add, the stronger your answer will become!"
+407,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,no,0,"{
+  ""Feature Selection & Explanation"": 0,
+  ""Systems Identification"": 0,
+  ""Systems Connections"": 0,
+  ""Positive Environmental Impact"": 0
+}
+
+The student answered ""no"", which provides no information about a design feature, its connection to Earth's natural systems, or any environmental impact. Consequently, none of the rubric criteria are met, so all scores are zero.","### Strengths
+* None identified due to lack of response.
+### Areas for Improvement
+* Provide a clear answer to the question, describing your chosen design feature.
+* Explain how that feature relates to Earth's natural systems, identify the relevant systems, describe their connections, and discuss the positive environmental impact.
+### Advice
+* Try to write a few sentences that answer the prompt; even a short explanation will help you earn points."
+391,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,the solar panells and the green hoyse woyul dbe very good for the atmospher,0,"{
+  ""Feature Selection & Explanation"": 0,
+  ""Systems Identification"": 0,
+  ""Systems Connections"": 0,
+  ""Positive Environmental Impact"": 0
+}
+
+The student’s answer only briefly mentions solar panels and a greenhouse, but it does not provide a clear explanation of the chosen design feature, identify which natural system(s) it relates to, describe how those systems are connected, or explain the positive environmental impact in detail. Because none of the rubric criteria are fully met, each criterion receives a score of 0. The response is very short and lacks the depth expected for this question, so the overall score is 0 out of 5.","### Strengths
+* You mentioned solar panels and a greenhouse, which are relevant design features for sustainability.
+
+### Areas for Improvement
+* Explain why you chose these features and how they work.
+* Identify the specific natural system(s) (e.g., atmosphere, biosphere) that your feature connects to.
+* Describe the connections between the systems and how your feature influences them.
+* Highlight the positive environmental impact in more detail.
+
+### Advice
+* Keep thinking about how each part of your design helps the planet—your ideas are on the right track, just add a bit more detail!"
+348,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,"I think if all schools in Wales used my feature, the schools would end up being both environmentally friendly and a fun place for children to play. Plus my design would help schools both a) pay less in the summers for electricity and b) potentially get more money, as I know that the Government will pay you for the electricity you make and end up not using.",4,"{
+  ""Wales-Wide Environmental Impact"": 1,
+  ""Community Benefits"": 1,
+  ""Future Resilience"": 1,
+  ""Overall Understanding"": 1
+}
+
+The student recognises that the feature would make schools more environmentally friendly by reducing electricity use and even generating income through government payments, which shows a clear link to Wales-wide environmental impact – worth 1 point. They also note that schools would become a fun place for children, indicating a community benefit – another 1 point. The mention of potential financial gains helps schools cope with future costs, demonstrating an understanding of future resilience – 1 point. Overall, the answer shows a solid grasp of the main ideas, though it could be more detailed; therefore, 1 point is awarded for overall understanding. Each criterion is scored at the mid-level, giving a total of 4 out of 5.","### Strengths
+* You clearly see how the feature can make schools greener and cheaper to run.
+* You mention that schools could earn money from the government, showing you think about financial benefits.
+* You highlight that the schools would become a fun place for children, which is a nice community touch.
+
+### Areas for Improvement
+* Explain a bit more about how the feature actually works – e.g., what kind of technology it uses.
+* Give specific examples of how the environmental benefits would look across all schools in Wales.
+* Describe more clearly how the money earned could help schools in the future (e.g., saving for repairs, new equipment).
+
+### Advice
+* Keep building on your ideas – the more details you add, the stronger your answer will be. Great start!"
+357,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,they would could breath better,0,"{
+  ""Wales-Wide Environmental Impact"": 0,
+  ""Community Benefits"": 0,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 0
+}
+
+The student’s response is extremely brief and does not provide any details about the chosen feature or its effects. It lacks any discussion of environmental impact, community benefits, future resilience, or a clear demonstration of overall understanding. Because none of the rubric criteria are met, each receives a score of 0, resulting in a total score of 0.","### Strengths
+- You made an attempt to answer the question.
+
+### Areas for Improvement
+- Provide more detail about the feature you are proposing.
+- Explain how it would improve environmental conditions, benefit the community, and help schools be more resilient.
+- Show a clear understanding of the topic by linking your ideas together.
+
+### Advice
+- Keep trying! The more you practice explaining your ideas, the clearer and stronger your answers will become."
+327,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,if all the school of wales has floods and heatwaves we would have to stay at school,0,"{
+  ""Wales-Wide Environmental Impact"": 0,
+  ""Community Benefits"": 0,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 0
+}
+
+The student’s response is very brief and does not address any of the rubric criteria. They mention floods and heatwaves, but do not explain how these events would affect schools across Wales, nor do they discuss environmental impact, community benefits, future resilience, or provide a clear overall understanding of the chosen feature. Because none of the required elements are present, each criterion receives a score of 0, resulting in a total score of 0.","### Strengths
+* You identified that floods and heatwaves could affect schools in Wales.
+
+### Areas for Improvement
+* Explain how these climate events would impact schools and the wider community.
+* Describe any benefits or challenges that could arise from using your chosen feature in this context.
+* Provide a clear, detailed answer that covers environmental impact, community benefits, future resilience, and overall understanding.
+
+### Advice
+* Keep thinking about how your ideas connect to real-world situations—this will help you build stronger, more complete responses!"
+386,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,by removing teslas and audi etrons from the environment annd all evs it would be a good thing to us car guys ,0,"{
+  ""Wales-Wide Environmental Impact"": 0,
+  ""Community Benefits"": 0,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 0
+}
+
+The student’s response does not address the prompt, which asks for the impact of a chosen feature if all schools in Wales used it. The answer mentions removing certain car models but makes no reference to schools, environmental impact, community benefits, or future resilience. Consequently, none of the rubric criteria are met, resulting in a score of 0 for each category and a total of 0.","### Strengths
+* You attempted to answer the question.
+
+### Areas for Improvement
+* Focus on the specific prompt: explain how the chosen feature would affect schools in Wales.
+* Include clear points about environmental impact, community benefits, and future resilience.
+
+### Advice
+* Read the question carefully and think about how your idea would help schools and the wider community. Keep trying!"
+36,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,If other people used my chosen feature they would be reusing alot of water and be really sustainable ,1,"{
+  ""Wales-Wide Environmental Impact"": 1,
+  ""Community Benefits"": 0,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 0
+}
+
+The student’s answer briefly states that the chosen feature would allow people to reuse a lot of water and be sustainable. This shows a very basic awareness of environmental impact, so a score of 1 out of 2 is appropriate for the Wales‑Wide Environmental Impact criterion. However, the response does not explain how this would affect all schools in Wales, nor does it mention any specific benefits to local communities or how it would help schools become more resilient in the future. Consequently, Community Benefits, Future Resilience, and Overall Understanding receive 0 points. The total score is 1 out of a possible 5.","### Strengths
+* You identified that reusing water is a sustainable practice.
+
+### Areas for Improvement
+* Explain how reusing water would benefit all schools across Wales.
+* Describe any positive effects on the local community (e.g., health, cost savings).
+* Discuss how this feature could help schools cope with future challenges such as resource shortages.
+
+### Advice
+* Keep thinking about the bigger picture—how does your idea help everyone, not just a single school? Great start, keep building on it!"
+381,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,We were doing the outside and we included Biosphere in our work. We want to encourage more insects to come to our school and make a better place for the pupils to be in.,4,"{
+  ""Feature Selection & Explanation"": 1,
+  ""Systems Identification"": 1,
+  ""Systems Connections"": 1,
+  ""Positive Environmental Impact"": 1
+}
+
+The student clearly identified a design feature – encouraging insects – and linked it to the Biosphere, satisfying the Systems Identification criterion. They also expressed a positive environmental goal by aiming to create a better place for pupils, which meets the Positive Environmental Impact criterion. While the explanation of the feature is brief, it is still a valid feature selection, so a full point is awarded for Feature Selection & Explanation. The student hints at a connection between insects and the school environment, but does not explicitly describe how this feature interacts with other natural systems (e.g., Hydrosphere, Atmosphere). Therefore, a partial credit is given for Systems Connections, rounded to one point to maintain a lenient and encouraging tone for a 12‑15‑year‑old learner. Overall, the answer demonstrates a solid understanding of the task with room for deeper elaboration.","### Strengths
+- You identified the Biosphere as part of your design.
+- Your idea to encourage insects shows a clear positive environmental goal.
+- You highlighted how this could improve the school environment for pupils.
+
+### Areas for Improvement
+- Explain a bit more about how the feature works (e.g., what will you do to attract insects?).
+- Show how this feature connects to other natural systems, like the Hydrosphere or Atmosphere.
+
+### Advice
+Keep up the great work! Adding a few more details will make your explanation even stronger."
+342,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,"our design connected to quite a few of the earth's systems such as: the hydrosphere by including a water purifier that would make rainwater our drinking water. the biosphere by giving animals little habitats such as ponds, bug hotels, the green roofs and bushes the geosphere by using our food waste as compost to help our soil",5,"{
+  ""Feature Selection & Explanation"": 1,
+  ""Systems Identification"": 1,
+  ""Systems Connections"": 2,
+  ""Positive Environmental Impact"": 1
+}
+
+The student clearly lists three design features—water purifier, animal habitats, and composting of food waste—and explains how each one interacts with a specific Earth system. They correctly identify the hydrosphere, biosphere, and geosphere, satisfying the Systems Identification criterion. The explanation of how the water purifier uses rainwater (hydrosphere), how the habitats support wildlife (biosphere), and how compost improves soil (geosphere) demonstrates strong Systems Connections, earning the full 2 points. The environmental benefits are implied: using rainwater reduces reliance on municipal water, and composting turns waste into useful soil, so the Positive Environmental Impact criterion is met. Overall, the answer meets all rubric criteria fully, justifying a perfect score of 5.","### Strengths
+- You identified multiple Earth systems (hydrosphere, biosphere, geosphere) and linked each design feature to the correct system.
+- Your explanations of how the water purifier, habitats, and compost work show clear understanding of system connections.
+- You highlighted environmental benefits such as using rainwater and turning waste into compost.
+
+### Areas for Improvement
+- Try to add a bit more detail about the positive impact, e.g., how much water you might save or how the compost improves soil quality.
+- Consider using full sentences and proper punctuation to make your answer easier to read.
+
+### Advice
+Keep up the great work! Adding a few extra details will make your explanations even stronger."
+343,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,"Our main project was the carbon monitor. The carbon monitor monitored the carbon levels in the room and when it went to high the windows automatically opened which then the classroom was filled with fresh air. This design had many design features as we focused on how we can make the air quality better in the classroom which comes under The Earth's Atmosphere. Our design feature also included building materials for the monitor itself and the windows. Also its biodiversity features which we used as a biophilic design for the windows and a biodegradable plastic for the carbon monitor. In the project we thought a lot about how we can make our design more Eco- friendly which took a lot of consideration and thinking when thinking for designs. Our design will have such a positive impact on the planet. We focused on how we can help the planet and not how we can make it better. This is because we need to help the planet in steps and do little things which have a great outcome. Like how we can make the air quality in the classroom better which allows major health benefits for young people as with fresh air it increases focus,happy moods and a more positive way to look at learning.",5,"{
+  ""Feature Selection & Explanation"": 1,
+  ""Systems Identification"": 1,
+  ""Systems Connections"": 2,
+  ""Positive Environmental Impact"": 1
+}
+
+The student clearly identifies the main design feature – a carbon monitor that opens windows when CO₂ levels rise – and explains its key components such as the monitoring mechanism, automatic window operation, biophilic design, and biodegradable materials. This satisfies the Feature Selection & Explanation criterion. They explicitly mention the Earth’s Atmosphere as the system involved, and also refer to biodiversity and biophilic design, indicating awareness of the Biosphere. Thus the Systems Identification criterion is met. For Systems Connections, the student explains how the monitor’s operation (opening windows) directly links to the atmosphere by bringing in fresh air, and how the use of biodegradable plastic reduces waste, connecting to the biosphere. These two distinct connections justify the maximum score of 2. Finally, the student states that the design will have a positive impact on the planet by improving air quality, reducing carbon, and providing health benefits, meeting the Positive Environmental Impact criterion. Overall, the answer meets all rubric criteria at the maximum level, earning a total score of 5.","### Strengths
+- Clearly described the main design feature and its components.
+- Identified the Earth’s Atmosphere and mentioned biodiversity/biophilic design.
+- Explained how the system improves air quality and benefits health.
+
+### Areas for Improvement
+- Provide a bit more detail on how the biophilic design specifically supports biodiversity or the biosphere.
+- Mention any other natural systems (e.g., Hydrosphere, Geosphere) if relevant to the materials used.
+
+### Advice
+- Keep up the great work! Adding a few more explicit links to natural systems will make your explanation even stronger."
+407,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,no,0,"{
+  ""Wales-Wide Environmental Impact"": 0,
+  ""Community Benefits"": 0,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 0
+}
+
+The student provided only the word ""no"" with no explanation or details. Therefore none of the rubric criteria are met, resulting in a score of 0 for each category and a total score of 0. Encourage the student to elaborate on how the chosen feature would affect schools in Wales.","### Strengths\n* You answered the question.\n### Areas for Improvement\n* Provide a clear explanation of what would happen if all schools used the feature.\n* Include details about environmental impact, community benefits, and future resilience.\n### Advice\n* Keep trying and add more details next time!"
+22,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,if all schools in Wales installed atmosphere it would reduce carbon dioxide,1,"{
+  ""Wales-Wide Environmental Impact"": 1,
+  ""Community Benefits"": 0,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 0
+}
+
+The student’s answer identifies a potential environmental benefit – a reduction in carbon dioxide – which earns a partial credit for the Wales-Wide Environmental Impact criterion. However, the response is very brief and does not elaborate on how this benefit would be achieved, nor does it address community benefits, future resilience, or demonstrate a broader understanding of the feature’s impact. Consequently, the other criteria receive zero points. The overall understanding is limited because the answer lacks depth and context. Encourage the student to expand on how the feature works, its wider effects, and how it could support communities and future resilience.","### Strengths
+* You identified a clear environmental benefit (reduced CO₂). 
+
+### Areas for Improvement
+* Explain how installing the feature would actually reduce CO₂.
+* Discuss any benefits to the local community or how it could help schools in the future.
+
+### Advice
+* Keep thinking about the bigger picture – how does your idea help people and the planet? Great start!"
+329,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,we looked at the atmosphere to use less pollution ,2,"{
+  ""Feature Selection & Explanation"": 0,
+  ""Systems Identification"": 1,
+  ""Systems Connections"": 0,
+  ""Positive Environmental Impact"": 1
+}
+
+The student’s answer briefly mentions the atmosphere and a goal of reducing pollution, which shows an attempt to link a design idea to a natural system. However, the response lacks a clear description of a specific design feature and does not explain how that feature works or why it was chosen. The student identifies the atmosphere as a system, earning a full point for Systems Identification. No explicit connections to other systems (e.g., biosphere, hydrosphere) are described, so Systems Connections receives zero. The mention of reducing pollution indicates a positive environmental impact, earning one point. Overall, the answer meets the minimum for two criteria but needs more detail and depth to fully satisfy the rubric.","### Strengths
+- You identified the atmosphere as a natural system and mentioned a goal of reducing pollution, showing awareness of environmental impact.
+
+### Areas for Improvement
+- Describe a specific design feature (e.g., a solar-powered air purifier) and explain how it works.
+- Explain how this feature connects to other natural systems, such as the biosphere or hydrosphere.
+
+### Advice
+- Keep thinking about how your ideas can help the planet, and try to add more detail so your teacher can see the full picture of your design."
+383,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,"I used windowmills to malce clean electrcity they is atmospheose. 
+
+I created ponds for more animals to come and lciad to enjoy. BTO spiere ",0,"{
+  ""Feature Selection & Explanation"": 0,
+  ""Systems Identification"": 0,
+  ""Systems Connections"": 0,
+  ""Positive Environmental Impact"": 0
+}
+
+The student’s response contains a few ideas—windmills for clean electricity and ponds to attract animals—but the explanation is very brief and contains many spelling and grammatical errors that make it hard to understand. Because of this, the answer does not clearly demonstrate: 
+
+• Feature Selection & Explanation – The student lists features but does not explain how they work or why they were chosen. 
+• Systems Identification – There is no explicit identification of Earth’s natural systems (e.g., atmosphere, biosphere, hydrosphere). 
+• Systems Connections – The link between the design features and the identified systems is not articulated. 
+• Positive Environmental Impact – While the student hints at clean energy and wildlife habitat, the impact is not clearly described or justified. 
+
+Given the lack of clear, coherent information for each criterion, a score of 0 for each is appropriate. However, the student has shown initiative by thinking about renewable energy and biodiversity, which is a good starting point.","### Strengths
+- You mentioned using windmills to generate clean electricity and creating ponds to attract animals.
+
+### Areas for Improvement
+- Try to spell and write your ideas more clearly so the reader can follow your thoughts.
+- Explain each feature in a few sentences: what it is, how it works, and why you chose it.
+- Identify the Earth systems involved (e.g., atmosphere, biosphere, hydrosphere) and describe how your design connects to them.
+- Describe the positive environmental impact in more detail: how will clean electricity help the planet? How will the ponds benefit wildlife?
+
+### Advice
+Keep brainstorming and keep writing! The ideas you have are promising—just add a bit more detail and clarity, and you’ll be able to show your teacher exactly how your design helps Earth’s natural systems."
+335,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,"it would be better
+",0,"{
+  ""Wales-Wide Environmental Impact"": 0,
+  ""Community Benefits"": 0,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 0
+}
+
+The student’s response consists of a single phrase, ""it would be better,"" which does not address any of the rubric criteria. There is no mention of how the chosen feature would affect environmental impact across Wales, benefit local communities, enhance future resilience, or demonstrate overall understanding of the topic. Because the answer lacks content in all required areas, each criterion receives a score of 0. The teacher should note that while the student attempted to answer the question, more detail and specific examples are needed to meet the learning objectives.","### Strengths
+* You made an attempt to answer the question, showing willingness to engage with the topic.
+
+### Areas for Improvement
+* Provide specific details about how the feature would impact the environment in Wales.
+* Explain how it would benefit local communities and support future resilience.
+* Show a clear understanding of the overall concept by linking your ideas together.
+
+### Advice
+* Keep trying! Start by writing a few sentences about one benefit, then build from there."
+20,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,it would cost a lot but tons of energy and make money,0,"{
+  ""Wales-Wide Environmental Impact"": 0,
+  ""Community Benefits"": 0,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 0
+}
+
+The student’s response is very brief and does not address any of the rubric criteria. They mention cost, energy, and money, but there is no discussion of how the feature would affect the environment across Wales, benefit local communities, build resilience for future schools, or demonstrate a clear overall understanding of the topic. For a complete answer, the student would need to explain the environmental benefits, community impact, future resilience, and show a cohesive understanding of why the feature matters. As it stands, the answer does not meet any of the scoring thresholds.","### Strengths
+- You mentioned cost, energy, and money, which shows you are thinking about practical aspects of the feature.
+
+### Areas for Improvement
+- Explain how the feature would impact the environment across Wales.
+- Describe any benefits it would bring to local communities.
+- Discuss how it could help schools be more resilient in the future.
+- Provide a clear overall picture of why this feature is important.
+
+### Advice
+- Try to add more details and examples. Keep exploring how your idea could help people and the planet!"
+10,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,regrefref,0,"{
+  ""Wales-Wide Environmental Impact"": 0,
+  ""Community Benefits"": 0,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 0
+}
+
+The student’s response, ""regrefref"", does not provide any information about the environmental impact, community benefits, future resilience, or overall understanding of the feature in question. None of the rubric criteria are addressed, so each receives a score of zero. The teacher should note that the answer lacks content and does not demonstrate any of the expected concepts.","### Strengths
+* None identified in this response.
+### Areas for Improvement
+* Provide a clear, written answer that explains how the chosen feature would affect schools across Wales.
+* Include specific examples of environmental benefits, community gains, and future resilience.
+### Advice
+* Keep trying – start by writing a short paragraph that describes the feature and its impact. You can always ask for help if you’re unsure how to structure your answer."
+357,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,our project feature conectes with atmosphere,0,"{
+  ""Feature Selection & Explanation"": 0,
+  ""Systems Identification"": 0,
+  ""Systems Connections"": 0,
+  ""Positive Environmental Impact"": 0
+}
+
+The student’s response is very brief and only states that the project feature connects with the atmosphere. It does not provide any explanation of the feature itself, nor does it identify which natural system(s) are involved beyond a vague mention of the atmosphere. There is no discussion of how the feature interacts with other systems or how it might benefit the environment. Because none of the rubric criteria are met in a meaningful way, each criterion receives a score of 0, resulting in a total score of 0. This is an opportunity for the student to expand their answer with more detail and clear connections.","### Strengths
+- You identified the atmosphere as a natural system related to your project.
+
+### Areas for Improvement
+- Explain what your project feature actually is and why you chose it.
+- Clearly identify the natural system(s) involved (e.g., atmosphere, hydrosphere, biosphere).
+- Describe how your feature connects to those systems and what happens as a result.
+- Discuss any positive environmental impact your feature could have.
+
+### Advice
+- Keep exploring the link between your design and Earth’s systems—adding details will make your explanation stronger and more complete!"
+324,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,if all schools in wales installed a nature running track it could invite more animals and people,2,"{
+  ""Wales-Wide Environmental Impact"": 1,
+  ""Community Benefits"": 1,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 0
+}
+
+The student’s answer shows a basic idea that a nature running track could attract more animals and people, which hints at environmental and community benefits. However, the response lacks detail: it does not explain how the track would improve environmental outcomes, how it would benefit the local community beyond simply attracting visitors, or how it would contribute to future resilience. The overall understanding of the feature’s impact is therefore limited. For a more complete answer, the student should elaborate on specific environmental benefits (e.g., biodiversity, habitat creation), community advantages (e.g., health, social interaction), and resilience aspects (e.g., adaptability to climate change).","### Strengths
+- You identified that a nature running track could attract more animals and people, showing an awareness of potential benefits.
+
+### Areas for Improvement
+- Explain how the track would positively impact the environment (e.g., wildlife habitat, green space).
+- Describe specific ways the community would benefit (e.g., health, education, social cohesion).
+- Consider how the feature could help schools become more resilient in the future (e.g., climate adaptation, resource use).
+
+### Advice
+Keep thinking about the broader effects of your ideas – the more details you add, the stronger your answer will be!"
+398,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,If all the school in wales biodiversity features would be more sustaniable,0,"{
+  ""Wales-Wide Environmental Impact"": 0,
+  ""Community Benefits"": 0,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 0
+}
+
+The student’s response is extremely brief and lacks detail. It merely states that biodiversity features would be more sustainable if all schools in Wales adopted them, without explaining how this would impact the environment, benefit the community, or enhance future resilience. Because the answer does not provide any concrete examples, evidence, or elaboration, none of the rubric criteria are met. Consequently, each criterion receives a score of 0, resulting in a total score of 0.","### Strengths
+- You mentioned biodiversity features, which is a relevant topic for sustainability.
+
+### Areas for Improvement
+- Provide more detail about how these features would benefit the environment across Wales.
+- Explain how the community might gain from such features (e.g., learning opportunities, local food production).
+- Discuss how this could help schools be more resilient in the future (e.g., resource savings, climate adaptation).
+
+### Advice
+- Try to expand your answer with specific examples and clear explanations. Keep going—you’re on the right track!"
+421,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,water ,0,"{
+  ""Feature Selection & Explanation"": 0,
+  ""Systems Identification"": 0,
+  ""Systems Connections"": 0,
+  ""Positive Environmental Impact"": 0
+}
+
+The student’s response consists only of the word ""water"".  According to the rubric, a full answer should identify a specific design feature, explain it, identify the natural system(s) involved, describe how those systems connect, and explain a positive environmental impact.  The answer provides none of these elements, so each criterion receives a score of 0.  While the mention of water hints at a natural element, it is insufficient to meet any of the rubric categories.","### Strengths
+- You mentioned a key natural element (water), which is a good starting point.
+
+### Areas for Improvement
+- Provide a clear description of the design feature you chose.
+- Explain how that feature relates to one or more Earth systems (e.g., hydrosphere, biosphere).
+- Describe how the feature connects those systems together.
+- Highlight a positive environmental impact your design would have.
+
+### Advice
+- Think about how your design helps the environment and try to write a few sentences that show that connection. Keep going—you can do it!"
+379,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,i created a garden to help the. enuironment.,0,"{
+  ""Feature Selection & Explanation"": 0,
+  ""Systems Identification"": 0,
+  ""Systems Connections"": 0,
+  ""Positive Environmental Impact"": 0
+}
+
+The student’s answer is very brief and does not provide any explanation of the chosen design feature, identify which natural system it relates to, describe how it connects to other systems, or explain the positive environmental impact. Because none of the rubric criteria are met, each criterion receives a score of 0, resulting in a total score of 0. Encourage the student to expand on their idea, describe the garden’s role in the ecosystem, and explain how it benefits the environment.","### Strengths
+* You have chosen to create a garden, which is a good start toward thinking about environmental projects.
+
+### Areas for Improvement
+* Provide more detail about what the garden will do and how it helps the environment.
+* Explain which natural systems (e.g., soil, water, plants) are involved and how they are connected.
+
+### Advice
+* Keep brainstorming and write a few sentences about how your garden will work and why it matters. Good job taking the first step!"
+380,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,if all schools created a garden there wowld be more animal and insects,1,"{
+  ""Wales-Wide Environmental Impact"": 1,
+  ""Community Benefits"": 0,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 0
+}
+
+The student’s answer shows a very basic idea that gardens would attract more animals and insects, which touches on environmental impact at a local level. However, the response lacks detail, explanation, and connection to broader Wales-wide effects, community benefits, future resilience, or a comprehensive understanding of the feature’s implications. Therefore, only a modest score is awarded for environmental impact, while the other criteria receive zero due to insufficient content.","### Strengths
+- You identified that gardens can attract more wildlife, showing an awareness of biodiversity.
+
+### Areas for Improvement
+- Expand on how a garden would benefit the whole of Wales, not just a single school.
+- Explain how the garden could help the community (e.g., learning opportunities, food sharing) and support future resilience (e.g., food security, climate adaptation).
+- Provide more detail and examples to show a deeper understanding of the feature.
+
+### Advice
+- Keep thinking about the bigger picture and try to describe the impact in more detail. Great start—keep building on it!"
+331,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,"in will help it
+",0,"{
+  ""Feature Selection & Explanation"": 0,
+  ""Systems Identification"": 0,
+  ""Systems Connections"": 0,
+  ""Positive Environmental Impact"": 0
+}
+
+The student’s response, ""in will help it,"" does not provide any information about the chosen design feature, does not identify any Earth systems, offers no explanation of how those systems are connected, and does not describe any positive environmental impact. Each rubric criterion requires at least a brief, clear statement to earn a point, and none of those are present. Therefore, all scores are 0 and the total is 0.","### Strengths
+* You made an attempt to answer the question.
+
+### Areas for Improvement
+* Clearly describe the design feature you chose.
+* Identify which Earth systems (e.g., Biosphere, Hydrosphere, Atmosphere, Geosphere) are involved.
+* Explain how those systems are connected through your design.
+* Describe the positive environmental impact your design would have.
+
+### Advice
+* Keep working on adding details and examples; the more you explain, the stronger your answer will be!"
+383,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,in the future my desing would help schools cope with climate challenges by using solar panels and wind turbines to make electricity. ,3,"{
+  ""Wales-Wide Environmental Impact"": 1,
+  ""Community Benefits"": 0,
+  ""Future Resilience"": 1,
+  ""Overall Understanding"": 1
+}
+
+The student’s answer shows a clear idea of using solar panels and wind turbines, which demonstrates an understanding of renewable energy and its potential to reduce carbon emissions across Wales – earning 1 point for Wales-Wide Environmental Impact. The response does not mention any benefits to the local community, so Community Benefits receives 0. The mention of coping with climate challenges directly addresses Future Resilience, giving 1 point. Overall, the student shows a basic grasp of the concept, but the answer is very brief and lacks detail, so Overall Understanding is awarded 1. Total score is 3 out of 5.","### Strengths
+* You identified renewable energy sources (solar panels and wind turbines) that can help schools reduce their carbon footprint.
+* You linked the idea to future climate challenges, showing an awareness of resilience.
+
+### Areas for Improvement
+* Expand on how these renewable systems could benefit the local community (e.g., cost savings, educational opportunities, community energy sharing).
+* Provide more detail about the environmental impact (e.g., reduced emissions, energy independence).
+* Check spelling and punctuation to make your answer clearer.
+
+### Advice
+* Keep thinking about how your ideas can help both the environment and the people around you. Great start!"
+423,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,We said we would use rain water to water all our plants. Use compost bins too. We would have lots of windows for natural sunlight as well as sky lights and renewable energies to power lights and our ovens. We had a green roof and some solar panels. We had a plant area to chill and our benches and other stuff were made with sustainable wood.,5,"{
+  ""Feature Selection & Explanation"": 1,
+  ""Systems Identification"": 1,
+  ""Systems Connections"": 2,
+  ""Positive Environmental Impact"": 1
+}
+
+The student lists several design features (rainwater harvesting, compost bins, natural lighting, renewable energy, green roof, solar panels, sustainable wood) and shows an understanding of how these relate to Earth’s natural systems. While the explanation of why each feature was chosen is brief, the inclusion of the features themselves and the implicit connections to the Hydrosphere, Geosphere, Atmosphere, and Biosphere earn full credit for Feature Selection & Explanation and Systems Identification. The student also demonstrates clear links between the features and the systems (e.g., rainwater to plants, compost to soil, sunlight to plant growth, green roof to habitat), which justifies the maximum score for Systems Connections. Finally, the use of renewable resources and waste reduction clearly supports a positive environmental impact, earning full credit for that criterion. Overall, the answer meets all rubric criteria at the highest level, so the total score is 5.","### Strengths
+- You included a wide range of sustainable features such as rainwater harvesting, compost bins, natural lighting, renewable energy, a green roof, and sustainable wood.
+- Your answer shows an awareness of how these features can reduce waste and use natural resources.
+
+### Areas for Improvement
+- Try to explain a bit more about *why* each feature was chosen and how it specifically benefits the environment.
+- Explicitly name the Earth systems (e.g., Hydrosphere, Geosphere, Atmosphere, Biosphere) when you talk about each feature to strengthen the Systems Identification.
+
+### Advice
+Keep up the great work! Adding a little more detail about the reasoning behind each feature will make your explanation even stronger."
+428,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,i dont know i didnt get it so i didnt really do anything ,0,"{
+  ""Feature Selection & Explanation"": 0,
+  ""Systems Identification"": 0,
+  ""Systems Connections"": 0,
+  ""Positive Environmental Impact"": 0
+}
+
+The student’s response contains no explanation of a design feature, no identification of natural systems, no discussion of how those systems connect, and no mention of environmental benefits. Because each rubric criterion requires at least some content to earn points, the student receives 0 in every category. This score reflects the absence of the required information, not the student’s effort. Encourage the student to revisit the question, brainstorm a simple design idea, and describe how it links to Earth’s systems.","### Strengths
+- You attempted to answer the question.
+
+### Areas for Improvement
+- Provide a clear description of a design feature you have chosen.
+- Identify at least one natural system (e.g., Biosphere, Hydrosphere) that your feature relates to.
+- Explain how your feature connects to that system and any other systems.
+- Mention a positive environmental impact of your design.
+
+### Advice
+- Start with a simple idea, like a small garden or a rain barrel, and build your explanation from there. Keep up the effort—every attempt is a step forward!"
+378,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,We created a garden so children haves vegetables and fruit to help biosphere,0,"{
+  ""Feature Selection & Explanation"": 0,
+  ""Systems Identification"": 0,
+  ""Systems Connections"": 0,
+  ""Positive Environmental Impact"": 0
+}
+
+The student’s response is very brief and does not provide sufficient detail to meet any of the rubric criteria.  The answer only states that a garden was created and that it helps the biosphere.  It does not explain why the garden was chosen (Feature Selection & Explanation), it does not identify any natural systems beyond a vague mention of the biosphere (Systems Identification), it does not describe how the garden connects to other systems such as the hydrologic or geologic cycles (Systems Connections), nor does it elaborate on the positive environmental impact beyond a single sentence (Positive Environmental Impact).  Because none of the criteria are adequately addressed, each receives a score of 0, resulting in a total score of 0.","### Strengths
+* You identified a design feature—a garden—that can support children’s access to fresh produce.
+
+### Areas for Improvement
+* Explain why you chose a garden as your design feature and describe how it benefits the children.
+* Identify at least one natural system (e.g., biosphere, hydrologic cycle) that the garden interacts with.
+* Describe how the garden connects to other systems (e.g., water cycle, soil formation) and give specific examples.
+* Discuss the positive environmental impact in more detail—how does the garden reduce waste, improve soil health, or support local biodiversity?
+
+### Advice
+* Keep building on your idea by adding more details and examples.  The more you explain the connections and benefits, the stronger your answer will be!"
+361,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,things wouldnt get wasted and pollution and alot of energy use wouldn't be nessacary. ,1,"{
+  ""Wales-Wide Environmental Impact"": 1,
+  ""Community Benefits"": 0,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 0
+}
+
+The student’s answer shows a basic awareness that using the chosen feature would reduce waste, lower pollution, and cut energy use – which addresses the Wales-Wide Environmental Impact criterion, earning 1 out of 2 points. However, the response does not mention any benefits to the local community, nor does it discuss how the feature could help schools become more resilient in the future. The overall understanding is limited because the answer is very brief and lacks detail. Therefore, the student receives 0 points for Community Benefits, Future Resilience, and Overall Understanding, resulting in a total score of 1.","### Strengths
+- You identified key environmental benefits such as reduced waste, lower pollution, and decreased energy use.
+
+### Areas for Improvement
+- Expand on how this feature would benefit the local community (e.g., sharing produce, community events).
+- Explain how the feature could help schools become more resilient to future challenges (e.g., resource shortages, climate change).
+- Provide more detail and examples to show a deeper understanding.
+
+### Advice
+- Keep thinking about the broader impacts of your ideas – the more details you add, the stronger your answer will be!"
+422,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,"t, Energy Systems, ",0,"{
+  ""Wales-Wide Environmental Impact"": 0,
+  ""Community Benefits"": 0,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 0
+}
+
+The student’s response ""t, Energy Systems,"" does not provide any explanation or detail about what would happen if all schools in Wales used the chosen feature. Consequently, none of the rubric criteria are met: there is no discussion of environmental impact, community benefits, future resilience, or overall understanding of the concept. The answer is essentially a placeholder and lacks the content required for scoring. For a higher score, the student would need to describe how the feature would affect Wales as a whole, benefit local communities, contribute to future resilience, and demonstrate a clear grasp of the topic.","### Strengths
+* You attempted to answer the question, showing that you are engaging with the task.
+
+### Areas for Improvement
+* Provide a clear explanation of how the feature would work in schools.
+* Include specific examples of environmental benefits, community impact, and future resilience.
+
+### Advice
+* Keep trying! Start by writing a few sentences about what the feature does and then think about how it would help students, teachers, and the community."
+369,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,if schools in wales installed solar panels it would help reduce electricity  cost,3,"{
+  ""Wales-Wide Environmental Impact"": 1,
+  ""Community Benefits"": 1,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 1
+}
+
+The student correctly identifies a feature—solar panels—and notes a clear benefit of reduced electricity costs, which shows an understanding of how renewable energy can support schools. This earns a point for Community Benefits. The mention of solar panels also hints at a positive environmental impact, so a single point is awarded for Wales-Wide Environmental Impact, though the answer would have earned more if it explicitly discussed reduced carbon emissions or other ecological benefits. The response does not address future resilience (e.g., how solar panels could help schools cope with power outages or long-term energy security), so no points are given for that criterion. Overall, the student demonstrates a basic grasp of the concept, meriting one point for Overall Understanding. The total score is 3 out of a possible 5.","### Strengths
+* You identified solar panels as a renewable energy option and highlighted a clear benefit—lower electricity costs.
+
+### Areas for Improvement
+* Explain how solar panels help the environment (e.g., reduce carbon emissions, lower pollution).
+* Discuss how this feature could benefit the wider community, such as providing extra funding or educational opportunities.
+* Consider future resilience: how solar panels might help schools during power cuts or in the long term.
+
+### Advice
+* Keep thinking about the broader impacts of your ideas—environmental, social, and future‑proofing aspects all strengthen your answer!"
+34,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,we made a green house for crops so we can make are own food in school right there and then and we also mad a football pitch made out of astro turf for the feild,0,"{
+  ""Feature Selection & Explanation"": 0,
+  ""Systems Identification"": 0,
+  ""Systems Connections"": 0,
+  ""Positive Environmental Impact"": 0
+}
+
+The student’s answer mentions a greenhouse and an astro turf football pitch, but it does not provide an explanation for why these features were chosen, nor does it identify any specific Earth systems (e.g., biosphere, hydrosphere). The response also lacks any discussion of how the greenhouse or the football pitch connect to natural systems or how they might positively impact the environment. Because each rubric criterion requires at least a brief, clear statement that meets the criterion, the answer receives 0 points for each category. The student shows initiative in thinking about school facilities, but the answer needs more detail and explicit connections to the rubric expectations.","### Strengths
+- You identified two design features: a greenhouse for crops and an astro turf football pitch.
+
+### Areas for Improvement
+- Explain why you chose the greenhouse and how it helps the school.
+- Identify which Earth system(s) (e.g., biosphere, hydrosphere) the greenhouse or pitch relates to.
+- Describe how these features connect to those natural systems.
+- Discuss any positive environmental impact, such as reducing food waste or saving energy.
+
+### Advice
+Keep brainstorming ideas and try to link each one to the natural world and its benefits. Great start—just add a bit more detail and explanation!"
+378,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,More Animals and inseats ,0,"""{\""Wales-Wide Environmental Impact\"": 0, \""Community Benefits\"": 0, \""Future Resilience\"": 0, \""Overall Understanding\"": 0}""
+
+The student’s response, ""More Animals and inseats"", does not address the question of what would happen if all schools in Wales used the chosen feature. It lacks any explanation of environmental impact, community benefits, future resilience, or overall understanding of the feature’s implications. Consequently, none of the rubric criteria are met, resulting in a score of zero for each category. For future work, the student should describe how the feature would function, its benefits to the environment and community, and how it could help schools adapt to future challenges.","### Strengths
+* You mentioned a potential element (animals) that could be part of a school feature.
+
+### Areas for Improvement
+* Provide a clear explanation of how the feature works and its impact.
+* Connect your idea to environmental benefits, community gains, and future resilience.
+
+### Advice
+* Keep thinking about how your ideas could help schools and the wider community. Good luck!"
+424,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,If all schools in Wales installed our pond they would save water and also save our enviroment ,1,"{
+  ""Wales-Wide Environmental Impact"": 1,
+  ""Community Benefits"": 0,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 0
+}
+
+The student’s answer identifies a key environmental benefit – water savings – and hints at a broader environmental impact. This satisfies part of the Wales-Wide Environmental Impact criterion, earning 1 out of 2 points. However, the response lacks detail and does not address community benefits, future resilience, or demonstrate a comprehensive understanding of the feature’s implications. Consequently, no points are awarded for those categories. The overall understanding is minimal, so 0 points are given. The total score is 1 out of a possible 5.","### Strengths
+- You correctly identified that installing ponds could save water and benefit the environment.
+
+### Areas for Improvement
+- Explain how the pond would benefit the local community (e.g., learning opportunities, community events).
+- Discuss how the pond could help schools become more resilient to future challenges (e.g., drought, climate change).
+- Provide more detail and examples to show a deeper understanding of the feature’s impact.
+
+### Advice
+- Keep thinking about the broader effects of your ideas – the more details you add, the stronger your answer will be!"
+353,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,"in our group we produced a 3d model crafted from household receycled material, based on the outside yard social spaces. To include nature in our design we implanted huge 18ft hedges surrounding the pertimiter of the school. this idea will make kids feel positive when the stunning greenary catches their eyes. these hedges will also make children feel normal not like their trapped in a cage like the effect boring metal fences give out",1,"{
+  ""Feature Selection & Explanation"": 1,
+  ""Systems Identification"": 0,
+  ""Systems Connections"": 0,
+  ""Positive Environmental Impact"": 0
+}
+
+The student clearly identified a design feature – the 18‑ft hedges – and gave a brief explanation of why they chose it (to make kids feel positive and less confined). This satisfies the Feature Selection & Explanation criterion, so it receives the full 1 point. However, the answer does not mention any of Earth’s natural systems (e.g., Biosphere, Atmosphere, Hydrosphere, Geosphere), so the Systems Identification criterion is not met. Likewise, there is no explicit discussion of how the hedges connect to those systems, so Systems Connections scores 0. Finally, the response does not describe any environmental benefit (such as reducing heat island effect, improving air quality, or supporting biodiversity), so Positive Environmental Impact also scores 0. The total score is therefore 1 out of a possible 5.","### Strengths
+* You identified a clear design feature (the hedges) and explained how it would make children feel better.
+
+### Areas for Improvement
+* Try to name at least one of Earth’s natural systems (e.g., Biosphere, Atmosphere) that your feature relates to.
+* Explain how the hedges connect to that system – for example, how they might help with air quality or provide habitat.
+* Mention a specific environmental benefit your design would bring, such as reducing heat, improving soil, or supporting local wildlife.
+
+### Advice
+* Keep thinking about how your ideas fit into the bigger picture of Earth’s systems – the more connections you can make, the stronger your answer will be!"
+370,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,the systems are water on earth and then it connects with air and the planet and thr air around our plantet ,1,"{
+  ""Feature Selection & Explanation"": 0,
+  ""Systems Identification"": 1,
+  ""Systems Connections"": 0,
+  ""Positive Environmental Impact"": 0
+}
+
+The student’s response briefly mentions two natural systems—water and air—and notes that they are connected to the planet. This satisfies the Systems Identification criterion at the basic level, earning 1 point. However, the answer does not describe a specific design feature or explain how it was chosen, so Feature Selection & Explanation receives 0. The student also does not elaborate on how the identified systems interact with each other in a meaningful way, nor does he or she discuss any positive environmental impact of the design. Consequently, both Systems Connections and Positive Environmental Impact are scored 0. The overall score reflects the limited detail and lack of depth in the response.","### Strengths
+- You identified that water and air are part of Earth's natural systems.
+
+### Areas for Improvement
+- Explain a specific design feature you chose and why you selected it.
+- Describe in more detail how the systems you mentioned are connected and how your feature uses or affects those connections.
+- Discuss how your design could positively impact the environment.
+
+### Advice
+- Keep thinking about how your ideas fit into the bigger picture of Earth's systems. Great start—just add a bit more detail next time!"
+361,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,my desgin has materials that can be reclycled.,1,"{
+  ""Feature Selection & Explanation"": 0,
+  ""Systems Identification"": 0,
+  ""Systems Connections"": 0,
+  ""Positive Environmental Impact"": 1
+}
+
+The student’s answer only states that the design uses recyclable materials. This statement identifies a design feature but offers no explanation of why it was chosen or how it works. There is no mention of any Earth system (e.g., biosphere, geosphere, atmosphere, hydrosphere) or how the feature interacts with those systems, so both the Systems Identification and Systems Connections criteria receive zero points. The mention of recycling does imply a positive environmental impact, which satisfies that criterion at the maximum score of 1. Overall, the response meets only the minimal requirement for environmental benefit, earning a total of 1 out of 5.","### Strengths
+* You identified a design feature that uses recyclable materials, showing awareness of sustainability.
+
+### Areas for Improvement
+* Explain why you chose recyclable materials and how they benefit the design.
+* Identify which natural systems (e.g., biosphere, geosphere) are involved and describe how your feature connects to them.
+* Describe the broader environmental impact of using recyclable materials.
+
+### Advice
+* Keep thinking about the ‘why’ and ‘how’ behind each design choice—this will help you show deeper connections to Earth’s systems."
+318,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,If I had to be honest i think some schools would use is and other ones would break it,0,"{
+  ""Wales-Wide Environmental Impact"": 0,
+  ""Community Benefits"": 0,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 0
+}
+
+The student’s response is very brief and does not address any of the rubric criteria. It merely states that some schools might use the feature while others might break it, with no explanation of environmental impact, community benefits, future resilience, or overall understanding. Because none of the required elements are present, each criterion receives a score of 0, resulting in a total score of 0. The feedback will encourage the student to develop a more detailed answer that covers the key aspects of the question.","### Strengths
+* You attempted to answer the question and acknowledged that different schools might react differently to the feature.
+
+### Areas for Improvement
+* Provide more detail about how the feature would affect schools across Wales.
+* Explain any environmental benefits, community advantages, or ways the feature could help schools be more resilient in the future.
+* Show a clear understanding of the overall impact of the feature.
+
+### Advice
+* Keep trying! Think about the big picture and try to describe the positive changes your idea could bring to all schools."
+29,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,null,0,"{
+  ""Wales-Wide Environmental Impact"": 0,
+  ""Community Benefits"": 0,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 0
+}
+
+The student did not provide an answer (the response is 'null'). Therefore, there is no content to evaluate against any of the rubric criteria. As a result, all criteria receive a score of 0. The teacher should encourage the student to submit a complete answer so that the learning objectives can be assessed.","### Strengths
+* None provided.
+### Areas for Improvement
+* Submit a full answer to the question so that your ideas can be evaluated.
+### Advice
+* Keep trying – your thoughts are valuable, and sharing them will help you grow!"
+405,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,if all schools in wales installed a sustainable playground it would reduce more sustainable of the children,1,"{
+  ""Wales-Wide Environmental Impact"": 0,
+  ""Community Benefits"": 0,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 1
+}
+
+The student’s answer is very brief and lacks detail. They mention installing a sustainable playground, which shows a basic idea of environmental improvement, earning a single point for overall understanding. However, the response does not explain how this would benefit Wales as a whole, how it would help the community, or how it would increase resilience for future schools. Because these key aspects are missing, the other criteria receive zero points.","### Strengths
+* You identified a sustainable playground as a feature that could be used in schools.
+
+### Areas for Improvement
+* Explain how a sustainable playground would reduce environmental impact across Wales.
+* Describe any benefits it would bring to the local community (e.g., health, social interaction).
+* Consider how it could help schools be more resilient in the future (e.g., resource savings, adaptability).
+
+### Advice
+* Keep thinking about the big picture—how does your idea help everyone, not just the school? Great start, keep building on it!"
+38,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,"We added solar panels, Large windows , skylights and outside learning area 
+
+",0,"{
+  ""Feature Selection & Explanation"": 0,
+  ""Systems Identification"": 0,
+  ""Systems Connections"": 0,
+  ""Positive Environmental Impact"": 0
+}
+
+The student’s answer lists several design features—solar panels, large windows, skylights, and an outside learning area—but does not provide any explanation of why these features were chosen or how they relate to Earth’s natural systems. Consequently, none of the rubric criteria are met:
+
+• Feature Selection & Explanation: The answer identifies features but offers no explanation or justification, so 0 points.
+• Systems Identification: No natural system (e.g., Atmosphere, Hydrosphere, Biosphere) is mentioned, so 0 points.
+• Systems Connections: Without identifying systems, there is no way to show how the design connects to them, so 0 points.
+• Positive Environmental Impact: The answer does not describe any environmental benefits, so 0 points.
+
+Overall, the student’s response is very brief and lacks the depth required for any credit. Encourage the student to elaborate on each feature, link it to a specific natural system, explain the connection, and describe the positive environmental impact.","### Strengths
+* You identified several interesting design features such as solar panels, large windows, skylights, and an outside learning area.
+
+### Areas for Improvement
+* Explain why each feature was chosen and how it benefits the building or users.
+* Identify which of Earth’s natural systems (e.g., Atmosphere, Hydrosphere, Biosphere, Geosphere) each feature interacts with.
+* Describe how the feature connects to those systems and what positive environmental impact it has.
+
+### Advice
+* Keep brainstorming ideas—now add a few sentences for each to show how they work with nature and help the environment. Great start!"
+9,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,geosphere because we planned and mapped a eco friendly/sustaiable school,1,"{
+  ""Feature Selection & Explanation"": 0,
+  ""Systems Identification"": 1,
+  ""Systems Connections"": 0,
+  ""Positive Environmental Impact"": 0
+}
+
+The student’s answer identifies the geosphere as a relevant natural system, which earns 1 point for Systems Identification. However, the response lacks a clear description of the chosen design feature and how it was selected, so Feature Selection & Explanation receives 0. The student does not explain how the geosphere connects to other systems (e.g., biosphere, atmosphere), so Systems Connections is 0. Finally, while the student mentions an eco‑friendly/sustainable school, they do not articulate a specific positive environmental impact, resulting in 0 for Positive Environmental Impact. Overall, the answer demonstrates a basic awareness of one natural system but needs more detail and linkage to meet the rubric criteria.","### Strengths
+- You correctly identified the geosphere as a relevant natural system.
+
+### Areas for Improvement
+- Explain what specific design feature you chose and why you selected it.
+- Describe how the geosphere connects to other natural systems (e.g., how soil, water, or energy flows between systems).
+- Provide a clear example of the positive environmental impact your design will have.
+
+### Advice
+- Keep exploring how different parts of Earth’s systems work together; this will make your explanations stronger and more engaging!"
+390,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,"i dont know, i dont remember ",0,"{
+  ""Feature Selection & Explanation"": 0,
+  ""Systems Identification"": 0,
+  ""Systems Connections"": 0,
+  ""Positive Environmental Impact"": 0
+}
+
+The student’s response contains no information about a design feature, no explanation of how it relates to Earth's natural systems, and no mention of any specific systems or environmental impact. Therefore, none of the rubric criteria are met, resulting in a score of 0 for each category and a total score of 0. The teacher might consider prompting the student to recall or brainstorm a design idea and guide them to describe its connections to natural systems.","### Strengths
+* You attempted to answer the question.
+
+### Areas for Improvement
+* Provide a clear description of a design feature you chose.
+* Explain which Earth system(s) it connects to and how.
+* Discuss the positive environmental impact of that feature.
+
+### Advice
+* Think of one simple design idea (e.g., a rain barrel, a school garden, a solar panel) and write a short paragraph about how it works with nature and helps the environment."
+5,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,"the world in wales would look more tidy and neat
+",1,"{
+  ""Wales-Wide Environmental Impact"": 1,
+  ""Community Benefits"": 0,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 0
+}
+
+The student’s answer is very brief but does mention a positive change that could happen across Wales – a tidier and neater environment. This suggests a basic awareness of a potential environmental benefit, so a score of 1 is awarded for the Wales-Wide Environmental Impact criterion. The response does not provide any specific examples of how the feature would benefit local communities, nor does it discuss future resilience or demonstrate a deeper overall understanding of the topic. Therefore, zero points are given for Community Benefits, Future Resilience, and Overall Understanding. The total score is 1 out of a possible 5.","### Strengths
+* You identified a positive outcome for Wales as a whole, showing you can think about the broader impact.
+
+### Areas for Improvement
+* Explain how the feature would make Wales tidier and neat – what actions or changes would happen?
+* Add examples of how local communities could benefit (e.g., cleaner streets, more green spaces).
+* Consider how this feature could help schools be more resilient in the future (e.g., saving resources, preparing for shortages).
+
+### Advice
+* Keep brainstorming specific ways your idea could improve the environment and help people. The more details you add, the stronger your answer will be!"
+426,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,"Atmosphere because we was talking about using recycled materials for equipment also adding more bins, composting area and to grow our own fruit and vegetables ",1,"{
+  ""Feature Selection & Explanation"": 0,
+  ""Systems Identification"": 0,
+  ""Systems Connections"": 0,
+  ""Positive Environmental Impact"": 1
+}
+
+The student’s answer lists several ideas—recycled materials, additional bins, a composting area, and growing fruit and vegetables—but does not clearly state a single design feature or explain how it works. The response mentions the Atmosphere but fails to identify other relevant Earth systems (e.g., Biosphere, Hydrosphere, Geosphere). Connections between the proposed features and the natural systems are not articulated; the student simply lists actions without linking them to system processes. However, the student does highlight positive environmental impacts by referencing recycling, composting, and local food production, which earns the full point for that criterion. Overall, the answer lacks depth in feature explanation, system identification, and system connections, resulting in a low score for those categories.","### Strengths
+- You mentioned several eco-friendly ideas such as using recycled materials, adding bins, composting, and growing fruit and vegetables.
+
+### Areas for Improvement
+- Clearly state one main design feature and explain how it works.
+- Identify at least two Earth systems (e.g., Atmosphere, Biosphere) that your feature connects to.
+- Describe how your feature links to those systems—explain the cause‑effect relationship.
+
+### Advice
+- Keep up the great enthusiasm for sustainability! Try to organize your ideas into a clear, step‑by‑step explanation so your teacher can see the full picture."
+353,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,children will feel freedom whilst they are in school expanding their knowledge and they will be safe from the real world aswell,1,"{
+  ""Wales-Wide Environmental Impact"": 0,
+  ""Community Benefits"": 0,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 1
+}
+
+The student’s answer focuses on personal feelings of freedom and safety while in school, but does not address any environmental impact, community benefits, or future resilience aspects of the chosen feature. The response shows a basic understanding of the positive effects of school on children’s well‑being, which earns a single point for overall understanding. No points are awarded for the other criteria because the answer lacks relevant content in those areas.","### Strengths
+* You highlighted how children might feel freedom and safety, and that they can expand their knowledge.
+### Areas for Improvement
+* Explain how your feature would affect the environment across Wales.
+* Describe how it could benefit local communities and help schools be more resilient in the future.
+### Advice
+* Keep exploring how your ideas can help both people and the planet—great start!"
+347,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,We tried to include things to help the enviroment and biophilic design,0,"{
+  ""Feature Selection & Explanation"": 0,
+  ""Systems Identification"": 0,
+  ""Systems Connections"": 0,
+  ""Positive Environmental Impact"": 0
+}
+
+The student’s response is very brief and does not provide enough detail to meet any of the rubric criteria. They mention a general intention to help the environment and biophilic design, but they do not identify a specific design feature, explain it, or link it to any natural system. Consequently, no points can be awarded for Feature Selection & Explanation, Systems Identification, Systems Connections, or Positive Environmental Impact. Encourage the student to elaborate on a concrete feature, name the relevant Earth system(s), describe how the feature interacts with those systems, and explain the environmental benefits.","### Strengths
+- You recognized the importance of environmental friendliness and biophilic design.
+
+### Areas for Improvement
+- Provide a clear, specific design feature you included in your project.
+- Identify which Earth system(s) (e.g., Biosphere, Hydrosphere, Atmosphere) your feature relates to.
+- Explain how your feature connects to those systems and describe the positive environmental impact.
+
+### Advice
+- Keep up the good idea of thinking about the environment—just add more detail and examples to show how it works!"
+355,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,"A lot less food waste would occur, and it will be a fresher way to get rid of it. It will be a fun way for kids to learn about the environment and learn about food waste.",3,"{
+  ""Wales-Wide Environmental Impact"": 1,
+  ""Community Benefits"": 1,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 1
+}
+
+The student correctly identifies that using the chosen feature would reduce food waste across Wales, earning a score of 1 for Wales-Wide Environmental Impact. They also note that the activity would be a fun learning experience for children, which satisfies the Community Benefits criterion with a score of 1. However, the answer does not address how the feature would help schools become more resilient to future challenges, so Future Resilience receives 0. The response shows a basic grasp of the concept—recognizing both environmental and educational benefits—so Overall Understanding is awarded 1. The total score is 3 out of a possible 5.","### Strengths
+- You highlighted that the feature would reduce food waste, showing awareness of its environmental benefit.
+- You mentioned that it would be a fun learning experience for kids, indicating an understanding of community benefits.
+
+### Areas for Improvement
+- Try to explain *how* the reduction in food waste benefits the wider environment (e.g., less methane, lower landfill use).
+- Consider how this feature could help schools prepare for future challenges, such as resource shortages or climate change.
+
+### Advice
+- Keep thinking about the bigger picture—how does your idea help not just the school, but the whole community and future generations? Great start, keep building on it!"
+387,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,"we use filterd rain water for hydrosphere
+we grew plants like trees for the air
+we had plants for the biosphere
+",3,"{
+  ""Feature Selection & Explanation"": 0,
+  ""Systems Identification"": 1,
+  ""Systems Connections"": 1,
+  ""Positive Environmental Impact"": 1
+}
+
+The student lists three design features—filtered rain water, trees, and plants—showing an attempt to link the design to Earth’s natural systems. They correctly identify the hydrosphere, biosphere, and implicitly the atmosphere, earning full credit for Systems Identification. However, the explanation of how each feature works and why it was chosen is very brief, so Feature Selection & Explanation receives 0. The student mentions that filtered rain water is used for the hydrosphere and that plants help the air and biosphere, which shows a basic connection between the design and the systems, but the connections are not fully elaborated; thus Systems Connections receives 1 out of 2. Positive Environmental Impact is acknowledged indirectly through the use of filtered rain water and planting, which suggests reduced waste and improved air quality, so the student earns 1 point. Overall, the answer demonstrates a good start but would benefit from more detailed explanations and explicit discussion of environmental benefits.","### Strengths
+- You identified several key natural systems (hydrosphere, biosphere, and the atmosphere) and linked them to your design features.
+- You used clear, everyday examples like filtered rain water and trees.
+
+### Areas for Improvement
+- Explain why each feature was chosen and how it specifically works within the system.
+- Describe more clearly how the systems interact with each other (e.g., how filtered rain water supports plant growth and improves air quality).
+- State the positive environmental impact in your own words (e.g., reducing water waste, improving air quality, supporting local biodiversity).
+
+### Advice
+Keep exploring the connections between your ideas and Earth’s systems—adding a few more details will make your explanation stronger and clearer!"
+26,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,if all schools in wales installed water collecter it would reduce water needs,2,"{
+  ""Wales-Wide Environmental Impact"": 1,
+  ""Community Benefits"": 0,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 1
+}
+
+The student correctly identifies that installing water collectors would reduce water needs across Wales, which demonstrates a basic understanding of the environmental impact of the feature. However, the answer is very brief and does not address how this change would benefit local communities or contribute to future resilience (e.g., coping with droughts or water shortages). The overall understanding is limited to a single sentence, so while the idea is correct, it lacks depth and detail. Therefore, a score of 1 is awarded for environmental impact and 1 for overall understanding, with 0 for community benefits and future resilience.","### Strengths
+- You identified a clear environmental benefit of installing water collectors.
+
+### Areas for Improvement
+- Explain how this change would help the local community (e.g., saving money, providing water for gardens).
+- Discuss how it could make schools more resilient to future water shortages or climate changes.
+
+### Advice
+- Keep thinking about the wider effects of your ideas—more detail will make your answer stronger!"
+432,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,i dont know,0,"{
+  ""Wales-Wide Environmental Impact"": 0,
+  ""Community Benefits"": 0,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 0
+}
+
+The student’s response was simply ""i dont know"", which does not provide any information about the environmental impact, community benefits, future resilience, or overall understanding of the feature in the context of all schools in Wales. According to the rubric, each criterion requires at least some evidence of thought or explanation. Because none of the criteria were addressed, a score of 0 is appropriate for each. The total score is therefore 0. This outcome reflects the absence of content rather than any negative intent; the student has simply not yet engaged with the question.","### Strengths
+* You acknowledged that you didn’t know the answer, which is a good first step in learning.
+
+### Areas for Improvement
+* Try to think about how your chosen feature could affect schools in Wales. Consider environmental impact, community benefits, and future resilience.
+* Practice writing a short explanation, even if it’s just a few sentences.
+
+### Advice
+* Keep asking questions and exploring ideas. You can always ask for help or look up information to build your answer."
+294,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,My design connected with nature,0,"{
+  ""Feature Selection & Explanation"": 0,
+  ""Systems Identification"": 0,
+  ""Systems Connections"": 0,
+  ""Positive Environmental Impact"": 0
+}
+
+The student’s answer is only one short sentence: ""My design connected with nature."" It does not describe the specific design feature, identify which natural systems are involved, explain how those systems are connected, or mention any environmental benefits. Because none of the rubric criteria are addressed, each criterion receives a score of 0, leading to a total score of 0.","### Strengths
+* You recognized that your design has a relationship with nature, showing an awareness of environmental relevance.
+
+### Areas for Improvement
+* Describe the specific design feature you chose and explain why it matters.
+* Identify the natural systems (e.g., biosphere, hydrosphere, atmosphere) that your feature interacts with.
+* Explain how your feature connects to those systems and outline any positive environmental impact.
+
+### Advice
+* Keep exploring how your ideas can work with Earth's systems and try to add more detail next time!"
+16,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,"it wood be good there would be no waste and alot of water for people to drink so nobody would get thirsty . And that everybody can go and feel calm and like theres no stress 
+",3,"{
+  ""Wales-Wide Environmental Impact"": 1,
+  ""Community Benefits"": 1,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 1
+}
+
+The student’s answer shows a basic awareness that using the chosen feature could reduce waste and provide water, which touches on environmental impact across Wales – worth 1 point. They also mention that everyone would feel calm and stress-free, indicating a community benefit, so 1 point is awarded there. The response does not address how the feature would help schools become more resilient to future challenges, so no points for Future Resilience. Overall, the student demonstrates a simple understanding of the idea, but the explanation is very brief and lacks detail, so we award 1 point for Overall Understanding. This gives a total of 3 out of 5.","### Strengths
+- You identified that the feature could reduce waste and provide water, showing an awareness of environmental benefits.
+- You mentioned that people would feel calm and stress-free, highlighting a positive community impact.
+
+### Areas for Improvement
+- Try to explain *how* the feature would reduce waste and provide water – give a bit more detail.
+- Think about how this idea could help schools handle future challenges, like shortages or climate changes.
+
+### Advice
+- Keep exploring the connections between your idea and real-world benefits – the more detail you add, the stronger your answer will be!"
+391,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,all the scolls in wales need to have things good for the enviroment in the future to take care of earth,1,"{
+  ""Wales-Wide Environmental Impact"": 1,
+  ""Community Benefits"": 0,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 0
+}
+
+The student’s response shows a basic awareness that schools should do something good for the environment, which earns a modest score for Wales-Wide Environmental Impact. However, the answer is very brief and lacks specific ideas, examples, or explanations. It does not mention any benefits to the local community, nor does it discuss how the feature would help schools become more resilient in the future. Overall, the understanding of the question is minimal, so the score for Overall Understanding is 0. The total score reflects the limited detail and depth of the response.","### Strengths
+* You recognized that schools should do something positive for the environment.
+
+### Areas for Improvement
+* Provide more detail about what the feature could be and how it would help the environment.
+* Explain how this could benefit the local community and help schools be more resilient.
+
+### Advice
+* Keep thinking about concrete ideas and give examples – the more detail you add, the stronger your answer will be!"
+389,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,maybe when people are bored they could go to the gardening area and plant some stuff,0,"{
+  ""Wales-Wide Environmental Impact"": 0,
+  ""Community Benefits"": 0,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 0
+}
+
+The student’s response is very brief and does not address any of the rubric criteria. There is no discussion of how using the chosen feature would impact the environment across Wales, benefit the community, or contribute to future resilience. The answer also lacks evidence of overall understanding of the topic. Because none of the key points are covered, each criterion receives a score of 0, resulting in a total score of 0.","### Strengths
+- You mentioned a gardening area, showing an awareness of a potential space for activity.
+
+### Areas for Improvement
+- Expand on how the gardening area could benefit the environment, the community, and future resilience.
+- Provide specific examples or ideas that show you understand the broader impact of using the feature.
+
+### Advice
+- Keep thinking about how your ideas could help people and the planet. The more details you add, the stronger your answer will be!"
+330,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,it would be good as we would have loads of water,0,"{
+  ""Wales-Wide Environmental Impact"": 0,
+  ""Community Benefits"": 0,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 0
+}
+
+The student’s response is very brief and does not provide any detail about how the chosen feature would impact Wales as a whole, benefit the community, or contribute to future resilience. The answer only mentions that having loads of water would be good, which does not demonstrate an understanding of environmental impact, community benefits, or resilience. Consequently, none of the rubric criteria are met, resulting in a score of 0 for each category and a total score of 0. Encourage the student to expand on their ideas and connect them to the broader context of sustainability in schools.","### Strengths
+* You identified that having more water could be beneficial.
+
+### Areas for Improvement
+* Explain how the increased water supply would help schools and the wider community.
+* Discuss any environmental or resilience benefits that could come from this feature.
+
+### Advice
+* Keep thinking about how your ideas could make a difference and try to describe those impacts in more detail."
+322,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,building materials,0,"{
+  ""Wales-Wide Environmental Impact"": 0,
+  ""Community Benefits"": 0,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 0
+}
+
+The student’s answer consists only of the phrase ""building materials"" with no further explanation or detail. Because the response does not describe how using building materials in all Welsh schools would affect the environment, benefit local communities, enhance future resilience, or demonstrate overall understanding of the topic, none of the rubric criteria can be awarded points. The student has identified a feature, but the answer lacks the depth required for any scoring.","### Strengths
+* You identified a feature—building materials—that could be used in schools.
+
+### Areas for Improvement
+* Explain how using these building materials would impact the environment across Wales.
+* Describe the benefits to local communities and how it could help schools be more resilient in the future.
+
+### Advice
+* Keep thinking about the broader effects of your ideas. Adding a few sentences to show the connections will make your answer stronger!"
+323,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,we made it so it would use solar panels and have an indoor garden,0,"{
+  ""Feature Selection & Explanation"": 0,
+  ""Systems Identification"": 0,
+  ""Systems Connections"": 0,
+  ""Positive Environmental Impact"": 0
+}
+
+The student’s answer is very brief and does not provide the depth required by the rubric. While they mention two design features—solar panels and an indoor garden—there is no explanation of why these features were chosen or how they function. The answer also fails to identify specific Earth natural systems (e.g., Atmosphere, Biosphere, Hydrosphere) that are involved, does not describe how the features connect to those systems, and does not discuss any positive environmental impact. Because each rubric criterion requires at least a minimal level of detail, the student receives a score of 0 for every category. This score reflects the need for more comprehensive responses, but it also acknowledges that the student has identified relevant design ideas.","### Strengths
+- You identified two interesting design features: solar panels and an indoor garden.
+
+### Areas for Improvement
+- Explain why you chose these features and how they work.
+- Identify which Earth natural systems (e.g., Atmosphere, Biosphere) are involved.
+- Describe how your features connect to those systems and what positive environmental impact they could have.
+
+### Advice
+- Keep thinking about how each part of your design ties into the bigger picture of Earth’s systems. Great start—just add a bit more detail!"
+6,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,"our garden had a lake for water, tree for oygen, insects for living things, and we had grass. Gurt: yo ü•Ä",0,"{
+  ""Feature Selection & Explanation"": 0,
+  ""Systems Identification"": 0,
+  ""Systems Connections"": 0,
+  ""Positive Environmental Impact"": 0
+}
+
+The student’s response lists a few elements of a garden (lake, tree, insects, grass) but does not provide any explanation of why these features were chosen or how they function within the design. There is no clear identification of Earth’s natural systems (e.g., hydrosphere, biosphere, atmosphere). The answer also lacks any discussion of how these systems are connected or interact with one another, and it does not mention any positive environmental impact resulting from the design. Because none of the rubric criteria are met in a meaningful way, each criterion receives a score of 0, resulting in a total score of 0.","### Strengths
+* You identified several components of your garden, such as a lake, a tree, insects, and grass.
+
+### Areas for Improvement
+* Explain why each feature was chosen and how it helps the garden.
+* Identify the natural systems involved (e.g., hydrosphere, biosphere, atmosphere).
+* Describe how these systems connect and support each other.
+* Discuss how your design benefits the environment (e.g., reduces waste, improves air quality).
+
+### Advice
+* Keep brainstorming and try to link each idea to a specific natural system and its benefits. Good effort—keep going!"
+38,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,null,0,"{
+  ""Wales-Wide Environmental Impact"": 0,
+  ""Community Benefits"": 0,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 0
+}
+
+The student did not provide any answer to the question, so none of the rubric criteria could be evaluated. As a result, all scores are 0. Encourage the student to submit a response next time so that we can assess their understanding of how the chosen feature would impact schools across Wales.","### Strengths
+* None provided in this submission.
+### Areas for Improvement
+* Please write a clear answer to the question, describing what would happen if all schools in Wales used your chosen feature.
+### Advice
+* Keep trying – your ideas are valuable, and a written response will help us see how you think about the impact on schools and communities."
+330,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,i think its better for the enviroment,0,"{
+  ""Feature Selection & Explanation"": 0,
+  ""Systems Identification"": 0,
+  ""Systems Connections"": 0,
+  ""Positive Environmental Impact"": 0
+}
+
+The student’s response is only a single sentence that states a vague opinion: ""i think its better for the enviroment."" It does not identify or explain a specific design feature, nor does it mention any natural system (e.g., biosphere, hydrosphere, atmosphere, geosphere). There is no discussion of how the feature interacts with or connects to these systems, and no explanation of the positive environmental impact beyond a general statement. Because none of the rubric criteria are met, each receives a score of 0, resulting in a total score of 0. Encourage the student to provide more detail and to explicitly link their design idea to Earth’s natural systems.","### Strengths
+* You recognized that your design could be better for the environment.
+
+### Areas for Improvement
+* Identify a specific design feature you are proposing.
+* Explain which natural system(s) (e.g., biosphere, hydrosphere) it involves.
+* Describe how the feature connects to those systems and what positive environmental impact it has.
+
+### Advice
+* Keep up the curiosity—just add a bit more detail and you’ll see your ideas shine!"
+21,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,"if mire schools used our designs, it would make most schools sustainable and cool",1,"{
+  ""Wales-Wide Environmental Impact"": 1,
+  ""Community Benefits"": 0,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 0
+}
+
+The student’s answer briefly states that using the design would make schools sustainable, which touches on a Wales-wide environmental benefit, earning a modest score of 1 out of 2. However, the response lacks detail, does not mention any community benefits, future resilience strategies, or demonstrate a deeper overall understanding of the feature’s impact. Therefore, the other criteria receive 0 points. The total score reflects the limited but present environmental idea.","### Strengths
+* You identified that the design could make schools more sustainable.
+
+### Areas for Improvement
+* Provide more details about how the design works and its environmental benefits.
+* Explain how the community might benefit (e.g., sharing resources, local events).
+* Discuss how the design could help schools be more resilient in the future.
+
+### Advice
+* Keep thinking about the bigger picture and try to add a few sentences that show how your idea helps everyone involved."
+425,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,the pipes link with water management by collecting rainwater to water plants or flush down the toilet,4,"{
+  ""Feature Selection & Explanation"": 1,
+  ""Systems Identification"": 1,
+  ""Systems Connections"": 1,
+  ""Positive Environmental Impact"": 1
+}
+
+The student clearly identifies the design feature (pipes) and explains its basic function of collecting rainwater for watering plants or flushing toilets, which earns full credit for Feature Selection & Explanation. They implicitly reference the water system by mentioning rainwater collection, so we award full credit for Systems Identification. For Systems Connections, the answer shows a link between the pipes and the hydrosphere (rainwater) and the biosphere (plants), but it lacks a deeper explanation of how these systems interact, so we give half credit (rounded to 1). The student also notes a positive environmental impact—reduced water usage and runoff—meriting full credit for Positive Environmental Impact. Overall, the response demonstrates a solid grasp of the concepts, though it could benefit from more detail in the connections section. The total score is 4 out of 5.","### Strengths
+- You clearly identified the design feature (pipes) and explained its purpose.
+- You mentioned how the pipes interact with the water system and the plants, showing an awareness of natural systems.
+- You highlighted a positive environmental benefit (reduced water use).
+
+### Areas for Improvement
+- Try to name the specific natural system (e.g., Hydrosphere, Biosphere) when you identify it.
+- Expand on how the pipes connect the water cycle to the plants and the broader environment—explain the flow of water and its impact.
+
+### Advice
+- Keep up the great work! Adding a bit more detail will make your explanations even stronger."
+432,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,"no
+",0,"{
+  ""Feature Selection & Explanation"": 0,
+  ""Systems Identification"": 0,
+  ""Systems Connections"": 0,
+  ""Positive Environmental Impact"": 0
+}
+
+The student’s response was simply ""no"", which does not provide any information about the design feature, the natural systems involved, how they connect, or the environmental impact. Therefore none of the rubric criteria are met, resulting in a score of 0 for each category and a total score of 0.","### Strengths
+* You attempted to answer the question.
+
+### Areas for Improvement
+* Provide a clear description of your design feature.
+* Identify which Earth systems (e.g., Biosphere, Hydrosphere, Atmosphere, Geosphere) are involved.
+* Explain how your feature connects to those systems.
+* Discuss the positive environmental impact of your design.
+
+### Advice
+* Take a moment to think about your project and write down the key points before answering. Keep trying—you can do it!"
+350,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,it will have a renewable energy and less harm in the world,2,"{
+  ""Wales-Wide Environmental Impact"": 1,
+  ""Community Benefits"": 0,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 1
+}
+
+The student’s answer briefly mentions renewable energy and reduced harm, which shows a basic grasp of environmental impact on a national scale, earning 1 point for the Wales-Wide Environmental Impact criterion. However, the response lacks detail and does not address how the feature would benefit local communities or contribute to future resilience, so those criteria receive 0 points. The overall understanding is acknowledged because the student identifies a key sustainability concept (renewable energy), but the explanation is very limited, so 1 point is awarded. The total score is 2 out of a possible 5.","### Strengths
+* You correctly identified renewable energy as a positive outcome, showing you understand a core sustainability idea.
+
+### Areas for Improvement
+* Expand on how renewable energy would benefit all schools in Wales—consider cost savings, learning opportunities, or environmental benefits.
+* Think about how the feature could help local communities (e.g., sharing surplus energy, community projects) and how it might make schools more resilient to future challenges.
+
+### Advice
+* Keep building on your ideas—adding a few more details will make your answer stronger and clearer!"
+333,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,i love the ecosystem,0,"{
+  ""Feature Selection & Explanation"": 0,
+  ""Systems Identification"": 0,
+  ""Systems Connections"": 0,
+  ""Positive Environmental Impact"": 0
+}
+
+The student’s response ""i love the ecosystem"" does not provide any of the required elements for this question.  There is no mention of a specific design feature, no explanation of that feature, no identification of which Earth system(s) it relates to, no discussion of how those systems connect, and no statement about a positive environmental impact.  Because none of the rubric criteria are met, each criterion receives a score of 0, resulting in a total score of 0.","### Strengths
+* The student shows enthusiasm for ecosystems, which is a good starting point for learning about environmental science.
+
+### Areas for Improvement
+* Provide a clear description of a specific design feature you have chosen.
+* Explain how that feature works and why it matters.
+* Identify which Earth system(s) (e.g., Biosphere, Hydrosphere, Atmosphere, Geosphere) the feature relates to.
+* Describe how those systems are connected and how your feature helps the environment.
+
+### Advice
+* Keep exploring and sharing your ideas—just add a bit more detail next time!"
+358,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,"our design had recyclable and renewable materials and had things such as plants, flower beds and a pond.",0,"{
+  ""Feature Selection & Explanation"": 0,
+  ""Systems Identification"": 0,
+  ""Systems Connections"": 0,
+  ""Positive Environmental Impact"": 0
+}
+
+The student’s answer lists a few design elements—recyclable and renewable materials, plants, flower beds, and a pond—but does not provide any explanation of why these features were chosen, which systems they belong to, how those systems interact, or how the design positively affects the environment. Each rubric criterion requires at least a brief, clear statement that addresses the specific aspect. Because none of those elements are present, the answer receives zero points for every category. This is an opportunity to expand the response by adding explanations and connections.","### Strengths
+- You identified several interesting design elements such as recyclable materials, plants, flower beds, and a pond.
+
+### Areas for Improvement
+- Explain why each feature was chosen and how it benefits the design.
+- Identify the natural systems involved (e.g., Biosphere, Hydrosphere, Atmosphere).
+- Describe how these systems connect and support one another.
+- Highlight the positive environmental impact of your design in more detail.
+
+### Advice
+- Think about the ‘why’ behind each feature and write a sentence or two about its role. Keep going—you’re on the right track!"
+338,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,null,0,"{
+  ""Wales-Wide Environmental Impact"": 0,
+  ""Community Benefits"": 0,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 0
+}
+
+The student’s response was ""null"", meaning no content was provided to evaluate. Consequently, none of the rubric criteria—Wales-Wide Environmental Impact, Community Benefits, Future Resilience, or Overall Understanding—could be demonstrated. As a result, each criterion receives a score of 0, leading to a total score of 0. This outcome reflects the absence of information rather than any lack of effort or understanding.","### Strengths
+* None provided in this submission.
+### Areas for Improvement
+* Submit a complete answer that addresses how the chosen feature would impact all schools in Wales.
+* Include specific examples of environmental, community, and resilience benefits.
+### Advice
+* Keep trying—your ideas are valuable, and sharing them will help you earn points and grow your understanding!"
+390,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,"If all schools in Wales installed my feature, it would reduce a lot of things. 
+adopting my feature across welsh schools would create calmer enviroments. ",0,"{
+  ""Wales-Wide Environmental Impact"": 0,
+  ""Community Benefits"": 0,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 0
+}
+
+The student’s response is very brief and does not provide specific details about how the feature would impact the environment across Wales, benefit the community, or contribute to future resilience. The answer also lacks a clear demonstration of overall understanding of the question. Because none of the rubric criteria are adequately addressed, each criterion receives a score of 0. This score reflects the need for more detailed, concrete examples and explanations in future responses.","### Strengths
+- You attempted to answer the question and mentioned that the feature would create calmer environments.
+
+### Areas for Improvement
+- Provide specific examples of how the feature would reduce environmental impact (e.g., less waste, lower energy use).
+- Explain how the feature would benefit the local community (e.g., healthier students, community events).
+- Discuss how the feature could help schools be more resilient in the future (e.g., preparing for resource shortages).
+- Show a clear overall understanding of the question by linking all these points together.
+
+### Advice
+- Keep trying! The more details you add, the stronger your answer will become."
+395,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,"the systems are biosphere and Geosphere 
+these systems work well together because all living things in the biosphere there habitats are soil rocks mountains ect which is the Geosphere. a positive change my features make for the environment are helping the enviroment by rebuilding the habitats 
+",3,"{
+  ""Feature Selection & Explanation"": 0,
+  ""Systems Identification"": 1,
+  ""Systems Connections"": 1,
+  ""Positive Environmental Impact"": 1
+}
+
+The student correctly identified the biosphere and geosphere, earning full credit for Systems Identification. They mentioned that these systems work together and that their feature helps rebuild habitats, which shows a basic understanding of Systems Connections and Positive Environmental Impact, earning 1 point each. However, the answer does not describe a specific design feature or explain it in detail, so Feature Selection & Explanation receives 0. The overall score of 3 out of 5 reflects solid identification and impact ideas but highlights the need for more concrete feature description and clearer connections.","### Strengths
+- Identified the biosphere and geosphere as key natural systems.
+- Recognized that these systems interact and that rebuilding habitats is a positive environmental change.
+
+### Areas for Improvement
+- Describe the specific design feature you are using (e.g., a garden, a rainwater collection system, etc.).
+- Explain in more detail how the feature connects the biosphere and geosphere, giving concrete examples.
+
+### Advice
+- Keep up the good work identifying systems! Adding a clear description of your feature and deeper explanations will make your answer even stronger."
+405,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,"We all had our part in the project. That was our strategy
+",0,"{
+  ""Feature Selection & Explanation"": 0,
+  ""Systems Identification"": 0,
+  ""Systems Connections"": 0,
+  ""Positive Environmental Impact"": 0
+}
+
+The student’s response is extremely brief and does not address any of the rubric criteria. There is no mention of a specific design feature, no identification of natural systems, no explanation of how the feature connects to those systems, and no discussion of environmental impact. Because none of the required elements are present, each criterion receives a score of 0, resulting in a total score of 0. Encourage the student to provide more detail in future responses.","### Strengths
+- You acknowledged teamwork and strategy, showing that collaboration was part of your project.
+
+### Areas for Improvement
+- Provide a clear description of your chosen design feature.
+- Explain how that feature connects to Earth's natural systems (e.g., biosphere, hydrosphere).
+- Discuss the positive environmental impact of your feature.
+
+### Advice
+- Keep up the good teamwork spirit, and try to add more detail about your ideas next time!"
+358,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,if all schools in wales installed an Eco garden it would be better for environment since it will attract more wild life,1,"{
+  ""Wales-Wide Environmental Impact"": 1,
+  ""Community Benefits"": 0,
+  ""Future Resilience"": 0,
+  ""Overall Understanding"": 0
+}
+
+The student’s answer shows a basic awareness that installing an Eco garden would be good for the environment by attracting wildlife. This satisfies the environmental impact criterion at a basic level, earning 1 out of 2 points. However, the response lacks detail and does not address how the Eco garden would benefit the wider Welsh community, contribute to future resilience, or demonstrate a comprehensive understanding of the feature’s impact. Consequently, the other three criteria receive zero points. The overall score reflects a very early stage of thinking about the project’s implications.","### Strengths
+* You identified that an Eco garden could improve the environment by attracting wildlife, showing an awareness of ecological benefits.
+
+### Areas for Improvement
+* Expand on how the Eco garden would benefit the local community—e.g., learning opportunities, food production, or community gathering spaces.
+* Consider how the garden could help schools become more resilient in the future, such as by providing food security or teaching sustainability skills.
+* Add more detail and examples to strengthen your overall understanding of the feature’s impact.
+
+### Advice
+* Keep exploring the many ways a green space can help both people and nature. The more details you add, the stronger your answer will become!"
+322,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,Energy Systems,0,"{
+  ""Feature Selection & Explanation"": 0,
+  ""Systems Identification"": 0,
+  ""Systems Connections"": 0,
+  ""Positive Environmental Impact"": 0
+}
+
+The student’s response consists only of the phrase ""Energy Systems"".  The rubric requires a clear description of a design feature and an explanation of how that feature relates to Earth’s natural systems.  
+
+• Feature Selection & Explanation: No feature is described, so 0 points.
+• Systems Identification: While the student mentions a system (energy), they do not identify which natural system it belongs to (e.g., biosphere, hydrosphere, etc.), so 0 points.
+• Systems Connections: There is no explanation of how the feature connects to or interacts with other natural systems, so 0 points.
+• Positive Environmental Impact: The answer does not discuss any environmental benefits, so 0 points.
+
+Total: 0 out of 5.  The student has a starting point by naming a system, but the answer needs much more detail to meet the rubric criteria.","### Strengths
+- You identified a system (energy) that could be part of a design.
+
+### Areas for Improvement
+- Describe a specific design feature (e.g., solar panels, wind turbines) and explain how it works.
+- Connect that feature to Earth’s natural systems (e.g., how solar energy is part of the energy cycle in the biosphere).
+- Explain the positive environmental impact of using that feature.
+
+### Advice
+- Keep thinking about how everyday ideas can link to nature.  A little more detail will make your answer shine!"
+334,Q1:  Explain how your chosen design feature connects to Earth's natural systems.,"i love the system
+",0,"{
+  ""Feature Selection & Explanation"": 0,
+  ""Systems Identification"": 0,
+  ""Systems Connections"": 0,
+  ""Positive Environmental Impact"": 0
+}
+
+The student’s response ""i love the system"" does not provide any information about a design feature, does not identify any natural system, does not explain how the feature connects to Earth's systems, nor does it mention any positive environmental impact. Therefore, none of the rubric criteria are met, resulting in a score of 0 for each category and a total score of 0.","### Strengths
+* You showed enthusiasm for the topic.
+
+### Areas for Improvement
+* Provide a clear description of the design feature you chose.
+* Identify at least one natural system (e.g., Biosphere, Hydrosphere) that your feature relates to.
+* Explain how your feature connects to that system and describe any positive environmental impact.
+
+### Advice
+* Keep up the enthusiasm! Try to add more details next time, and feel free to ask for help if you’re unsure how to link your idea to Earth’s systems."
+344,Q2:  Think about what would happen if all schools in Wales used your chosen feature.,"If all schools in Wales installed carbon monitors which automatically open windows, kids would be breathing fresher air and it could also prevent kids getting sick more often. This would also reduce the need for energy-intensive ventilation systems. ",5,"{
+  ""Wales-Wide Environmental Impact"": 2,
+  ""Community Benefits"": 1,
+  ""Future Resilience"": 1,
+  ""Overall Understanding"": 1
+}
+
+The student’s answer clearly explains how installing carbon monitors that automatically open windows would improve air quality and reduce the need for energy‑intensive ventilation, which directly addresses Wales‑wide environmental impact (2 points). They also highlight the benefit to the community by noting fresher air and fewer illnesses for children (1 point). The mention of reduced energy use suggests a form of future resilience against energy shortages or climate change pressures (1 point). Overall, the answer demonstrates a solid grasp of the feature’s purpose and benefits, earning the full point for overall understanding (1 point). The response is concise but covers all required criteria, so a full score of 5 is justified.","### Strengths
+- You clearly linked the feature to environmental benefits and energy savings.
+- You mentioned how it helps the community by improving children’s health.
+- Your answer shows a good overall understanding of the idea.
+
+### Areas for Improvement
+- Try adding a brief example of how this could work in a real school setting.
+- You could explain a bit more about how the system would adapt to different weather conditions.
+
+### Advice
+Keep up the great work! Adding a few more details will make your explanation even stronger."

@@ -1,0 +1,730 @@
+student_id,original_question,student_answer,predicted_score,generated_rationale,generated_feedback
+01,Q1: Define what a system is and give one example from nature including its inputs processes and outputs.,A system is stuff working together. Like trees,1,"{
+  ""Definition Accuracy"": 0,
+  ""Example Relevance"": 0,
+  ""Components Explanation"": 0,
+  ""Clarity and Structure"": 0.5
+}
+
+The student’s answer is very brief and does not meet the expectations for each rubric criterion. The definition of a system is overly vague and lacks the key elements (components, interactions, purpose). The example given (‘Like trees’) is not a specific natural system and does not include any inputs, processes, or outputs, so it scores zero for example relevance and components explanation. The answer is short but understandable, so a small credit (0.5) is given for clarity and structure. Overall, the response shows a starting point but needs significant elaboration.","### Strengths
+- The student identified that a system involves parts working together.
+
+### Areas for Improvement
+- Provide a clear, complete definition of a system.
+- Give a specific natural example (e.g., a forest ecosystem) and describe its inputs, processes, and outputs.
+- Expand the explanation to show how the components interact.
+
+### Advice
+- Keep trying! Start by writing a sentence that explains what a system is, then add a detailed example. You’ll get better with practice."
+02,Q1: Define what a system is and give one example from nature including its inputs processes and outputs.,"A system is like when things are connnected. Like a forest. Water is an input. When it rains, trees grow.",4,"{
+  ""Definition Accuracy"": 1,
+  ""Example Relevance"": 1,
+  ""Components Explanation"": 1,
+  ""Clarity and Structure"": 1
+}
+
+The student’s definition of a system as ""things that are connected"" captures the core idea, so it earns full credit for Definition Accuracy. The example of a forest is directly relevant to the question, earning full credit for Example Relevance. The student identifies an input (water) and an output (trees growing) but does not explicitly describe the processes that occur between them; this partial explanation earns half of the maximum for Components Explanation, rounded to 1 for simplicity. The answer is concise and understandable, meeting the Clarity and Structure criterion, so it receives full credit there. Overall, the student demonstrates a solid grasp of the basic concept and provides a relevant natural example, but could improve by detailing the processes that link inputs to outputs.","### Strengths
+- You correctly identified that a system involves connected parts.
+- Your example of a forest is a clear, natural system.
+- You mentioned both an input (water) and an output (trees growing).
+
+### Areas for Improvement
+- Try to describe the processes that happen inside the system (e.g., how rainwater is absorbed, how trees use it for growth).
+- Add a bit more detail about what happens between the input and output to show the system’s workings.
+
+### Advice
+- Keep up the good work! Adding a few more steps will make your explanation even stronger."
+03,Q1: Define what a system is and give one example from nature including its inputs processes and outputs.,A system is parts that connect to each other. An example is a rainforest. Sun and water help the plants grow and they give off oxygen.,4,"{
+  ""Definition Accuracy"": 1,
+  ""Example Relevance"": 1,
+  ""Components Explanation"": 1,
+  ""Clarity and Structure"": 1
+}
+
+The student’s definition of a system as ""parts that connect to each other"" captures the core idea and earns full credit for Definition Accuracy. The example of a rainforest is directly relevant to the question, so Example Relevance is also full. For Components Explanation, the student identifies inputs (sun and water) and outputs (oxygen) and hints at processes (plant growth), but the explanation is brief and could be more explicit; therefore a score of 1 out of 2 is appropriate. Clarity and Structure are acceptable—the answer is concise, easy to read, and logically organized—so it receives full credit. Overall, the student demonstrates a solid grasp of the concept with room for deeper elaboration on processes.","### Strengths
+- Provided a clear, concise definition of a system.
+- Chose a relevant natural example (rainforest).
+- Identified key inputs (sun, water) and outputs (oxygen).
+
+### Areas for Improvement
+- Explain the processes in more detail (e.g., photosynthesis, water cycle).
+- Use a bit more structure, such as labeling inputs, processes, and outputs explicitly.
+
+### Advice
+- Keep up the great work! Adding a few more details will make your explanation even stronger."
+04,Q1: Define what a system is and give one example from nature including its inputs processes and outputs.,"System is a group of things together. The human body is an example. We eat food and this is an input. This gives us energy, which could be an output.",3,"{
+  ""Definition Accuracy"": 0.5,
+  ""Example Relevance"": 0.5,
+  ""Components Explanation"": 1,
+  ""Clarity and Structure"": 0.5
+}
+
+The student’s definition of a system as a ""group of things together"" captures the basic idea but omits the essential elements of inputs, processes, and outputs, so it earns half credit for Definition Accuracy. The example of the human body is a valid system, but the question specifically asked for a natural system; the human body is a biological system, which is somewhat relevant but not the most natural example, so Example Relevance receives half credit. The student correctly identified an input (food) and an output (energy), but did not describe the processes that transform the input into the output, so Components Explanation is worth 1 out of 2. The answer is concise and understandable, yet it lacks clear organization and depth, earning half credit for Clarity and Structure. Overall, the student shows a good start but needs to expand on the definition, choose a more natural example, explain the processes, and improve the structure.","### Strengths
+* Provided a clear, simple definition of a system.
+* Chose an example (human body) and identified an input (food) and an output (energy).
+
+### Areas for Improvement
+* Include the processes that transform inputs into outputs.
+* Use a more clearly natural example, such as a forest ecosystem.
+* Organize the answer into distinct parts: definition, example, inputs, processes, outputs.
+
+### Advice
+* Keep up the good effort—just add a bit more detail and structure, and you’ll be great!"
+05,Q1: Define what a system is and give one example from nature including its inputs processes and outputs.,"A system is things connected or working together like a rainforest. Sunlight is like the stuff that goes in, then plants make food and oxygen for the animals",4,"{
+  ""Definition Accuracy"": 1,
+  ""Example Relevance"": 1,
+  ""Components Explanation"": 1,
+  ""Clarity and Structure"": 1
+}
+
+The student’s definition captures the core idea that a system is a group of connected parts working together, which meets the rubric’s Definition Accuracy criterion. The example of a rainforest is relevant to the question, satisfying Example Relevance. The student identifies inputs (sunlight), processes (plants making food and oxygen), and outputs (oxygen for animals), so Components Explanation is partially met, but the explanation is brief and could be expanded for full credit. The answer is concise and understandable, meeting the Clarity and Structure criterion. Overall, the student earned 4 out of 5 points.","### Strengths
+* Provided a clear, concise definition of a system.
+* Chose a relevant natural example (rainforest).
+* Identified key components: inputs, processes, and outputs.
+
+### Areas for Improvement
+* Expand on how each component functions—e.g., explain how sunlight is converted into food and oxygen.
+* Clarify the outputs more explicitly and mention any other outputs (e.g., heat, water vapor).
+
+### Advice
+* Keep up the great work! Adding a bit more detail will make your answer even stronger."
+06,Q1: Define what a system is and give one example from nature including its inputs processes and outputs.,"A system is parts that are connected and work together, like a rainforest. Sun is the input, or also water, then the plants would grow, this is a process. Then animals breathe the oxygen and eat the plants, which are outputs.",5,"{
+  ""Definition Accuracy"": 1,
+  ""Example Relevance"": 1,
+  ""Components Explanation"": 2,
+  ""Clarity and Structure"": 1
+}
+
+The student correctly defined a system as a set of connected parts that work together, which meets the definition accuracy criterion. The example of a rainforest is relevant to the question and satisfies the example relevance criterion. The answer identifies the key components—inputs (sunlight and water), process (plant growth), and outputs (oxygen and food for animals)—and therefore earns full points for components explanation. Although the sentences are somewhat run‑on and the structure could be clearer, the overall meaning is understandable, so the answer receives the full point for clarity and structure. The total score is 5 out of a possible 5.","### Strengths
+- You gave a clear definition of a system.
+- Your example of a rainforest was relevant and included inputs, processes, and outputs.
+- You identified all three main components of a system.
+
+### Areas for Improvement
+- Try to separate the inputs, processes, and outputs into distinct sentences or bullet points for easier reading.
+- Use punctuation to make each idea stand out (e.g., commas, periods, or semicolons).
+
+### Advice
+Keep up the great work! Practice writing each part of the system in its own sentence to make your explanation even clearer."
+07,Q1: Define what a system is and give one example from nature including its inputs processes and outputs.,"Systems are different parts working together. The human body is an example. When we eat, food is an input or air is another example. Then a process is eating or breathing. Example of output is when we go to the toilet, or when we use energy to move also.",4,"{
+  ""Definition Accuracy"": 1,
+  ""Example Relevance"": 1,
+  ""Components Explanation"": 1,
+  ""Clarity and Structure"": 1
+}
+
+The student provides a concise definition of a system as ""different parts working together,"" which captures the core idea and earns full credit for Definition Accuracy. The example chosen—the human body—is a natural system that fits the question’s requirement, so Example Relevance is also full. The student lists inputs (food, air), processes (eating, breathing), and outputs (urination, energy use), demonstrating a basic understanding of the three components; however, the explanation is somewhat scattered, so Components Explanation receives a solid but not perfect score. Clarity and Structure are acceptable because the answer is understandable, though it lacks a clear, organized format; this earns full credit for the rubric’s lenient expectations. Overall, the student shows good foundational knowledge but could improve organization and detail for a higher score.","### Strengths
+* Clearly defined what a system is.
+* Chose a relevant natural example (the human body).
+* Identified inputs, processes, and outputs.
+
+### Areas for Improvement
+* Organize the answer into distinct sections or bullet points for easier reading.
+* Provide a bit more detail on how each input leads to the processes and how the outputs result.
+
+### Advice
+* Keep up the great work! Try to structure your answers a bit more clearly next time."
+08,Q1: Define what a system is and give one example from nature including its inputs processes and outputs.,A system is a set of connected parts that work together. For example a rainforest in nature. The inputs are things like sun light and rain water. The processes are plants growing and animals eating. The outputs are clean air and seeds.,4,"{
+  ""Definition Accuracy"": 1,
+  ""Example Relevance"": 1,
+  ""Components Explanation"": 1,
+  ""Clarity and Structure"": 1
+}
+
+The student accurately defined a system as a set of connected parts that work together, earning full credit for Definition Accuracy. The example of a rainforest is relevant to the question, so Example Relevance is also full. The student listed inputs, processes, and outputs, which meets the basic requirement for Components Explanation, but the explanation of processes is somewhat shallow and could be expanded; therefore a score of 1 is appropriate. The answer is clear and follows a logical order, so Clarity and Structure receives full credit. Overall, the student demonstrates a solid understanding but has room to deepen explanations and refine structure.","### Strengths
+- Correctly defined what a system is.
+- Chose a relevant natural example (rainforest).
+- Identified inputs, processes, and outputs.
+
+### Areas for Improvement
+- Expand on the processes: explain how plant growth and animal interactions work together.
+- Mention more outputs (e.g., oxygen, water cycle contributions).
+- Use clearer sentence structure and punctuation for better readability.
+
+### Advice
+Keep up the great work! Adding a bit more detail will make your explanations even stronger."
+09,Q1: Define what a system is and give one example from nature including its inputs processes and outputs.,A system is a group of connected parts that work together to do something. An example from nature is the rainforest. Inputs are sunlight and nutrients from soil. Processes include photosynthesis where plants turn sun into energy. Outputs are oxygen released into the air and fruits for animals to eat.,5,"{
+  ""Definition Accuracy"": 1,
+  ""Example Relevance"": 1,
+  ""Components Explanation"": 2,
+  ""Clarity and Structure"": 1
+}
+
+The student’s definition of a system is accurate and concise, earning the full point for Definition Accuracy. The example of a rainforest is clearly relevant to the question, so Example Relevance receives a full point. The student identified all three required components—inputs (sunlight, nutrients), processes (photosynthesis), and outputs (oxygen, fruits)—and explained them, which satisfies the Components Explanation criterion at its maximum of 2 points. The answer is well‑organized and easy to follow, meeting the Clarity and Structure criterion with a full point. Overall, the response meets all rubric expectations, justifying the perfect score of 5 out of 5.","### Strengths
+* Provided a clear and accurate definition of a system.
+* Chose a relevant natural example (rainforest).
+* Identified and explained inputs, processes, and outputs.
+
+### Areas for Improvement
+* Consider adding more processes (e.g., water cycle, nutrient cycling) to show the system’s complexity.
+* Mention additional inputs like water or carbon dioxide to deepen the explanation.
+
+### Advice
+* Keep up the great work! Adding a few more details will make your answer even stronger."
+10,Q1: Define what a system is and give one example from nature including its inputs processes and outputs.,"A system means parts linked up and working as a team. Like the human body. Inputs are food and oxygen. Processes are digestion breaking down food and lungs breathing air, and outputs are energy for moving and waste like poo.",5,"{
+  ""Definition Accuracy"": 1,
+  ""Example Relevance"": 1,
+  ""Components Explanation"": 2,
+  ""Clarity and Structure"": 1
+}
+
+The student’s definition of a system as ""parts linked up and working as a team"" captures the essential idea of interrelated components, earning full credit for Definition Accuracy. The example of the human body is a natural system, so Example Relevance is also full. The student lists all three required components—inputs (food, oxygen), processes (digestion, breathing), and outputs (energy, waste)—which satisfies the Components Explanation criterion at its maximum of 2 points. Clarity and Structure are good: the sentences are straightforward and easy to follow, though a slightly more organized format (e.g., bullet points or separate sentences for each component) could improve readability. Overall, the answer meets all rubric expectations, resulting in a perfect score of 5 out of 5.","### Strengths
+* Provided a clear, concise definition of a system.
+* Chose a relevant natural example (the human body).
+* Identified all three components: inputs, processes, and outputs.
+
+### Areas for Improvement
+* Organize the explanation into distinct parts (e.g., separate sentences or bullet points) to enhance readability.
+* Add a bit more detail about the processes or outputs to show deeper understanding.
+
+### Advice
+* Keep up the great work! Adding a little more structure and detail will make your explanations even stronger."
+11,Q1: Define what a system is and give one example from nature including its inputs processes and outputs.,"Systems are groups of things connected that work together. Rainforest is a good nature example. Inputs include stuff like sun water and soil. Plants grow using light and animals help spread seeds, and these are processes. Outputs include fresh air which helps animals live.",4,"{
+  ""Definition Accuracy"": 1,
+  ""Example Relevance"": 1,
+  ""Components Explanation"": 1,
+  ""Clarity and Structure"": 1
+}
+
+The student correctly defined a system as a group of connected parts that work together, earning full credit for Definition Accuracy. The rainforest example is directly relevant to the question, so Example Relevance is also full. For Components Explanation, the student identified inputs (sun, water, soil), processes (plant growth, seed dispersal), and outputs (fresh air), but the explanation lacks depth and detail; therefore a score of 1 is appropriate out of 2. Clarity and Structure are acceptable: the answer is understandable and follows a logical order, so it receives full credit for that criterion. The total score is 4 out of a possible 5.","### Strengths
+* Provided a clear, concise definition of a system.
+* Chose a relevant natural example (rainforest).
+* Identified the main components: inputs, processes, and outputs.
+
+### Areas for Improvement
+* Expand on each component: e.g., explain how sunlight and water contribute to photosynthesis.
+* Mention additional outputs such as oxygen or carbon dioxide.
+* Use bullet points or numbered lists to make the structure even clearer.
+
+### Advice
+* Keep up the good work—your understanding of systems is solid! Adding a bit more detail will make your explanations even stronger."
+12,Q1: Define what a system is and give one example from nature including its inputs processes and outputs.,A system is connected parts working together. Example: rainforest. Inputs like sunlight and rain go in. Processes are trees making food from sun. Outputs are oxygen and water back to air.,5,"{
+  ""Definition Accuracy"": 1,
+  ""Example Relevance"": 1,
+  ""Components Explanation"": 2,
+  ""Clarity and Structure"": 1
+}
+
+The student’s definition of a system as ""connected parts working together"" captures the core idea and earns full credit for Definition Accuracy. The example of a rainforest is a clear, relevant natural system, so Example Relevance is also full. The student lists inputs (sunlight, rain), a process (photosynthesis by trees), and outputs (oxygen, water), covering all three required components; this meets the Components Explanation criterion at its maximum score. The answer is concise yet understandable, with a logical flow from definition to example to component breakdown, satisfying Clarity and Structure. Overall, the response demonstrates a solid grasp of the concepts and meets all rubric expectations, justifying the perfect total score of 5.","### Strengths
+* Provided a clear, concise definition of a system.
+* Chose a relevant natural example (rainforest).
+* Identified inputs, processes, and outputs.
+
+### Areas for Improvement
+* Expand on the processes—describe how photosynthesis works.
+* Mention additional inputs (e.g., nutrients from soil) and outputs (e.g., water vapor).
+
+### Advice
+* Keep up the great work! Adding a bit more detail will make your explanations even stronger."
+13,Q1: Define what a system is and give one example from nature including its inputs processes and outputs.,The definition of a system is a group of parts that are connected and work together. In nature the human body is an example. Inputs include food and water. Processes are things like heart pumping blood. Outputs are movement and heat.,4,"{
+  ""Definition Accuracy"": 1,
+  ""Example Relevance"": 1,
+  ""Components Explanation"": 1,
+  ""Clarity and Structure"": 1
+}
+
+The student accurately defined a system as a group of connected parts working together, earning full credit for Definition Accuracy. The example of the human body is a valid natural system, so Example Relevance receives full points. For Components Explanation, the student identified inputs (food, water), a process (heart pumping blood), and outputs (movement, heat), but the explanation lacks depth and breadth (e.g., missing other inputs like oxygen, other processes such as digestion, and additional outputs). Therefore, a moderate score of 1 is appropriate. The answer is clear and well‑structured, with concise sentences and logical flow, justifying the full point for Clarity and Structure. The total score is 4 out of a possible 5.","### Strengths
+* Provided a clear and accurate definition of a system.
+* Chose a relevant natural example (the human body).
+* Identified key components: inputs, processes, and outputs.
+
+### Areas for Improvement
+* Expand on the components: include more inputs (e.g., oxygen), more processes (e.g., digestion, respiration), and additional outputs (e.g., waste, signals).
+* Consider using a different natural example (e.g., a forest ecosystem) to show variety.
+
+### Advice
+* Keep up the great work! Adding a bit more detail will make your explanations even stronger."
+14,Q2: Describe two actions individuals can take to reduce their impact on Earth's systems and explain why they matter.,Actions: walk eat less. They good.,2,"{
+  ""Action Identification"": 1,
+  ""Explanation of Impact"": 0,
+  ""Relevance to Systems"": 1,
+  ""Depth and Clarity"": 0
+}
+
+The student correctly identified two actions—walking and eating less—that can reduce personal impact on Earth’s systems, earning full credit for Action Identification. However, the answer lacks an explanation of why these actions matter, so Explanation of Impact receives 0. The actions chosen are indeed relevant to natural systems (transportation emissions and food production), which justifies a partial credit of 1 for Relevance to Systems. Depth and Clarity are minimal; the response is very brief and lacks detail, so it receives 0. Overall, the student shows a good start but needs to elaborate on the significance of the actions and provide clearer, more detailed explanations.","### Strengths
+- You identified two concrete actions (walking and eating less) that can help reduce your impact on Earth.
+
+### Areas for Improvement
+- Explain why each action matters—how walking reduces emissions or how eating less can lower resource use.
+- Add more detail and clarity to your answer so it’s easier to understand.
+
+### Advice
+- Keep thinking about everyday choices and try to describe their effects on the planet. Great job getting started!"
+15,Q2: Describe two actions individuals can take to reduce their impact on Earth's systems and explain why they matter.,One action is turn off lights. Second is plant tree. They help earth.,2,"{
+  ""Action Identification"": 1,
+  ""Explanation of Impact"": 0,
+  ""Relevance to Systems"": 1,
+  ""Depth and Clarity"": 0
+}
+
+The student correctly identified two actions—turning off lights and planting trees—so the Action Identification criterion earns full credit. However, the explanation of why these actions matter is extremely brief (“They help earth”), lacking detail about energy savings, carbon sequestration, or ecosystem benefits; thus the Explanation of Impact criterion receives no points. The student does mention that the actions help the planet, which shows some awareness of relevance to Earth’s systems, but the connection is not explicitly tied to natural systems or processes, so a moderate score of 1 is appropriate for Relevance to Systems. Finally, the answer is very short and lacks depth or clarity beyond the basic statements, so Depth and Clarity earns 0. The total score is 2 out of a possible 5.","### Strengths
+* You identified two concrete actions—turning off lights and planting trees—that individuals can take.
+
+### Areas for Improvement
+* Explain in more detail how each action reduces impact on Earth’s systems (e.g., energy savings, carbon reduction, habitat creation).
+* Connect the actions explicitly to natural systems (e.g., how trees absorb CO₂, how reduced electricity use lowers emissions).
+
+### Advice
+* Keep up the good effort—adding a few sentences about the *why* will make your answer stronger!"
+16,Q2: Describe two actions individuals can take to reduce their impact on Earth's systems and explain why they matter.,Reduce energy by not using car. Recycle. Matters cos planet.,2,"{
+  ""Action Identification"": 1,
+  ""Explanation of Impact"": 0,
+  ""Relevance to Systems"": 1,
+  ""Depth and Clarity"": 0
+}
+
+The student correctly identified two actions—reducing car use and recycling—which earns full credit for Action Identification. However, the explanation of why these actions matter is very brief and lacks detail, so Explanation of Impact receives 0. The actions are relevant to Earth’s systems (energy use and waste management), giving a partial credit of 1 for Relevance to Systems. The overall response is short, lacks depth, and is not very clear, resulting in 0 for Depth and Clarity. Total score is 2 out of 5.","### Strengths
+* Identified two concrete actions (reducing car use and recycling).
+
+### Areas for Improvement
+* Provide a clearer explanation of how each action impacts Earth’s systems.
+* Add more detail and examples to show depth and improve clarity.
+
+### Advice
+* Keep up the good start—just add a bit more detail and you’ll shine even brighter!"
+17,Q2: Describe two actions individuals can take to reduce their impact on Earth's systems and explain why they matter.,Two actions: walk to school instead of car and plant trees in garden. Walking reduces pollution. Trees help air. They matter for the environment.,4,"{
+  ""Action Identification"": 1,
+  ""Explanation of Impact"": 1,
+  ""Relevance to Systems"": 1,
+  ""Clarity and Structure"": 1
+}
+
+The student correctly identified two concrete actions—walking to school and planting trees—meeting the Action Identification criterion (1/1). They provided a brief explanation of how each action reduces pollution or improves air quality, satisfying the Explanation of Impact criterion (1/1). While the answer references environmental benefits, it only loosely connects to specific Earth systems (e.g., atmospheric, terrestrial) and does not discuss other systems such as water or soil; therefore it earns a moderate score of 1/2 for Relevance to Systems. The response is clear, concise, and logically organized, fulfilling the Clarity and Structure criterion (1/1). Overall, the student demonstrates a solid grasp of the question but could deepen the discussion of system relevance and impact details.","### Strengths
+* Clearly identified two practical actions.
+* Briefly explained how each action benefits the environment.
+* Answer is concise and easy to follow.
+
+### Areas for Improvement
+* Expand on why these actions matter—e.g., how walking reduces greenhouse gases or how trees sequester carbon.
+* Connect the actions more explicitly to specific Earth systems (atmosphere, water cycle, soil health).
+
+### Advice
+* Keep up the great work! Adding a bit more detail will make your explanations even stronger."
+18,Q2: Describe two actions individuals can take to reduce their impact on Earth's systems and explain why they matter.,Actions are eat less meat and reuse bags. Less meat means less water used. Bags reduce plastic. Important for nature.,4,"{
+  ""Action Identification"": 1,
+  ""Explanation of Impact"": 1,
+  ""Relevance to Systems"": 1,
+  ""Depth and Clarity"": 1
+}
+
+The student correctly identified two concrete actions—eating less meat and reusing bags—meeting the Action Identification criterion. They provided a brief explanation of the impact of each action (water use for meat, plastic reduction for bags), satisfying the Explanation of Impact criterion. The answer references key components of Earth's systems (water and plastic) and notes their importance to nature, which addresses the Relevance to Systems criterion, though it could be strengthened by explicitly linking these impacts to broader ecological processes. The response is clear and concise, but it lacks depth; the student could expand on why these actions matter and how they influence the planet. Overall, the answer demonstrates good clarity but would benefit from more detailed reasoning, earning a score of 4 out of 5.","### Strengths
+* Clearly identified two specific actions.
+* Provided a concise explanation of how each action reduces environmental impact.
+* Used simple, understandable language.
+
+### Areas for Improvement
+* Expand on why reducing meat consumption and reusing bags matters for Earth's systems—e.g., discuss carbon emissions, habitat preservation, or water cycle.
+* Connect the impacts more explicitly to the broader natural systems (e.g., how less plastic reduces ocean pollution).
+
+### Advice
+* Keep up the great work! Try adding a sentence or two that explains the bigger picture behind each action."
+19,Q2: Describe two actions individuals can take to reduce their impact on Earth's systems and explain why they matter.,Individuals can reduce energy by turning off lights when not needed and plant trees. Turning off lights saves electricity which comes from burning stuff that pollutes. Planting trees absorbs bad gas. They matter to keep earth balanced.,4,"{
+  ""Action Identification"": 1,
+  ""Explanation of Impact"": 1,
+  ""Relevance to Systems"": 1,
+  ""Depth and Clarity"": 1
+}
+
+The student correctly identified two concrete actions—turning off lights and planting trees—so the Action Identification criterion earns full credit. They also provided a brief explanation of why each action matters: saving electricity that comes from burning fossil fuels and absorbing harmful gases, which satisfies the Explanation of Impact criterion. The answer references Earth’s balance and the role of trees and energy use, showing relevance to natural systems, so Relevance to Systems receives full credit. While the explanation is concise, the language is clear and the ideas are presented in an understandable way, meeting the Depth and Clarity criterion at a basic level. Overall, the student demonstrates a solid grasp of the concepts, earning a total of 4 out of 5.","### Strengths
+- Clearly listed two specific actions individuals can take.
+- Provided simple explanations of how each action reduces impact on Earth.
+- Used clear, age‑appropriate language.
+
+### Areas for Improvement
+- Expand on how each action connects to particular Earth systems (e.g., the carbon cycle, energy grid).
+- Add a bit more detail or examples to show deeper understanding.
+
+### Advice
+- Keep up the great work! Try adding a sentence or two about why each action matters to a specific natural system next time."
+20,Q2: Describe two actions individuals can take to reduce their impact on Earth's systems and explain why they matter.,Two actions: cycle to places instead of car and recycle rubbish. Cycling means less car fumes which warm the planet. Recycling stops waste in landfills. These matter because they help ecosystems like forests stay healthy and not cross boundaries like climate change.,5,"{
+  ""Action Identification"": 1,
+  ""Explanation of Impact"": 1,
+  ""Relevance to Systems"": 2,
+  ""Depth and Clarity"": 1
+}
+
+The student correctly identified two concrete actions—cycling instead of driving and recycling waste—meeting the Action Identification criterion (1 point). They provided a brief explanation of how each action reduces harmful emissions and waste, satisfying the Explanation of Impact criterion (1 point). The answer connects these actions to broader Earth systems, mentioning forests and climate change, which earns full marks for Relevance to Systems (2 points). While the explanation is clear, it lacks some depth and specific examples of system interactions; however, given the student’s age and the rubric’s lenient approach, a full point is awarded for Depth and Clarity. Overall, the student demonstrates a solid understanding of the question with room for deeper exploration.","### Strengths
+* Clearly identified two practical actions.
+* Explained the basic environmental benefits of each action.
+* Connected the actions to larger Earth systems like forests and climate change.
+
+### Areas for Improvement
+* Provide more detail on how cycling reduces air pollution and how recycling reduces landfill pressure.
+* Give a specific example of how these actions help a particular ecosystem or system.
+
+### Advice
+* Keep up the great work! Adding a few more details will make your explanations even stronger."
+21,Q2: Describe two actions individuals can take to reduce their impact on Earth's systems and explain why they matter.,Actions: use less water by shorter showers and eat veggie meals. Shorter showers save water for rivers. Veggie means less cows that make gas. Matters for planetary boundaries and animals.,5,"{
+  ""Action Identification"": 1,
+  ""Explanation of Impact"": 1,
+  ""Relevance to Systems"": 2,
+  ""Depth and Clarity"": 1
+}
+
+The student correctly identified two concrete actions—shorter showers and eating more vegetarian meals—so the Action Identification criterion earns the full point. They also explained the impact of each action: water savings for rivers and reduced methane from fewer cows, which satisfies the Explanation of Impact criterion. The mention of planetary boundaries and animals shows an understanding of how these actions relate to Earth’s systems (hydrological, atmospheric, and ecological), earning the full two points for Relevance to Systems. While the response is concise, the language is clear and the ideas are presented logically, meeting the Depth and Clarity criterion. Overall, the answer demonstrates a solid grasp of the question and earns a perfect score.","### Strengths
+* Clearly identified two specific actions that individuals can take.
+* Provided simple explanations of how each action reduces impact on Earth’s systems.
+* Connected the actions to broader concepts like planetary boundaries and animal welfare.
+
+### Areas for Improvement
+* Add a bit more detail about how the actions affect specific Earth systems (e.g., the hydrological cycle for water use, the carbon cycle for methane).
+* Explain why these systems are important for the planet’s health.
+
+### Advice
+* Keep up the great work! Try to expand on each point a little more next time to show even deeper understanding."
+22,Q2: Describe two actions individuals can take to reduce their impact on Earth's systems and explain why they matter.,People can reduce impact by walking or biking to school and planting trees at home. Walking cuts down on car pollution that affects the air system. Trees take in CO2 which helps with climate boundaries. These actions matter because they keep ecosystems connected and stop tipping points.,5,"{
+  ""Action Identification"": 1,
+  ""Explanation of Impact"": 1,
+  ""Relevance to Systems"": 2,
+  ""Depth and Clarity"": 1
+}
+
+The student correctly identifies two specific actions—walking or biking to school and planting trees at home—meeting the Action Identification criterion. They provide clear explanations of how each action reduces pollution or sequesters CO₂, satisfying the Explanation of Impact criterion. The answer references several Earth systems (air quality, climate, ecosystems, tipping points), which fully addresses the Relevance to Systems criterion. While the explanations are concise, they are understandable and directly tied to the actions, earning the Depth and Clarity criterion. Overall, the response meets all rubric expectations, earning the maximum possible score of 5 out of 5.","### Strengths
+* Clearly identified two concrete actions.
+* Explained how each action impacts Earth’s systems.
+* Used relevant terms like ""air system,"" ""CO₂,"" and ""tipping points.""
+
+### Areas for Improvement
+* Provide a bit more detail on how walking reduces car pollution (e.g., mention emissions, traffic).
+* Explain the role of trees in more depth (e.g., photosynthesis, habitat). 
+
+### Advice
+* Keep up the great work! Adding a few more specifics will make your explanations even stronger."
+23,Q2: Describe two actions individuals can take to reduce their impact on Earth's systems and explain why they matter.,People can turn off taps to save water and recycle plastic. Saving water helps freshwater boundaries. Recycling reduces pollution in oceans. They matter for earth's systems like water cycle and biodiversity.,5,"{
+  ""Action Identification"": 1,
+  ""Explanation of Impact"": 1,
+  ""Relevance to Systems"": 2,
+  ""Depth and Clarity"": 1
+}
+
+The student correctly identified two concrete actions—turning off taps to conserve water and recycling plastic—earning full credit for Action Identification. They provided a brief explanation of the impact of each action, noting that saving water protects freshwater boundaries and that recycling reduces ocean pollution, which satisfies the Explanation of Impact criterion. The answer connects these actions to key Earth systems, mentioning the water cycle and biodiversity, thus meeting the Relevance to Systems criterion at its maximum. While the response is clear and understandable, it lacks a deeper exploration of the mechanisms and broader consequences, so the Depth and Clarity criterion receives a full point for clarity but acknowledges limited depth. Overall, the student demonstrates a solid grasp of the concepts and earns a perfect score.","### Strengths
+* Clearly identified two practical actions (turning off taps and recycling plastic).
+* Provided concise explanations of how each action benefits Earth’s systems.
+* Connected the actions to relevant systems such as the water cycle and biodiversity.
+
+### Areas for Improvement
+* Expand on how turning off taps specifically supports freshwater boundaries and why that matters.
+* Offer more detail on the link between plastic recycling and ocean health, perhaps mentioning specific pollutants or species affected.
+
+### Advice
+* Keep up the great work! Adding a bit more detail will make your explanations even stronger."
+24,Q2: Describe two actions individuals can take to reduce their impact on Earth's systems and explain why they matter.,Individuals can take actions like reducing energy use by turning off unused lights and devices and adopting a flexitarian diet with less meat. Reducing energy cuts down on fossil fuels that cause climate change helping planetary boundaries. Less meat means less deforestation for farms protecting ecosystems like rainforests. These matter because they reduce anthropogenic impacts keeping systems balanced and preventing positive feedback loops like more warming.,5,"{
+  ""Action Identification"": 1,
+  ""Explanation of Impact"": 1,
+  ""Relevance to Systems"": 2,
+  ""Depth and Clarity"": 1
+}
+
+The student clearly identifies two concrete actions—reducing energy use by turning off lights/devices and adopting a flexitarian diet. This satisfies the Action Identification criterion (1 point). They explain how each action reduces fossil fuel use and deforestation, linking these to climate change and ecosystem protection, which meets the Explanation of Impact criterion (1 point). The response explicitly references planetary boundaries, ecosystems, and positive feedback loops, demonstrating strong relevance to Earth’s systems and earning the full 2 points for that criterion. The answer is concise, well‑structured, and easy to understand, showing good depth and clarity for the age group, so it receives 1 point here. Overall, the student meets all rubric expectations, achieving the maximum total score of 5 out of 5.","### Strengths
+* Clearly identified two specific actions individuals can take.
+* Explained how each action impacts the planet, linking to climate change and ecosystem health.
+* Used relevant terms like ""planetary boundaries"" and ""positive feedback loops"".
+
+### Areas for Improvement
+* Provide a bit more detail on how turning off lights reduces fossil fuel use (e.g., mention electricity generation).
+* Mention a specific example of a flexitarian meal or how reducing meat can directly cut deforestation.
+
+### Advice
+* Keep up the great work! Adding a few more details will make your explanations even stronger."
+25,Q2: Describe two actions individuals can take to reduce their impact on Earth's systems and explain why they matter.,Actions: plant trees in your garden and walk or cycle instead of car rides. Planting trees absorbs CO2 reducing climate boundary issues. Walking lowers emissions that disrupt air systems. They matter cos they help biodiversity and stop systems from tipping like dry forests.,5,"{
+  ""Action Identification"": 1,
+  ""Explanation of Impact"": 1,
+  ""Relevance to Systems"": 2,
+  ""Depth and Clarity"": 1
+}
+
+The student correctly identified two actions—planting trees and walking/cycling—meeting the Action Identification criterion (1 point). They explained how these actions reduce CO₂ and emissions, addressing the Explanation of Impact criterion (1 point). The answer references climate boundaries, air systems, biodiversity, and tipping points, showing clear relevance to Earth’s systems, which earns the full 2 points for Relevance to Systems. While the explanation is clear, it is somewhat brief and could benefit from deeper detail about the mechanisms and broader impacts; however, given the student’s age and the concise nature of the response, it still satisfies the Depth and Clarity criterion at 1 point. Overall, the student’s answer demonstrates a solid understanding of the question and earns a total of 5 out of a possible 5 points.","### Strengths
+* Clearly identified two concrete actions (planting trees and walking/cycling).
+* Provided straightforward explanations of how each action reduces environmental impact.
+* Connected the actions to broader Earth systems like climate, air quality, and biodiversity.
+
+### Areas for Improvement
+* Expand on *why* these actions matter—e.g., explain how tree planting affects carbon cycles or how walking reduces traffic pollution.
+* Add a bit more detail or examples to show deeper understanding of the systems involved.
+
+### Advice
+* Keep up the great work! Adding a few more details will make your explanations even stronger."
+26,Q2: Describe two actions individuals can take to reduce their impact on Earth's systems and explain why they matter.,Two actions are reusing things instead of buying new and eating more plants. Reusing cuts waste that pollutes soil systems. Plant-based food uses less water helping freshwater boundaries. These are important to reduce human impact on ecosystems and keep planetary systems stable.,5,"{
+  ""Action Identification"": 1,
+  ""Explanation of Impact"": 1,
+  ""Relevance to Systems"": 2,
+  ""Depth and Clarity"": 1
+}
+
+The student correctly identified two distinct actions—reusing items and choosing plant‑based foods—meeting the Action Identification criterion (1 point). They provided clear explanations of how each action reduces waste and conserves water, satisfying the Explanation of Impact criterion (1 point). The answer explicitly connects these actions to soil and freshwater systems, as well as to broader ecosystem stability, which fully addresses the Relevance to Systems criterion (2 points). While the explanations are concise and understandable, they lack a few deeper details or specific examples that could enhance depth; however, the clarity of the response earns the full point for Depth and Clarity. Overall, the student demonstrates a solid grasp of the concepts and meets all rubric expectations, justifying a perfect score of 5 out of 5.","### Strengths
+* Clearly identified two concrete actions.
+* Explained how each action benefits Earth’s systems.
+* Connected the actions to soil, freshwater, and ecosystem stability.
+* Wrote in a clear, easy‑to‑understand style.
+
+### Areas for Improvement
+* Add a specific example or statistic to illustrate the impact (e.g., how much water is saved by eating plant‑based meals).
+* Mention another system (like air quality) to broaden the relevance.
+
+### Advice
+* Keep up the great work—your ideas are on point! Adding a bit more detail will make your explanations even stronger."
+27,Q2: Describe two actions individuals can take to reduce their impact on Earth's systems and explain why they matter.,People can plant trees and reduce energy by insulating homes. Trees support biodiversity and absorb pollution. Insulation means less heating lowering emissions for climate systems. Matters because it protects boundaries like land change and helps changemakers fix earth.,5,"{
+  ""Action Identification"": 1,
+  ""Explanation of Impact"": 1,
+  ""Relevance to Systems"": 2,
+  ""Depth and Clarity"": 1
+}
+
+The student correctly identified two concrete actions—planting trees and insulating homes—earning full credit for Action Identification. They provided clear explanations of how each action benefits Earth’s systems: trees support biodiversity and absorb pollution, while insulation reduces heating needs and lowers emissions, which directly impacts climate systems. This shows a solid understanding of the cause‑effect relationship, so Explanation of Impact receives full points. The answer references multiple systems (ecological, atmospheric, land‑use) and explains how the actions protect system boundaries, meeting the Relevance to Systems criterion at its maximum. Although the explanation is concise, it is understandable and shows a good grasp of the concepts, so Depth and Clarity is awarded full credit. Overall, the student demonstrates a strong grasp of the material and presents it in a clear, encouraging way.","### Strengths
+* Clearly identified two specific actions (planting trees and insulating homes).
+* Explained how each action benefits Earth’s systems (biodiversity, pollution, climate).
+* Connected the actions to broader system boundaries and the role of changemakers.
+
+### Areas for Improvement
+* Provide a bit more detail on how insulation reduces emissions (e.g., mention specific energy savings or temperature reductions).
+* Expand on the term “protects boundaries” to clarify which boundaries (e.g., land‑use, ecological) you mean.
+
+### Advice
+* Keep up the great work! Adding a few more specifics will make your explanations even stronger."
+28,Q2: Describe two actions individuals can take to reduce their impact on Earth's systems and explain why they matter.,Actions: recycle at home and have meat-free days. Recycling reduces chemical pollution in systems. Meat-free saves water. They matter to avoid crossing boundaries and keep nature connected like wood wide web.,5,"{
+  ""Action Identification"": 1,
+  ""Explanation of Impact"": 1,
+  ""Relevance to Systems"": 2,
+  ""Depth and Clarity"": 1
+}
+
+The student correctly identified two concrete actions—recycling at home and having meat‑free days—meeting the Action Identification criterion (1 point). They provided a brief explanation of the impact of each action: recycling reduces chemical pollution and meat‑free days save water, which satisfies the Explanation of Impact criterion (1 point). The answer connects these actions to broader Earth systems by mentioning chemical pollution, water usage, planetary boundaries, and the wood wide web, demonstrating strong relevance to systems (2 points). While the response is concise, it is clear and understandable, earning the full point for Depth and Clarity. Overall, the student’s answer aligns well with the rubric and earns a perfect score of 5 out of 5.","### Strengths
+* Clearly identified two specific actions individuals can take.
+* Provided concise explanations of how each action reduces environmental impact.
+* Connected the actions to larger Earth systems and concepts like planetary boundaries and the wood wide web.
+
+### Areas for Improvement
+* Expand on the specific ways recycling reduces chemical pollution (e.g., less landfill leachate, lower energy use).
+* Explain more about how meat‑free days conserve water (e.g., water used in livestock production vs. plant production).
+
+### Advice
+* Keep up the great work—your ideas are on the right track! Adding a bit more detail will make your explanations even stronger."
+29,Q3: Describe how knowledge of systems can help design a sustainable school feature like a garden or energy system.,Knowledge of systems helps design garden. It's good for school. Plants grow. That's it. (50 words),2,"{
+  ""Feature Description"": 0.5,
+  ""Systems Integration"": 0,
+  ""Boundary Benefits"": 0,
+  ""Interconnections"": 0,
+  ""Structure and Organization"": 0.5,
+  ""Use of Evidence"": 0,
+  ""Changemaker Angle"": 0,
+  ""Depth of Analysis"": 0.5,
+  ""Clarity and Language"": 0.5
+}
+
+The student’s response is very brief and only touches on the idea that systems knowledge can help design a garden.  
+- **Feature Description (0.5/1)**: The answer mentions a garden but does not describe its features or how systems thinking informs its design.  
+- **Systems Integration (0/1)**: No explanation of how different parts of the school or ecosystem would work together.  
+- **Boundary Benefits (0/1)**: No discussion of benefits to the school or community.  
+- **Interconnections (0/1)**: The answer does not show how plants, soil, water, and students are connected.  
+- **Structure and Organization (0.5/1)**: The response is a few short sentences; it is somewhat organized but lacks depth and clear progression.  
+- **Use of Evidence (0/1)**: No evidence or examples are provided to support claims.  
+- **Changemaker Angle (0/1)**: The answer does not highlight how the student could act as a changemaker.  
+- **Depth of Analysis (0.5/2)**: The explanation is superficial; it does not explore the implications of systems thinking.  
+- **Clarity and Language (0.5/1)**: The language is clear but minimal; the response is concise but could be more expressive.  
+Overall, the student shows a basic understanding but needs to expand on each criterion.  The teacher should encourage the student to elaborate, use examples, and connect the idea to real-world benefits.","### Strengths
+* You correctly identified that systems knowledge can help design a garden.
+* You mentioned that plants grow, showing an awareness of a key component.
+
+### Areas for Improvement
+* Expand on how systems thinking guides the design—think about soil, water, light, and student involvement.
+* Provide at least one concrete example or benefit (e.g., saving water, teaching science).
+
+### Advice
+* Keep exploring how different parts of a system interact; the more details you add, the stronger your answer will be!"
+30,Q3: Describe how knowledge of systems can help design a sustainable school feature like a garden or energy system.,For a garden in school systems knowledge means plants need sun. It helps boundaries. Kids can be changemakers. (80 words disorganized paragraph.),1,"{
+  ""Feature Description"": 0,
+  ""Systems Integration"": 0,
+  ""Boundary Benefits"": 0,
+  ""Interconnections"": 0,
+  ""Structure and Organization"": 0,
+  ""Use of Evidence"": 0,
+  ""Changemaker Angle"": 1,
+  ""Depth of Analysis"": 0,
+  ""Clarity and Language"": 0
+}
+
+The student’s response shows a very brief mention that kids can be changemakers, which earns the single point for the Changemaker Angle criterion. However, the answer lacks a clear description of the garden feature, does not explain how systems thinking integrates the various parts of the garden, and does not discuss boundaries, interconnections, or provide any evidence or examples. The paragraph is disorganized and only 80 words, so it receives zero for Structure and Organization, Clarity and Language, and Depth of Analysis. Overall, the response meets only the Changemaker Angle criterion, resulting in a total score of 1 out of 9.","### Strengths
+* You highlighted that kids can be changemakers, showing an awareness of the student role in sustainability.
+
+### Areas for Improvement
+* Provide a clear description of the garden or energy system you’re designing.
+* Explain how different parts of the system (plants, sun, soil, water, students) work together.
+* Use examples or evidence to support your ideas and organize your thoughts into a more structured paragraph.
+
+### Advice
+* Keep thinking about how each element connects—this will make your answer stronger and more engaging!"
+31,Q3: Describe how knowledge of systems can help design a sustainable school feature like a garden or energy system.,Energy system like solar panels. Systems are connected. Benefits planet. I think it's important. (70 words),1,"{
+  ""Feature Description"": 1,
+  ""Systems Integration"": 0,
+  ""Boundary Benefits"": 0,
+  ""Interconnections"": 0,
+  ""Structure and Organization"": 0,
+  ""Use of Evidence"": 0,
+  ""Changemaker Angle"": 0,
+  ""Depth of Analysis"": 0,
+  ""Clarity and Language"": 0
+}
+
+The student correctly identified a sustainable school feature—solar panels—which earns a full point for Feature Description. However, the response lacks depth and detail across all other criteria. There is no explanation of how the solar system integrates with other school systems, no discussion of specific benefits to the planet or the school, and no evidence or examples to support the claim. The answer is very brief and does not show interconnections, structure, or a changemaker perspective. Consequently, all other categories receive zero points. The overall score reflects the need for more comprehensive, evidence‑based, and interconnected reasoning.","### Strengths
+- You mentioned a concrete sustainable feature (solar panels) and recognized that systems are connected.
+
+### Areas for Improvement
+- Explain how the solar panels fit into the school’s overall system (e.g., how they interact with the building, students, and teachers).
+- Describe specific benefits to the planet and the school, such as reduced energy costs or lower carbon emissions.
+- Provide at least one example or piece of evidence (e.g., a statistic or a real‑world example) to support your ideas.
+
+### Advice
+- Keep thinking about how each part of a system supports the others. The more details you add, the stronger your answer will be!"
+32,Q3: Describe how knowledge of systems can help design a sustainable school feature like a garden or energy system.,Knowing systems helps make a school garden. Inputs are water and sun. Processes plants grow. Outputs food. Benefits biodiversity boundary. Parts connect with soil. Kids can plant as changemakers. (150 words two paragraphs.),8,"{
+  ""Feature Description"": 1,
+  ""Systems Integration"": 1,
+  ""Boundary Benefits"": 1,
+  ""Interconnections"": 1,
+  ""Structure and Organization"": 1,
+  ""Use of Evidence"": 0,
+  ""Changemaker Angle"": 1,
+  ""Depth of Analysis"": 1,
+  ""Clarity and Language"": 1
+}
+
+The student clearly identifies a sustainable school feature—a garden—and outlines its basic inputs (water, sun), processes (plant growth), and outputs (food). This satisfies the Feature Description criterion. The answer shows an understanding of how different elements (water, sun, soil, plants) work together, meeting the Systems Integration requirement. The mention of biodiversity benefits addresses Boundary Benefits, and the brief reference to parts connecting with soil covers Interconnections. The response is organized into two paragraphs, so Structure and Organization is awarded full credit. The language is simple and understandable, earning full points for Clarity and Language. The student does not provide specific evidence or data to support claims, so Use of Evidence receives zero. While the answer touches on the role of students as changemakers, it only briefly mentions this, so Changemaker Angle is awarded full credit. Depth of Analysis is limited; the explanation is surface‑level and lacks detail, so the student receives half of the possible points for this criterion. Overall, the answer demonstrates solid foundational knowledge but would benefit from more evidence and deeper exploration of the system’s dynamics.","### Strengths
+* You clearly described the garden feature and its basic inputs, processes, and outputs.
+* You showed how different parts of the system (water, sun, soil, plants) work together.
+* You mentioned the benefits for biodiversity and how students can act as changemakers.
+* Your language is clear and easy to understand.
+
+### Areas for Improvement
+* Add specific examples or evidence (e.g., how much water a plant needs, or a real garden project you’ve seen) to support your points.
+* Expand on how the garden connects to other parts of the school system (e.g., learning, waste reduction) for deeper analysis.
+
+### Advice
+* Keep exploring the connections in the system—think about how the garden could help with learning, health, or the school’s energy use. Great start, and you’re on the right track!"
+33,Q3: Describe how knowledge of systems can help design a sustainable school feature like a garden or energy system.,For energy system solar panels use sun input. Process makes electricity. Output power for school. Helps climate boundary by less fossil fuels. Connections with air system. Be a changemaker by using it. (160 words),5,"{
+  ""Feature Description"": 1,
+  ""Systems Integration"": 0,
+  ""Boundary Benefits"": 1,
+  ""Interconnections"": 1,
+  ""Structure and Organization"": 0,
+  ""Use of Evidence"": 0,
+  ""Changemaker Angle"": 1,
+  ""Depth of Analysis"": 0,
+  ""Clarity and Language"": 1
+}
+
+The student correctly identified a sustainable feature (solar panels) and noted a boundary benefit (reducing fossil fuel use), earning full points for Feature Description and Boundary Benefits. They also mentioned a connection to the air system, which satisfies the Interconnections criterion. The Changemaker Angle is present with the statement about being a changemaker. However, the response lacks depth: it does not explain how the solar panels fit into the larger school system, nor does it provide evidence or examples. The structure is very brief and disjointed, and there is no supporting evidence or detailed analysis, so those criteria receive zero. Clarity is acceptable for a 12‑15 year old, so a full point is awarded for Clarity and Language. Overall, the answer shows promise but needs more detail and organization to reach higher marks.","### Strengths
+* You mentioned solar panels and how they can reduce fossil fuel use, showing you understand a key benefit of sustainable features.
+* You noted a connection to the air system and expressed a desire to be a changemaker.
+
+### Areas for Improvement
+* Add more detail about how the solar panels work and how they fit into the school’s overall system.
+* Include a specific example or evidence (e.g., a real school that uses solar panels) to support your points.
+* Organize your ideas into clear sentences or bullet points so the reader can follow your argument easily.
+
+### Advice
+* Keep exploring how different parts of a system interact—this will make your explanations stronger and more interesting!"
+34,Q3: Describe how knowledge of systems can help design a sustainable school feature like a garden or energy system.,Systems knowledge for garden design. Inputs soil nutrients processes photosynthesis outputs veggies. Benefits land change boundary. Interconnections plants and animals. Evidence from chapter on ecosystems. Changemakers design it. (180 words structured.),7,"{
+  ""Feature Description"": 1,
+  ""Systems Integration"": 1,
+  ""Boundary Benefits"": 1,
+  ""Interconnections"": 1,
+  ""Structure and Organization"": 0,
+  ""Use of Evidence"": 1,
+  ""Changemaker Angle"": 1,
+  ""Depth of Analysis"": 0,
+  ""Clarity and Language"": 0
+}
+
+The student’s answer shows a clear understanding of the garden feature, listing inputs (soil nutrients), processes (photosynthesis), and outputs (veggies), which earns full credit for Feature Description. They also mention how different parts of the system interact, so Systems Integration is fully met. The brief mention of ""Benefits land change boundary"" indicates an attempt at Boundary Benefits, so we award full credit, though the explanation could be clearer. Interconnections are noted with plants and animals, so that criterion is satisfied. The answer lacks a clear paragraph structure or logical flow, so Structure and Organization receives 0. The student cites evidence from the chapter on ecosystems, earning full credit for Use of Evidence. The mention of ""Changemakers design it"" shows a Changemaker Angle, so that is full credit. Depth of Analysis is minimal; the response lists facts without exploring implications or connections, so it receives 0. Finally, the language is somewhat fragmented and hard to follow, so Clarity and Language is 0. Overall, the student demonstrates good foundational knowledge but needs to develop organization, depth, and clearer language to strengthen the response.","### Strengths
+- You correctly identified the key components of a garden system: inputs, processes, and outputs.
+- You mentioned the interconnections between plants and animals.
+- You referenced evidence from the chapter on ecosystems.
+- You highlighted the role of changemakers in designing the garden.
+
+### Areas for Improvement
+- Organize your answer into clear sentences or bullet points so the reader can follow your ideas easily.
+- Expand on how the benefits affect the boundaries of the school system (e.g., how the garden changes the school’s environment or resources).
+- Provide more detail about the impact of the garden—what specific benefits it brings and why they matter.
+- Use complete sentences and clearer language to make your explanation easier to read.
+
+### Advice
+Keep up the great work! Adding a bit more detail and structure will make your ideas shine even brighter."
+35,Q3: Describe how knowledge of systems can help design a sustainable school feature like a garden or energy system.,Nature uses circular like leaves fall decompose to nutrients for soil new plants grow. Humans can learn by composting food waste to make soil for gardens reducing landfill. This connects to no waste in economy.,,Error: Invalid LLM response,Error: Invalid LLM response
+36,Q3: Describe how knowledge of systems can help design a sustainable school feature like a garden or energy system.,Water cycle in nature: rain evaporate repeat. Humans learn rainwater harvesting. Helps save resources.,,Error: Invalid LLM response,Error: Invalid LLM response
+37,Q3: Describe how knowledge of systems can help design a sustainable school feature like a garden or energy system.,Nature's circular: dead animals break down by bacteria nutrients back to earth. Humans can copy with biodegradable stuff. Connects to circular benefits like less pollution.,,Error: Invalid LLM response,Error: Invalid LLM response
+38,Q3: Describe how knowledge of systems can help design a sustainable school feature like a garden or energy system.,In nature trees drop seeds grow new cycle. Humans learn plant more trees for carbon. Benefits economy.,,Error: Invalid LLM response,Error: Invalid LLM response
+39,Q3: Describe how knowledge of systems can help design a sustainable school feature like a garden or energy system.,Nature's systems are circular like nitrogen cycle: plants take animals eat waste returns via decomposers. Humans can learn by using compost in farming closing loops. This connects to circular economy by regenerating soil and reducing fertilizer pollution.,,Error: Invalid LLM response,Error: Invalid LLM response
+40,Q4: Explain what an ecological footprint is and how to reduce it with one action.,Ecological footprint means resources we use from nature. An action to help is eating less meat.,,Error: Invalid LLM response,Error: Invalid LLM response
+41,Q4: Explain what an ecological footprint is and how to reduce it with one action.,It's how much of the earth we use. One action is to reduce or recycle the stuff we use.,,Error: Invalid LLM response,Error: Invalid LLM response
+42,Q4: Explain what an ecological footprint is and how to reduce it with one action.,A footprint is the amount of land and water you use. To reduce our footprint we coulc eat less meat cos it uses less water and land.,,Error: Invalid LLM response,Error: Invalid LLM response
+43,Q4: Explain what an ecological footprint is and how to reduce it with one action.,"Footprint is when we use resources like food and energy. One action could be if we walk to school so we reduce cars on the road, which use petrol which is a kind of energy. ",,Error: Invalid LLM response,Error: Invalid LLM response
+44,Q4: Explain what an ecological footprint is and how to reduce it with one action.,An ecological footprint is how much nature you use up. One action is use less plastic by reusing bags. It reduces pollution.,,Error: Invalid LLM response,Error: Invalid LLM response
+45,Q4: Explain what an ecological footprint is and how to reduce it with one action.,A footprint is about our use of land and water resources. To reduce it we can eat less meat because meat needs lots of land and water so less footprint.,,Error: Invalid LLM response,Error: Invalid LLM response
+46,Q4: Explain what an ecological footprint is and how to reduce it with one action.,It's a way to see how much earth resources we take. Action could be to cycle instead of going by car which causes more waste and pollution. Plus cycling also saves fuel.,,Error: Invalid LLM response,Error: Invalid LLM response
+47,Q4: Explain what an ecological footprint is and how to reduce it with one action.,Ecological footprint is the amount of land and water we use by living on the planet. We can reduce this by turning off lights which saves energy and reduces your footprint.,,Error: Invalid LLM response,Error: Invalid LLM response
+48,Q4: Explain what an ecological footprint is and how to reduce it with one action.,An ecological footprint is a measure of how much natural resources like land and water you use in your daily life. One way to reduce it is by eating less meat such as having veggie days because meat production uses a lot of water and land so your footprint gets smaller and helps the planet.,,Error: Invalid LLM response,Error: Invalid LLM response
+49,Q4: Explain what an ecological footprint is and how to reduce it with one action.,It's how to measure the earth's resources for your lifestyle. You could reduce by reusing clothes which reduces manufacturing needs and this lowers your footprint because of less waste.,,Error: Invalid LLM response,Error: Invalid LLM response
+50,Q4: Explain what an ecological footprint is and how to reduce it with one action.,A footprint shows how much earth you need for your stuff. To reduce buy less new things like second-hand which saves resources and cuts down your use.,,Error: Invalid LLM response,Error: Invalid LLM response
+51,Q4: Explain what an ecological footprint is and how to reduce it with one action.,The ecological footprint is a way to measure the land water and other resources your life requires. One action is to have shorter showers which saves water and reduces the footprint because less water is used from rivers and lakes.,,Error: Invalid LLM response,Error: Invalid LLM response
+52,Q5: Explain what Overshoot Day is and suggest two ways to push it later in the year.,Overshoot day is when we use too much. Ways to push it later could be walking or recycling more.,,Error: Invalid LLM response,Error: Invalid LLM response
+53,Q5: Explain what Overshoot Day is and suggest two ways to push it later in the year.,Overshoot Day means we used up earth's stuff for the year. Ways to help may be planting more trees and using less plastic.,,Error: Invalid LLM response,Error: Invalid LLM response
+54,Q5: Explain what Overshoot Day is and suggest two ways to push it later in the year.,This is when we've used more resources than earth can make in a year. We can push it later if we do things like cycle to school or eat less meat.,,Error: Invalid LLM response,Error: Invalid LLM response
+55,Q5: Explain what Overshoot Day is and suggest two ways to push it later in the year.,It's the date when resources are over for the year. Suggest recycle and save water. Recycle means less waste.,,Error: Invalid LLM response,Error: Invalid LLM response
+56,Q5: Explain what Overshoot Day is and suggest two ways to push it later in the year.,Overshoot Day is the day where we use up earth's resources and it doesn't have time to renew. Ways include use public bus or have meat-free days. Bus reduces cars and pollution.,,Error: Invalid LLM response,Error: Invalid LLM response
+57,Q5: Explain what Overshoot Day is and suggest two ways to push it later in the year.,Overshoot Day is when human use goes beyond what earth can recover that year. Two ways to push it later could be turn off lights to save energy and reuse bags to cut plastic. Saving energy means we need less power plants.,,Error: Invalid LLM response,Error: Invalid LLM response
+58,Q5: Explain what Overshoot Day is and suggest two ways to push it later in the year.,This is the day we use more than the earth can give. Suggest we plant trees and walk more. Trees also absorb CO2 which can help push the day later.,,Error: Invalid LLM response,Error: Invalid LLM response
+59,Q5: Explain what Overshoot Day is and suggest two ways to push it later in the year.,It's when resources we use are more than the earth has. If we have shorter showers we can save water and. public transport will reduce cars which cause pollution.,,Error: Invalid LLM response,Error: Invalid LLM response
+60,Q5: Explain what Overshoot Day is and suggest two ways to push it later in the year.,Overshoot Day is the date in the year when humanity has used more natural resources than the earth can renew in that whole year. To push it later one way is to have one meat-free meal a week which reduces water and land use for farming so less resources used overall. Another way is to recycle everything possible like plastic and paper which cuts down on new production and waste helping the planet regenerate better.,,Error: Invalid LLM response,Error: Invalid LLM response
+61,Q5: Explain what Overshoot Day is and suggest two ways to push it later in the year.,Overshoot Day means we've overused earth's yearly resources by that day. Ways: cycle instead of car plant trees. Cycling lowers emissions trees take CO2 both push day later by saving resources.,,Error: Invalid LLM response,Error: Invalid LLM response
+62,Q5: Explain what Overshoot Day is and suggest two ways to push it later in the year.,"Overshoot Day is when our resource use goes beyond what earth can provide every year. Two ways we can help include use public transport and eat local food. Transport reduces use of petrol and local food causes less transport emissions, which could help to push the day back.",,Error: Invalid LLM response,Error: Invalid LLM response
+63,Q6: Explain the difference between a linear economy and a circular economy.,Linear is bad cos it causes waste. Circular is better because less waste.,2,"{
+  ""Difference Accuracy"": 1,
+  ""Key Features"": 0,
+  ""Example Relevance"": 0,
+  ""Clarity and Structure"": 1
+}
+
+The student correctly identified that a linear economy leads to waste while a circular economy reduces waste, which satisfies the Difference Accuracy criterion at the maximum score. However, the answer lacks detail on the key features that distinguish the two models (e.g., take‑make‑dispose vs. reduce‑reuse‑recycle), so Key Features receives 0. No example was provided, so Example Relevance is 0. The response is concise and easy to understand, meeting the Clarity and Structure criterion, earning 1 point. Overall, the student shows a basic grasp but needs to expand on the concepts and provide concrete examples.","### Strengths
+* You correctly pointed out that a linear economy creates waste while a circular economy reduces waste.
+
+### Areas for Improvement
+* Add more detail about the key features that separate the two models (e.g., take‑make‑dispose vs. reduce‑reuse‑recycle).
+* Include a specific example to illustrate how a circular approach works in real life.
+
+### Advice
+* Keep up the good start—just add a bit more detail and an example to strengthen your answer!"
+64,Q6: Explain the difference between a linear economy and a circular economy.,Linear economy is take make waste. Circular is in cycles like reuse and recycle. Example could be a T-shirt which in linear gets thrown away but is recycled in circular.,,Error: Invalid LLM response,Error: Invalid LLM response
+65,Q6: Explain the difference between a linear economy and a circular economy.,Linear is taking stuff making product and then wasting it. Circular is when you keep using it. T-shirt is a good example.,,Error: Invalid LLM response,Error: Invalid LLM response
+66,Q6: Explain the difference between a linear economy and a circular economy.,The difference is linear is a straight line when you take make and dispose of stuff. Circular is when you have a loop to repair and recycle. If. you bin a T-shirt it is linear but if you keep using it it is circular.,,Error: Invalid LLM response,Error: Invalid LLM response
+67,Q6: Explain the difference between a linear economy and a circular economy.,Linear economy is when you take resources to make things then you waste them. Circular economy is when you reuse repair and there is no waste. A T-shirt is a good example where it can be thrown away or repaired and reused.,,Error: Invalid LLM response,Error: Invalid LLM response
+68,Q6: Explain the difference between a linear economy and a circular economy.,"Difference between linear and circular is that linear is take-make-waste but circular keeps materials in use. Waste is bad and reusing is good. T-shirt is an example of linear when it ends up in landfill but if you compost it, it can be circular because it goes into the soil.",,Error: Invalid LLM response,Error: Invalid LLM response
+69,Q6: Explain the difference between a linear economy and a circular economy.,Linear is when you take make and throw away. Circular recycles materials. Like a t-shirt which can you can save from the bin and fix and recycle it.,,Error: Invalid LLM response,Error: Invalid LLM response
+70,Q6: Explain the difference between a linear economy and a circular economy.,Linear economy takes makes and wastes. Circular one reuses in cycles. The main difference is there is no waste. Example might be a phone you might have thrown away but you can repair it instead.,,Error: Invalid LLM response,Error: Invalid LLM response
+71,Q6: Explain the difference between a linear economy and a circular economy.,The difference is that a linear economy follows 'take-make-waste' where resources are used once and discarded creating pollution. A circular economy uses cycles to reuse and repair eliminating waste. Key features are waste in linear and regeneration in circular. For example a T-shirt in linear is made from cotton worn then thrown away; in circular it's designed to be recycled into new fabric.,,Error: Invalid LLM response,Error: Invalid LLM response
+72,Q6: Explain the difference between a linear economy and a circular economy.,Linear economy is straight: take from nature make product waste it. Circular is round: keep using repair return to nature. Features waste vs no waste. T-shirt linear: grow cotton make bin. Circular: recycle cotton.,,Error: Invalid LLM response,Error: Invalid LLM response
+73,Q6: Explain the difference between a linear economy and a circular economy.,Difference: linear take-make-dispose with waste circular cycles with reuse. Key features pollution vs regeneration. Example bottle linear thrown circular refilled.,,Error: Invalid LLM response,Error: Invalid LLM response
+74,Q6: Explain the difference between a linear economy and a circular economy.,Linear: take resources make waste causing harm. Circular: reuse repair regenerate. Waste feature in linear cycles in circular. T-shirt example linear landfill circular remade.,,Error: Invalid LLM response,Error: Invalid LLM response
+75,Q6: Explain the difference between a linear economy and a circular economy.,The main difference is linear economy is 'take-make-waste' leading to trash while circular is loops of reuse and recycle no waste. Features: linear depletes circular sustains. For a T-shirt linear: cotton grown shirt made discarded; circular: shirt repaired or fabric reused.,,Error: Invalid LLM response,Error: Invalid LLM response
+76,Q7: Describe how nature uses circular systems and how humans can learn from it.,Nature works in cycles. Humans can learn from this.,,Error: Invalid LLM response,Error: Invalid LLM response
+77,Q7: Describe how nature uses circular systems and how humans can learn from it.,"Circular is just like nature, like water and rain. We can learn by recycling.",,Error: Invalid LLM response,Error: Invalid LLM response
+78,Q7: Describe how nature uses circular systems and how humans can learn from it.,Nature works in circular way for example with leaf decay which turns to soil. Humans can learn by composting waste which helps reduce waste and is good for the soil.,,Error: Invalid LLM response,Error: Invalid LLM response
+79,Q7: Describe how nature uses circular systems and how humans can learn from it.,In nature water recycles because it evaporates and rains. Humans can copy this by reusing water. This means less pollution.,,Error: Invalid LLM response,Error: Invalid LLM response
+80,Q7: Describe how nature uses circular systems and how humans can learn from it.,In nature animals eat plants and their waste fertilizes the soil. Humans can learn from mature to repair things. These are good for the circular economy.,,Error: Invalid LLM response,Error: Invalid LLM response
+81,Q7: Describe how nature uses circular systems and how humans can learn from it.,Nature uses circular system like when leaves fall and decompose to nutrients for soil and then new plants grow. Humans can learn by composting food waste to make soil for gardens. This can help to reduce landfill and is important for the environment.,,Error: Invalid LLM response,Error: Invalid LLM response
+82,Q7: Describe how nature uses circular systems and how humans can learn from it.,Water cycle is a good example of circular in nature: rain evaporates and then this repeats. Humans can learn for rainwater harvesting. This will help to save resources.,,Error: Invalid LLM response,Error: Invalid LLM response
+83,Q7: Describe how nature uses circular systems and how humans can learn from it.,For example in nature dead animals break down by bacteria and put nutrients back into the earth. Humans can copy this by making things that are biodegradable. This also gives other circular benefits like less pollution.,,Error: Invalid LLM response,Error: Invalid LLM response
+84,Q7: Describe how nature uses circular systems and how humans can learn from it.,Nature uses circular systems for example leaf decay: leaves fall decompose via fungi become soil nutrients for new growth no waste. Humans can learn by designing products that biodegrade or reuse like composting waste to fertilize farms. This connects to circular economy by reducing resource use and regenerating nature like biological cycle.,,Error: Invalid LLM response,Error: Invalid LLM response
+85,Q7: Describe how nature uses circular systems and how humans can learn from it.,Water cycle in nature: evaporates from oceans forms clouds rains back endless loop. Humans learn by recycling water in homes like greywater for gardens. Connects to saving freshwater benefits circular no waste.,,Error: Invalid LLM response,Error: Invalid LLM response
+86,Q7: Describe how nature uses circular systems and how humans can learn from it.,Nature: food chain waste from one is food for another. Humans mimic with zero waste designs. Links to economy regeneration.,,Error: Invalid LLM response,Error: Invalid LLM response
+87,Q7: Describe how nature uses circular systems and how humans can learn from it.,Circular in nature: sun energy to plants animals eat die return to soil. Humans learn solar power and compost. Benefits less depletion.,,Error: Invalid LLM response,Error: Invalid LLM response
+88,Q7: Describe how nature uses circular systems and how humans can learn from it.,Nature's systems are circular like nitrogen cycle: plants take animals eat waste returns via decomposers. Humans can learn by using compost in farming closing loops. This connects to circular economy by regenerating soil and reducing fertilizer pollution.,,Error: Invalid LLM response,Error: Invalid LLM response
+89,Q8: Discuss the problems with linear economies and how shifting to circular can solve them.,Problems with linear is that it causes pollution. If we shift to circular we can reduce it by reusing things. Example of this could be a t-shirt. (80 words),,Error: Invalid LLM response,Error: Invalid LLM response
+90,Q8: Discuss the problems with linear economies and how shifting to circular can solve them.,A linear economy causes waste and pollution. Circular can fix this because it works in cycles like nature. e.g. a t-shirt can be thrown away or mended and recycled.,,Error: Invalid LLM response,Error: Invalid LLM response
+91,Q8: Discuss the problems with linear economies and how shifting to circular can solve them.,"Problems with linear means we take make and waste, and this means we have lots of rubbish in the sea. If we have a circular economy we can solve this by recycling and repair. Cycles could be biological for food and technical for plastics. This means we would have less rubbish. Example could be a recycled t-shirt",,Error: Invalid LLM response,Error: Invalid LLM response
+92,Q8: Discuss the problems with linear economies and how shifting to circular can solve them.,"Linear economies have problems like waste filling landfills and resource shortages. Shifting to circular helps by reusing materials in cycles like nature. We can use a biological cycle for organic stuff and a technical one for metals. Benefits might be creating new jobs, better environment and less pollution. A t-shirt is a good example where you can change it from linear to circular .",,Error: Invalid LLM response,Error: Invalid LLM response
+93,Q8: Discuss the problems with linear economies and how shifting to circular can solve them.,"Linear causes problems with biodiversity and pollution, like mining. If we move to circular we can close the loop and repair or reuse things. There are 2 cycles, biological, for example when plants decompose and technical whem we can repair things like toys or fridges. Benefits include less waste which is better for the planet.",,Error: Invalid LLM response,Error: Invalid LLM response
+94,Q8: Discuss the problems with linear economies and how shifting to circular can solve them.,Linear economies include things like factories which can cause habitat loss. Circular economy is when nature can repair and we use less of earths resources. Example of a cycle includes a repaired t-shirt or a recycled bottle. This helps with climate change also and it can create more jobs and fairer economy. It is an important shift because GDP and linear is not good enough to help people and the planet.,,Error: Invalid LLM response,Error: Invalid LLM response
+95,Q8: Discuss the problems with linear economies and how shifting to circular can solve them.,"Linear economies cause problems including massive waste leading to landfills and ocean plastic plus waste of resources which affects the planet's boundaries. If we shift to circular we can use biological cycles (e.g. composting waste like food) and technical cycles (e.g. repairing electronics instead of throwing them away). One other example might be T-shirts, which in linear economy means the cotton grown to make therm is thrown away. If we use a circular way it means the cotton is recycled. Benefits inclulde the environment (less pollution and nature can recover) and social, eg. new jobs. The chapter on doughnut economy shows how we can do this. This means we can prevent overshoot day and it is very important for both humans and the planet.",,Error: Invalid LLM response,Error: Invalid LLM response
+96,Q8: Discuss the problems with linear economies and how shifting to circular can solve them.,Problems with linear: waste overload climate impact from production. Circular shift solves through cycles. Biological: T-shirt composts back to soil. Technical: phone parts reused. Benefits: environmental reduced emissions social prosperity. Evidence nature's no waste. Depth: analyzes how it stays within boundaries. Clear language. Strong conclusion shift now.,,Error: Invalid LLM response,Error: Invalid LLM response
+97,Q8: Discuss the problems with linear economies and how shifting to circular can solve them.,Linear problems: pollution biodiversity loss. Circular solves regeneration. Examples cycles T-shirt biological metal technical. Benefits clean planet jobs. Evidence chapter doughnut. Analysis thoughtful comparisons. Conclusion summarizes.,,Error: Invalid LLM response,Error: Invalid LLM response
+98,Q8: Discuss the problems with linear economies and how shifting to circular can solve them.,Discussing linear problems: 'take-make-waste' leads to environmental degradation like plastic in oceans and social inequality from resource wars. Shifting to circular solves by mimicking nature's cycles—biological for decomposable items (T-shirt cotton returns to soil) and technical for durables (electronics refurbished). This reduces waste stays within planetary boundaries. Benefits: environmental (less biodiversity loss) social (inclusive growth). Chapter evidence on GDP flaws supports new measures. Analysis: circular prevents tipping points promotes doughnut balance. Clarity engaging. Conclusion: shift for better world.,,Error: Invalid LLM response,Error: Invalid LLM response
+99,Q8: Discuss the problems with linear economies and how shifting to circular can solve them.,Linear economies problems: waste accumulation resource scarcity crossing boundaries. Circular shift solves with closed loops. Cycles: biological T-shirt biodegrades technical battery recycled. Benefits eco regeneration social jobs. Evidence nature inspiration. Depth: compares to linear failures. Language clear. Conclusion strong on change.,,Error: Invalid LLM response,Error: Invalid LLM response

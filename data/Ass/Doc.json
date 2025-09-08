@@ -1,0 +1,332 @@
+[
+  {
+    "id": "1",
+    "text": "Chapter 1: Understanding Systems and Our Planet",
+    "source": "1"
+  },
+  {
+    "id": "2",
+    "text": "Key Terms and Definitions",
+    "source": "2"
+  },
+  {
+    "id": "3",
+    "text": "A system is a group of parts that are connected and work together to perform a function. These parts can be people, animals, machines, or even natural things like water and sunlight. Systems can be natural, such as a forest or a coral reef, or human-made, like a school or a city. Each part of a system depends on the others—if one part changes, the whole system might change too.",
+    "source": "3, 4, 5, 6"
+  },
+  {
+    "id": "4",
+    "text": "An ecosystem is a special type of natural system where living things (like plants, animals, and humans) interact with non-living things (like air, water, sunlight, and soil). These connections help keep life going. Ecosystems can be big, like a rainforest, or small, like a garden pond.",
+    "source": "7, 8"
+  },
+  {
+    "id": "5",
+    "text": "The Anthropocene is the name scientists give to the current time in Earth’s history. In this period, human activities—like building cities, cutting down forests, and burning fossil fuels—have become the biggest force changing the climate, landscapes, and natural systems of our planet.",
+    "source": "9, 10"
+  },
+  {
+    "id": "6",
+    "text": "A tipping point is a moment when something changes so much that it can’t go back to how it was before. In nature, a tipping point might be when a healthy rainforest dries out so much that it becomes a grassland. This change is often permanent and difficult to reverse.",
+    "source": "11, 12, 13"
+  },
+  {
+    "id": "7",
+    "text": "Planetary boundaries are nine limits created by scientists to help keep Earth’s systems safe and stable. A bit like the rules of a game. These boundaries act like warning signs to show us how much pressure Earth can handle before it becomes unsafe for people and other living things. If we go beyond these boundaries, we risk harming the planet in ways that are hard to fix.",
+    "source": "14, 15, 16"
+  },
+  {
+    "id": "8",
+    "text": "A positive feedback loop happens when one change causes more of the same change, and things get worse and worse. It's like a snowball rolling downhill and growing bigger and faster. For example, when trees are cut down, there’s less rain. Less rain means more trees die, which leads to even less rain—and so the cycle continues.",
+    "source": "17, 18, 19, 20"
+  },
+  {
+    "id": "9",
+    "text": "Main Content Sections",
+    "source": "21"
+  },
+  {
+    "id": "10",
+    "text": "a) What Is a System?",
+    "source": "22"
+  },
+  {
+    "id": "11",
+    "text": "Imagine riding a bike. All the parts—wheels, pedals, brakes, and handlebars—need to work together. If one part breaks, the whole bike might stop working. That’s what makes it a system. Nature is full of systems. These include how rain moves through a forest, how rivers flow, or how bees pollinate flowers. We call these natural systems ecosystems. These systems are sometimes hard to see, but they help keep everything in balance. Human life is also full of systems. Your school is a system made up of students, teachers, classrooms, books, and more. Your friendships are systems, too—made of shared experiences, emotions, and communication.",
+    "source": "23, 24, 25, 26, 27, 28"
+  },
+  {
+    "id": "12",
+    "text": "All systems have: Inputs – What goes into the system (like sunlight, water, people, or information). Processes – What happens inside the system (like learning, photosynthesis, or movement). Outputs – What comes out of the system (like oxygen, knowledge, or waste). When one part of a system changes, it affects the other parts. That’s why understanding systems is important—so we can keep them healthy and working well.",
+    "source": "28, 29, 30, 31, 32, 33"
+  },
+  {
+    "id": "13",
+    "text": "b) Exploring Ecosystems",
+    "source": "34"
+  },
+  {
+    "id": "14",
+    "text": "An ecosystem is a system where everything is connected—plants, animals, soil, water, and air. They rely on flows of inputs, processes, and outputs to stay in balance. Inputs are things that enter the system, like sunlight, rain, or nutrients from soil. Processes are what happens inside, like photosynthesis (how plants turn sunlight into energy) or digestion (how animals use food). Outputs are what comes out, like oxygen from plants or waste from animals.",
+    "source": "35, 36, 37, 38, 39"
+  },
+  {
+    "id": "15",
+    "text": "Let’s look at a rainforest: Sunlight helps plants grow. Plants feed animals and make oxygen. Animals spread seeds and fertilise the soil. Water carries nutrients and keeps everything alive. Each part of the rainforest has a role, from the tall canopy trees that collect sunlight, to the dark forest floor where decomposers break down dead material. If one part is removed—like animals going extinct or trees being cut down—the entire system can fall out of balance.",
+    "source": "40, 41, 42, 43, 44, 45, 46"
+  },
+  {
+    "id": "16",
+    "text": "The Wood Wide Web: How Trees Talk",
+    "source": "47"
+  },
+  {
+    "id": "17",
+    "text": "Deep underground, trees and plants are connected by networks of fungi. This hidden system is sometimes called the “wood wide web.” It’s like an internet for plants! Here’s what it does: Trees share nutrients with each other. They send warning signals about pests or diseases. Older trees help young seedlings by passing on sugars. Some trees send harmful chemicals to keep other plants away! This shows how ecosystems are full of surprising connections and relationships—even cooperation and competition among plants!",
+    "source": "48, 49, 50, 51, 52, 53, 54, 55"
+  },
+  {
+    "id": "18",
+    "text": "c) Human Impact on Natural Systems",
+    "source": "56"
+  },
+  {
+    "id": "19",
+    "text": "We are living in the Anthropocene—a time when human activity is changing Earth more than any natural force. The changes we make are big and powerful. Here are some surprising facts: Humans now move more soil and rock every year than all of Earth’s rivers and earthquakes combined. We have made so much concrete that it could cover the entire planet in a layer 2 millimetres thick. Every year, 300 million tonnes of plastic are produced—and found everywhere, from animals to oceans, and even inside our blood. We’ve cut down about 3 trillion trees—almost half of all the trees on Earth. 97% of all land mammals (by weight) are humans and the animals we raise, like cows and pigs. Only 3% are wild mammals. These changes are affecting Earth’s climate.",
+    "source": "57, 58, 59, 60, 61, 62, 63, 64, 65"
+  },
+  {
+    "id": "20",
+    "text": "Since the Industrial Revolution (when machines, factories, and fossil fuel use became common), the planet has warmed by over 1.2°C. That may not sound like much, but it’s causing: Ice caps to melt. Rainforests to dry out. More extreme weather: droughts, floods, and fires. Scientists say we must try to keep global warming under 1.5°C to avoid even more dangerous changes. If we stay below that, nature may have a chance to recover.",
+    "source": "66, 67, 68, 69, 70, 71, 72"
+  },
+  {
+    "id": "21",
+    "text": "d) Planetary Boundaries: Nature’s Safety Limits",
+    "source": "73"
+  },
+  {
+    "id": "22",
+    "text": "To protect Earth’s systems, scientists created the idea of planetary boundaries. These are like rules that help keep the planet safe and balanced. A bit like the rules of a game. There are 9 boundaries: Climate change – Caused by carbon dioxide (CO₂) and other gases warming the planet. Biodiversity loss – The extinction of animal and plant species. Ocean acidification – Oceans becoming more acidic because of CO₂, which harms sea life. Chemical pollution – Harmful substances like plastics and pesticides in air, water, and soil. Freshwater use – Using too much of the world’s lakes, rivers, and underground water. Land-system change – Turning forests and wild areas into farms, cities, or roads. Nitrogen and phosphorus cycles – These are used in fertilisers and can harm rivers, oceans and the animals that live in them if used too much. Atmospheric aerosols – Tiny particles in the air from pollution that affect climate and health. Ozone depletion – Damage to the ozone layer that protects us from the sun’s harmful rays. Breaking these boundaries is like breaking the rules of a game. Things can become unfair, unstable, or dangerous. Scientists believe we’ve already crossed 6 of the 9 boundaries, putting the planet’s health—and our own future—at risk.",
+    "source": "74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87"
+  },
+  {
+    "id": "23",
+    "text": "e) Becoming a Changemaker",
+    "source": "88"
+  },
+  {
+    "id": "24",
+    "text": "Even though these problems are serious, there’s still hope—because we can change our actions and help the planet recover. Here’s a real success story: In the 1980s, people learned that chemicals in spray cans and fridges were destroying the ozone layer. Countries worked together to ban those chemicals. Today, the ozone layer is healing—proof that global action can work!",
+    "source": "89, 90, 91, 92, 93"
+  },
+  {
+    "id": "25",
+    "text": "You can help too. Every choice we make matters. Here are some simple ways to be a changemaker: Use less energy: Turn off lights and electronics when you’re not using them. Walk or bike instead of riding in a car. Take public transport—it releases much less CO₂. Eat more plants: A flexitarian diet (mostly plant-based) uses less land, water, and energy than a meat-heavy one. Even having one meat-free meal per week helps! Refuse, Reuse, repair, recycle: Don’t throw away things that can be fixed or reused. Try to refuse buying new stuff that you don’t really need. Landfills release gases like methane that warm the planet even faster than CO₂. Plant trees: Trees absorb carbon dioxide and support life. They’re like nature’s superheroes. Even small changes make a big difference. For example, if every family in the UK swapped just one meat meal per week for a vegetarian one, it would reduce emissions as much as taking 16 million cars off the road!",
+    "source": "94, 95, 96, 97, 98, 99, 100, 101, 102, 103"
+  },
+  {
+    "id": "26",
+    "text": "Chapter 2: Sustainability",
+    "source": "104"
+  },
+  {
+    "id": "27",
+    "text": "Key Terms and Definitions",
+    "source": "105"
+  },
+  {
+    "id": "28",
+    "text": "Sustainability: Sustainability means using the Earth’s natural resources—like water, air, soil, and energy—in a way that meets our needs today without damaging the ability of future generations to meet their own needs. It’s about finding a fair balance between what people need to live well, what the planet can provide, and how we can continue to prosper and live well in the future. This includes making careful choices about how we use resources, reduce waste, and protect nature.",
+    "source": "106, 107, 108"
+  },
+  {
+    "id": "29",
+    "text": "Sustainable Development: Sustainable development is a global plan for improving life for people everywhere while also taking care of the planet. In 2015, the United Nations (UN) created 17 Sustainable Development Goals (SDGs) to guide this plan. These are also sometimes called the Global Goals. These goals aim to end poverty, ensure health and education, protect the environment, and create peace and equality—all by the year 2030.",
+    "source": "109, 110, 111"
+  },
+  {
+    "id": "30",
+    "text": "Systems Thinking: Systems thinking is a way of understanding how different things are connected and work together. For example, your school is a system made up of students, teachers, buildings, and schedules. Each part of your school system depends on the other to work well. Nature is a system too—trees, animals, water, and soil all depend on each other. Systems thinking helps us see the big picture, so we can understand how one small change in one part of a system might affect everything else.",
+    "source": "112, 113, 114, 115, 116"
+  },
+  {
+    "id": "31",
+    "text": "Ecological Footprint: Your ecological footprint is a way to measure how much of Earth’s land, water, and other natural resources you use. It includes things like the food you eat, the energy you use, and how you travel. A smaller footprint means you’re using fewer resources and living in a way that’s better for the planet.",
+    "source": "117, 118, 119"
+  },
+  {
+    "id": "32",
+    "text": "Overshoot Day: Overshoot Day is the date in a calendar year when humans have used more natural resources than the Earth can regenerate in that year. If everyone lived the same way as you, your personal Overshoot Day would show when we’d run out of that year’s resources. The earlier the date, the more damage is being done to the environment.",
+    "source": "120, 121, 122"
+  },
+  {
+    "id": "33",
+    "text": "UN Sustainable Development Goals (SDGs): The 17 SDGs were agreed upon by leaders from countries all around the world. Sometimes also called the Global Goals. They include goals like ending hunger, giving everyone access to clean water and education, fighting climate change, and protecting animals and ecosystems. These goals are all connected, and they guide how governments, schools, and people work together to create a better future by 2030.",
+    "source": "123, 124, 125"
+  },
+  {
+    "id": "34",
+    "text": "Planetary Boundaries: A bit like rules of a game, planetary boundaries are limits that scientists have identified to keep Earth safe and healthy. These boundaries include things like climate change, loss of biodiversity (the variety of living things), and pollution. If we stay within these boundaries, the planet can continue to support life. But if we cross them, it can lead to serious environmental damage that affects all living beings.",
+    "source": "126, 127, 128, 129"
+  },
+  {
+    "id": "35",
+    "text": "Main Content Sections",
+    "source": "130"
+  },
+  {
+    "id": "36",
+    "text": "What Is Sustainability and Why Does It Matter?",
+    "source": "131"
+  },
+  {
+    "id": "37",
+    "text": "Sustainability means making choices that allow people, animals, and nature to live in harmony now and in the future. Every time we take something from nature—like water to drink, trees for paper, or oil for fuel—we are using part of the planet’s resources. But Earth can only replace these resources at a certain speed. If we take too much, too quickly, or cause too much pollution, we risk damaging the planet’s ability to recover.",
+    "source": "132, 133, 134, 135"
+  },
+  {
+    "id": "38",
+    "text": "Scientists have identified “planetary boundaries”—limits we shouldn’t go beyond if we want Earth to stay healthy. Going over these boundaries can cause problems like rising temperatures (climate change), the loss of animals and plants (biodiversity loss), and dirty air and water (pollution). In Wales, this idea of caring for the future was made into law through the Well-being of Future Generations Act (2015). This law says that every public decision made in Wales must consider the long-term impact on people’s well-being, including those who haven’t been born yet. It’s a way of making sure we take care of both the present and the future.",
+    "source": "136, 137, 138, 139, 140"
+  },
+  {
+    "id": "39",
+    "text": "Are You Living Like Ego or Eco?",
+    "source": "141"
+  },
+  {
+    "id": "40",
+    "text": "Every day, the choices you make affect the planet. For example: Leaving the lights on wastes energy. Throwing food away wastes what was produced using water and farmland - and the decomposition of the waste releases gases like methane which warms the planet. Using lots of plastic adds to pollution - which affects both the planet and people. If you live without thinking about these effects, that’s called “Ego living.” Ego means ‘Self.’ It means putting your own comfort first, even if it harms the environment.",
+    "source": "142, 143, 144, 145, 146, 147"
+  },
+  {
+    "id": "41",
+    "text": "But if you: Turn off lights when you leave the room, Reuse or recycle materials, Walk or cycle instead of taking a car, Eat food that’s local and in season, then you are practicing “Eco living.” This means thinking not only about your own needs, but also about how your actions affect the planet and future generations. By becoming more aware of your choices and trying to make better ones, you can become a changemaker—someone who helps improve the world through their everyday actions.",
+    "source": "148, 149, 150, 151, 152, 153, 154"
+  },
+  {
+    "id": "42",
+    "text": "Understanding Your Ecological Footprint",
+    "source": "155"
+  },
+  {
+    "id": "43",
+    "text": "Have you ever thought about what it takes to make a T-shirt or a hamburger? Cotton needs water, burgers need land and animals, and transporting goods uses fuel. All of these things come from nature. Your ecological footprint is a way to measure how many natural resources you use in your daily life. There’s even a way to calculate your personal Overshoot Day—the date when you’ve used up your fair share of Earth’s yearly resources. The earlier this day is, the more your lifestyle is putting pressure on the planet. Here are some ways to reduce your ecological footprint: Eat less meat, especially beef, which uses a lot of land and water. Use public transport, walk, or cycle instead of driving. Buy fewer new things—repair or reuse instead. Choose items with less packaging. By learning about your footprint, you can make smart decisions that help protect nature and keep the planet healthy for everyone.",
+    "source": "156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166"
+  },
+  {
+    "id": "44",
+    "text": "What Are the Sustainable Development Goals (SDGs)?",
+    "source": "167"
+  },
+  {
+    "id": "45",
+    "text": "In 2015, world leaders came together and created 17 Sustainable Development Goals (SDGs) to help everyone live better lives and protect the planet. These goals are for everyone—rich or poor, young or old—and they guide how governments, businesses, schools, and communities can make the world more fair and sustainable. The goals are grouped into three main categories: Planet: These goals focus on the environment—clean water and air, action against climate change, life in oceans and forests, and protecting nature. People: These goals focus on human well-being—good health, education for all, gender equality, and safe communities. Prosperity: These goals focus on how we live and grow—making cities sustainable, using resources wisely, and helping economies thrive in fair and responsible ways. In your classroom, you might explore which SDGs matter most to you and your community. For example, if you’re designing a new school building, you might look at how to make it eco-friendly (Planet), inclusive for all students (People), and a place where innovation can grow (Prosperity).",
+    "source": "168, 169, 170, 171, 172, 173, 174, 175"
+  },
+  {
+    "id": "46",
+    "text": "The Role of Changemakers: Inspired by Rachel Carson",
+    "source": "176"
+  },
+  {
+    "id": "47",
+    "text": "In the 1960s, a scientist named Rachel Carson noticed that something strange was happening. Birds were disappearing. She didn’t hear them sing as much in springtime. She discovered that a type of chemical spray called DDT, used to kill pests on farms, was poisoning birds and harming other animals, too. Rachel Carson wrote a book called Silent Spring to warn people about the dangers of these chemicals. Her message was powerful, but many big companies that made the sprays didn’t like what she said. They tried to stop her. But Rachel didn’t give up. Her courage helped spark a new awareness about protecting the environment. Thanks to her work, governments made new laws to ban dangerous chemicals and protect nature. In the United States, her work led to the creation of the Environmental Protection Agency (EPA). Rachel Carson’s story shows that one person—especially someone who is brave, curious, and determined—can make a big difference. She is remembered as one of the first modern changemakers in the environmental movement. Her legacy inspires students around the world to stand up for what they believe in and protect the planet.",
+    "source": "177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187"
+  },
+  {
+    "id": "48",
+    "text": "Chapter 3: Rethinking the Circular Economy: From Waste to Wonder",
+    "source": "188"
+  },
+  {
+    "id": "49",
+    "text": "Key Terms and Definitions",
+    "source": "189"
+  },
+  {
+    "id": "50",
+    "text": "Economy: The economy is all the work, services, and trading that people do to meet their needs and wants. It includes everything from growing food, building houses, and teaching in schools, to making clothes, selling toys, or driving buses. It’s the system that keeps a society running.",
+    "source": "190, 191, 192"
+  },
+  {
+    "id": "51",
+    "text": "Linear Economy: This is a way of using resources called “take-make-dispose.” We take materials from nature (like trees or metals), make things (like furniture or phones), use them for a while, and then throw them away. This creates a lot of waste and uses up natural resources.",
+    "source": "193, 194, 195"
+  },
+  {
+    "id": "52",
+    "text": "Circular Economy: A circular economy is different. It’s designed so that materials can be reused, repaired, or recycled instead of being thrown away. This system tries to keep products and materials in use for as long as possible. It also helps nature by reducing pollution and waste, and using fewer natural resources.",
+    "source": "196, 197, 198"
+  },
+  {
+    "id": "53",
+    "text": "Biological Cycle: This is the natural part of the circular economy. It includes things like food, wood, and cotton—materials that come from nature and can safely return to nature. For example, food scraps can turn into compost and help plants grow.",
+    "source": "199, 200, 201"
+  },
+  {
+    "id": "54",
+    "text": "Technical Cycle: This part deals with things humans make that don’t break down naturally—like plastics, metals, or electronics. These materials can be reused, repaired, or recycled to avoid waste.",
+    "source": "202, 203"
+  },
+  {
+    "id": "55",
+    "text": "GDP (Gross Domestic Product): GDP stands for Gross Domestic Product. It’s the total monetary value of all the goods and services a country produces in a year. It’s often used to say how “successful” or “rich” a country is—but it doesn’t show important things - like if people are happy, being kind and helping others, or if nature is being protected.",
+    "source": "204, 205, 206"
+  },
+  {
+    "id": "56",
+    "text": "Doughnut Economics: This is a new way of thinking about success. It says we should live in a way that meets everyone’s needs (like food and shelter) but doesn’t harm the Earth. The “doughnut” shape shows the space between having too little and using too much. We don't want to fall into the hole in the middle of the doughnut, we need to stay in the doughnut ring!",
+    "source": "207, 208, 209, 210"
+  },
+  {
+    "id": "57",
+    "text": "Planetary Boundaries: These are the limits that scientists say we need to stay within to keep Earth healthy. A bit like the rules of a game. If we go beyond these boundaries—like causing too much pollution or destroying forests—it can damage the systems we depend on to survive.",
+    "source": "211, 212"
+  },
+  {
+    "id": "58",
+    "text": "Main Content Sections",
+    "source": "213"
+  },
+  {
+    "id": "59",
+    "text": "1. What Is an Economy, and Why Does It Matter?",
+    "source": "214"
+  },
+  {
+    "id": "60",
+    "text": "Every day, we take part in the economy—whether we realize it or not. Buying lunch, streaming a song, riding a bus, or using a mobile phone are all part of economic activity. The economy is the network of jobs, services, goods, and money that helps communities and countries function. But there’s a problem: not all economies are fair or good for the planet. Some economies grow quickly, but they can cause pollution, climate change, and even make some people very rich while others stay poor. So we must ask an important question: What should a good economy look like? Should we only count how much money a country makes, or should we also care about: How healthy and happy people are? If children have access to good schools? If we’re protecting forests, oceans, and animals? Economies should work for everyone—not just for profit, but for people and the planet too.",
+    "source": "215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225"
+  },
+  {
+    "id": "61",
+    "text": "2. From Linear to Circular: Rethinking Our Systems",
+    "source": "226"
+  },
+  {
+    "id": "62",
+    "text": "Right now, most of the world follows a linear economy. This means we: Take resources from nature (like wood, oil, or metal), Make products (like paper, cars, or clothes), Use them, And Throw them away. This creates a lot of waste. It fills up landfills, pollutes the ocean, and uses up valuable natural resources.",
+    "source": "227, 228, 229, 230, 231, 232"
+  },
+  {
+    "id": "63",
+    "text": "But there’s another way: the circular economy. A circular economy works more like nature. In the natural world, nothing is wasted. A fallen leaf becomes soil. Animal waste becomes nutrients for plants. Everything is part of a cycle. The circular economy has two main parts: 1. Biological Cycle: This includes natural materials—like food scraps, cotton, and paper. These can break down safely and return to the Earth as compost or nutrients. For example: Banana peels can become compost. Wool clothing can biodegrade naturally. 2. Technical Cycle: This is for materials that don’t break down easily—like plastic, glass, or metal. Instead of throwing them away, we: Repair a broken phone instead of buying a new one. Refurbish old computers so they can be used again. Recycle plastic bottles into new products. In the circular economy, we might lease items instead of owning them. For example: A company gives you a washing machine to use. When it breaks, they take it back, fix it, and let someone else use it. This means fewer new machines are made, and we reduce waste. This way of thinking saves resources, protects nature, and creates new types of jobs—like fixing electronics or designing products that can be reused again and again.",
+    "source": "233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249"
+  },
+  {
+    "id": "64",
+    "text": "3. Understanding the Doughnut: A New Way to Measure Progress",
+    "source": "250"
+  },
+  {
+    "id": "65",
+    "text": "For a long time, people thought that GDP was the best way to measure success. If a country had a high GDP, it was seen as wealthy or successful. But GDP doesn’t show: If people are happy or healthy, If the air is clean or the water is safe, Or if there is equality between people. It also ignores unpaid work, like caring for children or the elderly, and it doesn’t account for pollution or waste.",
+    "source": "251, 252, 253, 254, 255, 256, 257"
+  },
+  {
+    "id": "66",
+    "text": "That’s why Doughnut Economics was created by economist Kate Raworth. Imagine a doughnut (yes, the tasty kind!): The hole in the middle represents people who don’t have enough. They lack basic needs like food, clean water, housing, education, or healthcare. The outer crust is the planet’s environmental limits—things like climate change, air pollution, and loss of biodiversity. If we go beyond this outer ring, we harm the planet. The green space in the middle is the sweet spot. Here, everyone has what they need, and the planet stays healthy. This model helps us see what really matters: living well within the limits of nature, while making sure no one is left behind. Cities like Amsterdam have started using the doughnut model to: Plan cleaner transportation, Build energy-efficient homes, Improve education and health, And reduce pollution. Wales has also come up with its version of the doughnut. It’s a smart, fair, and sustainable way to design our future.",
+    "source": "258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273"
+  }
+]
