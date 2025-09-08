@@ -1,4 +1,4 @@
-ABSTRACT
+**ABSTRACT**
 
 This research addresses the need for a transparent, consistent, and pedagogically effective automated scoring system for open-ended student responses. While traditional automated essay scoring (AES) methods often rely on feature engineering or black-box models, they frequently lack the capacity for providing interpretable rationales and constructive feedback, which are essential for student learning. This study proposes and implements a novel Retrieval-Augmented Generation (RAG) framework to bridge this gap. Our methodology employs a dual-corpus approach, leveraging both a curated dataset of teacher-graded examples and a domain-specific factual corpus to ground a large language model (LLM) in specific context and content.
 
